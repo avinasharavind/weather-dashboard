@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<div id="container"></div>
+<link rel="stylesheet" href="../styles/style.css"/>
+<script type="module" crossorigin="anonymous">
+import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+//Shoutout to the d3.js documentation and adjacent resources.
+
+// Part 0: SVG & Data Setup
+	//0.1: Define SVG dimensions
+	const height = 900
+	const width = 1600
+
+	//0.2: Create SVG
+	const svg = d3.create("svg")
+		.attr("id", "mainSVG")
+		.attr("viewBox", [0, 0, width, height])
+		.style("color", "rgb(200, 200, 200)")
+
+	//0.3: Create visible viewbox for scaling
+	svg.append("rect")
+		.attr("x", "0")
+		.attr("y", "0")
+		.attr("width", width)
+		.attr("height", height)
+		.attr("fill", "none")
+		.attr("stroke", "white");
+
+	//0.4: Import Data
+	var hours = await d3.csv("../files/hourData.csv", (d) => {
+		return {
+			stTime: new Date(d.stTime),
+			temp: d.temp,
+			PoPs: d.PoPs,
+			dewpt: d.dewpt,
+			relHum: d.relHum,
+			wdSpd: d.wdSpd, 
+			wdDir: d.wdDir,
+			icon: d.icon,
+			appTemp: d.appTemp, 
+			cldCvr: d.cldCvr, 
+			wdGst: d.wdGst
+		};
+	});
+
+	var days = await d3.csv("../files/dayData.csv")
+
+// Part 1: Gauge Initialization Elements
+	//1.1: The Header
+	/*
+	const header = svg.append("g").attr("transform", "translate(105, 100)");
+
+	header.append("text")
+		.text("Weather Dashboard")
+		.attr("font-size", "50px")
+		.attr("fill", "rgb(200, 200, 200)")
+		.append("tspan")
+			.text("  for Edison, NJ")
+			.attr("word-spacing", "2")
+			.attr("font-weight", "lighter")
+			.attr("font-size", "30px")
+			.attr("fill", "rgb(175, 175, 175)"); */
+
+	//1.2: Gauge Reading
+	const tempLoc = "translate(320,540)"
+	const reading = svg.append("g")
+	reading.attr("transform", tempLoc);
+
+	const tempValue = reading.append("text")
+		.text("0")
+		.attr("font-size", "125px")
+		.attr("font-weight", "bolder")
+		.attr("text-anchor", "middle")
+		.attr("fill", "rgb(200, 200, 200)")
+		.attr("transform", "translate(0,0)");
+
+	//1.3: Move Temperature to Corner
+	 
+	const tempMove = d3.timeout(function() {
+		tempValue.transition()
+			.duration(1000)
+			.attrTween("transform", tempTween());
+	}, 1500) 
+
+	//1.4: Function for Animating Temperature
+	function tempTween() {
+		return function(text) {
+			const moveInterpolate = d3.interpolateString(tempValue.attr("transform"), "translate(-200,-200)")
+			const sizeInterpolate = d3.interpolateString(tempValue.attr("font-size"), "75px")
+			return function(t) {
+				tempValue.attr("transform", moveInterpolate(t))
+				tempValue.attr("font-size", sizeInterpolate(t))
+				return tempValue.attr("transform")
+			}
+		}
+	}
+	
+
+// Part 2: The Dashboard Arc
+	// Most of this is directly inspired by https://observablehq.com/@d3/arc-tween?intent=fork. Go check it out!
+	// 2.1: Define Variables
+	const dash = svg.append("g").attr("transform", "translate(320,540)");
+
+	const outerRadius = 225
+	const innerRadius = 175
+	const tau = 2 * Math.PI;
+	const min = -tau/3
+	const max = tau/3
+	const color = "purple"
+	const cFormula = d3.scaleSequential(d3.interpolateSpectral);
+
+	// 2.2: Create Arc w/o end angle
+	const arc = d3.arc()
+		.innerRadius(innerRadius)
+		.outerRadius(outerRadius)
+		.startAngle(min);
+
+	// 2.3: Create background gauge
+	const background = dash.append("path")
+		.datum({endAngle: max})
+		.style("fill", "#ddd")
+		.style("stroke", "black")
+		.style("stroke-width", "4")
+		.attr("d", arc);
+
+	// 2.4: Create foreground gauge
+	const foreground = dash.append("path")
+		.datum({endAngle: min})
+		.style("fill", "purple")
+		.style("stroke", "black")
+		.style("stroke-width", "4")
+		.attr("d", arc);
+
+	// 2.5: Create interval for Tween
+	const interval = d3.timeout(function() {
+		let angle = getAngle()
+		foreground.transition()
+			.duration(1000)
+			.attrTween("d", arcTween(angle))
+			.styleTween("fill", colorTween(angle));
+
+	}, 250)
+
+	// 2.6: Get Angle
+	function getAngle() {
+		return (hours[0]["temp"]/100)*(2*tau/3)-tau/3
+	}
+
+	// 2.7: Animate Gauge
+	function arcTween(newAngle) {
+		return function(d) {
+			const interpolate = d3.interpolate(d.endAngle, newAngle);
+			return function(t) {
+				d.endAngle = interpolate(t);
+				return arc(d);
+			}
+		}
+	}
+
+	// 2.8: Color Scale Gauge & Update Temp Value
+	function colorTween(newAngle) {
+		return function(d) {
+			const angPct = ((newAngle+tau/3)/(2*tau/3))
+			const tempolate = d3.interpolateRound(tempValue.text(), Math.round(100*angPct))
+			return function(t) {
+				const oldAngPct = ((d.endAngle+tau/3)/(2*tau/3))
+				this.style.fill = cFormula(1.10-oldAngPct)
+				tempValue.text(tempolate(t))
+				return this.style.fill;
+			}
+	}}
+	
+// Part 3: Main Initial Gauge Elements
+	//3.1: Current Weather Icon Display
+	let icon = "../images/icons/partly-cloudy.svg"
+	const graphic = svg.append("g")
+		.attr("id", "graphic");
+		graphic.append("svg:image")
+			.attr("href", icon)
+			.attr("width", "250")
+			.attr("x", "195")
+			.attr("y", "425");
+		graphic.attr("opacity", "0");
+		graphic.append("text")
+			.text("Partly Cloudy")
+			.attr("x", "320")
+			.attr("y", "825")
+			.attr("font-size", "45px")
+			.attr("font-weight", "bold")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)");
+	//3.2: Labels
+		//3.2.1: Temperature Label
+		const tempLabel = graphic.append("text")
+			.text("Temperature (F)")
+			.attr("x", "120")
+			.attr("y", "270")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)");
+		
+		//3.2.2: Relative Humidity Value
+		const relHumValue = graphic.append("text")
+			.text(hours[0]["relHum"])
+			.attr("font-size", "75px")
+			.attr("font-weight", "bolder")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "520")
+			.attr("y", "340");
+		
+		//3.2.3: Relative Humidity Label
+		const relHumLabel = graphic.append("text")
+			.text("Relative Humidity (%)")
+			.attr("x", "520")
+			.attr("y", "270")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)");
+		
+		//3.2.4: Feels Like Value
+		const slpValue = graphic.append("text")
+			.text(hours[0]["appTemp"])
+			.attr("font-size", "50px")
+			.attr("font-weight", "bolder")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "120")
+			.attr("y", "710");
+		
+		//3.2.5: Feels Like Label
+		const slpLabel = graphic.append("text")
+			.text("Feels Like (F)")
+			.attr("x", "120")
+			.attr("y", "740")
+			.attr("font-weight", "lighter")
+			.attr("font-size", "20px")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)");
+		//3.2.6: Wind Direction Value
+		const wdDirValue = graphic.append("text")
+			.text(hours[0]["wdDir"])
+			.attr("font-size", "50px")
+			.attr("font-weight", "bolder")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "320")
+			.attr("y", "710");
+		//3.2.7: Wind Direction Label
+		const wdDirLabel = graphic.append("text")
+			.text("Wind Direction")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "320")
+			.attr("y", "740");
+
+		//3.2.8: Wind Speed Value
+		const wdSpdValue = graphic.append("text")
+			.text(hours[0]["wdSpd"])
+			.attr("font-size", "50px")
+			.attr("font-weight", "bolder")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "520")
+			.attr("y", "710");
+
+		//3.2.9: Wind Speed Label
+		const wdSpdLabel = graphic.append("text")
+			.text("Wind Speed (mph)")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "520")
+			.attr("y", "740");
+		//3.2.10: Gauge Label
+
+		//3.2.11: Time Series Label
+
+	//3.3: Fade Elements In
+	const gaugeFade = d3.timeout(function() {
+		graphic.transition()
+			.duration(250)
+			.attrTween("opacity", opacityTween())
+	}, 2500)
+	//3.4: Function for Opacity Fade
+	function opacityTween() {
+		return function(g) {
+			const opacityInterpolate = d3.interpolateString(graphic.attr("opacity"), "1")
+			return function(t) {
+				graphic.attr("opacity", opacityInterpolate(t))
+				return graphic.attr("opacity")
+			}
+		}
+	}
+
+// Part 4: Axes for Time Series Data
+	// 4.1: Create the y-axis
+	const y = d3.scaleLinear()
+		.domain([0, 100])
+		.range([375, 25]);
+
+	const yaxis = graphic.append("g")
+		.attr("transform", `translate(750,300)`)
+		.attr("stroke", "rgb(200, 200, 200)")
+		.call(d3.axisLeft(y)
+				.tickSize(-800))
+		.call(g => g.selectAll(".tick line")
+          .attr("stroke-opacity", "0.75")
+          .attr("stroke-dasharray", "2.2")
+		)
+		.call(g => g.select(".domain")
+			.attr("opacity", "0"))
+		.call(g => g.selectAll(".tick text")
+				.attr("font-size", "21")
+				.attr("dx", "-16")
+			);
+
+	// 4.2: Create svg and define variables
+	const currentColor = "rgb(200, 200, 200)"
+	const graphwidth = 800
+	const graphheight = 450
+	var startingHour = 0
+	const endingHour = hours.length-1
+
+	const graph = graphic.append("svg")
+		.attr("viewBox", [0, 0, graphwidth, graphheight])
+		.attr("x", "750")
+		.attr("y", "300")
+		.attr("width", graphwidth)
+		.attr("height", graphheight)
+
+	// 4.3: Create the x-axis
+	var x = d3.scaleTime()
+		.domain([hours[startingHour]["stTime"], hours[endingHour]["stTime"]])
+		.range([0, endingHour*50]);
+	
+	const xaxis = graph.append("g")
+		.attr("transform", `translate(0,375)`)
+		.attr("stroke", "rgb(200, 200, 200)")
+		.call(d3.axisBottom(x)
+			.ticks(d3.timeHour.every(2))
+			.tickSize(15))
+		.call(g => g.selectAll(".tick text")
+			.attr("font-size", "21")
+			.attr("dy", "20")
+			.attr("dx", "20")
+			.attr("transform-origin", "(right, right)")
+			.attr("transform", "rotate(0)")
+			)
+		.call(g => g.selectAll(".tick line")
+			.remove())
+		.call(g => g.select(".domain")
+			.attr("opacity", "0")
+	);
+
+	// 4.4: Plot the temperature data
+	const barsCont = graph.append("g")
+	const bars = barsCont.selectAll()
+			.data(hours)
+			bars.join("rect")
+				.attr("x", (d) => x(d.stTime))
+				.attr("y", (d) => y(d.temp))
+				.attr("height", (d) => y(0) - y(d.temp))
+				.attr("width", "40")
+				.attr("transform", "translate(0,0)")
+				.attr("fill", (d) => cFormula(1.1 - d.temp/100))
+				.attr("stroke", "black");
+
+	// 4.5: Animate the changing axis
+	function getStartingHour(direction) {
+		if (startingHour-12<0 && direction==-1) {
+			return 0
+		} else {
+			if (startingHour+(direction*12) > endingHour-15) {
+				return endingHour-15
+			} else {
+				return startingHour+(direction*12)
+			}
+		}
+		};
+
+	function axisChange(direction) {d3.timeout(function() {
+		startingHour = (getStartingHour(direction))
+		console.log(startingHour)
+		xaxis.transition()
+			.duration(1000)
+			.call(d3.axisBottom(
+				d3.scaleTime()
+					.domain([hours[startingHour]["stTime"], hours[endingHour]["stTime"]])
+					.range([0, (endingHour*50)-(startingHour*50)]))
+				.ticks(d3.timeHour.every(2))
+				.tickSize(15))
+			.call(g => g.selectAll(".tick text")
+				.attr("font-size", "21")
+				.attr("dy", "20")
+				.attr("dx", "20")
+				.attr("transform-origin", "(right, right)")
+				.attr("transform", "rotate(0)"))
+			.call(g => g.selectAll(".tick line")
+				.remove())
+			.call(g => g.select(".domain")
+				.remove());
+	})}
+	
+	// 4.6: Animate the bars as axis changes
+	const tempBars = barsCont.selectAll("rect")
+	function barMove() {d3.timeout(function() {
+		const newLen = startingHour*50
+		tempBars.transition()
+			.duration(1000)
+			.attrTween("transform", barTween(newLen));
+	}) }
+
+	// 4.7: Function to animate bar movement
+	function barTween(newLen) {
+		return function(d) {
+			const moveInterpolate = d3.interpolateString(tempBars.attr("transform"), "translate(-" + newLen + ",0)")
+			return function(t) {
+				tempBars.attr("transform", moveInterpolate(t))
+				return tempBars.attr("transform")
+			}
+		}
+	}
+
+	// 4.8: Create Arrow Buttons
+	const rightButton = graphic.append("image")
+		.attr("id", "rightButton")
+		.attr("href", "../images/buttons/right-arrow.svg")
+		.attr("width", "50px")
+		.attr("height", "50px")
+		.attr("x", "1500px")
+		.attr("y", "250px")
+		.attr("fill", "rgb(200,200,200)")
+	
+	const leftButton = graphic.append("image")
+		.attr("id", "leftButton")
+		.attr("href", "../images/buttons/left-arrow.svg")
+		.attr("width", "50px")
+		.attr("height", "50px")
+		.attr("x", "750px")
+		.attr("y", "250px")
+		.attr("fill", "rgb(200,200,200)")
+	
+	// 4.9: Change Currently Displayed Time Period
+	rightButton.on("click", function(){
+		axisChange(1)
+		barMove()
+	})
+	leftButton.on("click", function(){
+		axisChange(-1)
+		barMove()
+	})
+
+// Part Final: Append the master SVG.
+container.append(svg.node());
+</script>
+
