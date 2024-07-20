@@ -26,7 +26,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		.attr("stroke", "white");
 
 	//0.4: Import Data
-	var hours = await d3.csv("/files/hourData.csv", (d) => {
+	var hours = await d3.csv("files/hourData.csv", (d) => {
 		return {
 			stTime: new Date(d.stTime),
 			temp: d.temp,
@@ -42,7 +42,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		};
 	});
 
-	var days = await d3.csv("/files/dayData.csv")
+	var days = await d3.csv("files/dayData.csv")
 
 // Part 1: Gauge Initialization Elements
 	//1.1: The Header
@@ -171,7 +171,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	
 // Part 3: Main Initial Gauge Elements
 	//3.1: Current Weather Icon Display
-	let icon = "/images/icons/partly-cloudy.svg"
+	let icon = "images/icons/partly-cloudy.svg"
 	const graphic = svg.append("g")
 		.attr("id", "graphic");
 		graphic.append("svg:image")
@@ -429,7 +429,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	// 4.8: Create Arrow Buttons
 	const rightButton = graphic.append("image")
 		.attr("id", "rightButton")
-		.attr("href", "/images/buttons/right-arrow.svg")
+		.attr("href", "images/buttons/right-arrow.svg")
 		.attr("width", "50px")
 		.attr("height", "50px")
 		.attr("x", "1500px")
@@ -438,7 +438,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	
 	const leftButton = graphic.append("image")
 		.attr("id", "leftButton")
-		.attr("href", "/images/buttons/left-arrow.svg")
+		.attr("href", "images/buttons/left-arrow.svg")
 		.attr("width", "50px")
 		.attr("height", "50px")
 		.attr("x", "750px")
