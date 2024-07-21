@@ -10,11 +10,16 @@ def get_hours():
     periods = []
     for ts in outlook["properties"]["periods"]:
         info = []
+        info.append(ts["number"])
 
         stTime = ts["startTime"]
         stTime = time.strptime(stTime, "%Y-%m-%dT%H:%M:%S%z")
         stTime = time.strftime("%Y-%m-%dT%H:%M:%S", stTime)
         info.append(stTime)
+
+        readTime = time.strptime(stTime, "%Y-%m-%dT%H:%M:%S")
+        readTime = time.strftime("%I %p, %a %b %d", readTime)
+        info.append(readTime)
 
         info.append(ts["temperature"])
         info.append(ts["probabilityOfPrecipitation"]["value"])
@@ -38,9 +43,10 @@ def get_hours():
         string = string.split(",")
         string = string[0]
         info.append(string)
+
         periods.append(info)
     
-    periods = pd.DataFrame(data=periods, columns=["stTime", "temp", "PoPs", "dewpt", "relHum", "wdSpd", "wdDir", "icon"])
+    periods = pd.DataFrame(data=periods, columns=["pdNum", "stTime", "readTime", "temp", "PoPs", "dewpt", "relHum", "wdSpd", "wdDir", "icon"])
 
     #get required data from griddata.json
     griddata = json.load(open("./files/griddata.json"))

@@ -28,7 +28,9 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	//0.4: Import Data
 	var hours = await d3.csv("files/hourData.csv", (d) => {
 		return {
+			pdNum: d.pdNum,
 			stTime: new Date(d.stTime),
+			readTime: d.readTime,
 			temp: d.temp,
 			PoPs: d.PoPs,
 			dewpt: d.dewpt,
@@ -60,7 +62,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("font-size", "30px")
 			.attr("fill", "rgb(175, 175, 175)"); */
 
-	//1.2: Gauge Reading
+	//1.2: Temperature Reading
 	const tempLoc = "translate(320,540)"
 	const reading = svg.append("g")
 	reading.attr("transform", tempLoc);
@@ -169,7 +171,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			}
 	}}
 	
-// Part 3: Main Initial Gauge Elements
+// Part 3: Main Gauge Elements
 	//3.1: Current Weather Icon Display
 	let icon = "images/icons/partly-cloudy.svg"
 	const graphic = svg.append("g")
@@ -220,7 +222,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("fill", "rgb(200, 200, 200)");
 		
 		//3.2.4: Feels Like Value
-		const slpValue = graphic.append("text")
+		const appTempValue = graphic.append("text")
 			.text(hours[0]["appTemp"])
 			.attr("font-size", "50px")
 			.attr("font-weight", "bolder")
@@ -230,7 +232,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("y", "710");
 		
 		//3.2.5: Feels Like Label
-		const slpLabel = graphic.append("text")
+		const appTempLabel = graphic.append("text")
 			.text("Feels Like (F)")
 			.attr("x", "120")
 			.attr("y", "740")
@@ -318,7 +320,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		}
 	}
 
-// Part 4: Axes for Time Series Data
+// Part 4: Time Series Elements
 	// 4.1: Create the y-axis
 	const y = d3.scaleLinear()
 		.domain([0, 100])
@@ -348,7 +350,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	const endingHour = hours.length-1
 
 	const graph = graphic.append("svg")
-		.attr("viewBox", [0, 0, graphwidth, graphheight])
+		.attr("viewBox", [-10, 0, graphwidth+5, graphheight])
 		.attr("x", "750")
 		.attr("y", "300")
 		.attr("width", graphwidth)
@@ -357,7 +359,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	// 4.3: Create the x-axis
 	var x = d3.scaleTime()
 		.domain([hours[startingHour]["stTime"], hours[endingHour]["stTime"]])
-		.range([0, endingHour*50]);
+		.range([4, endingHour*50]);
 	
 	const xaxis = graph.append("g")
 		.attr("transform", `translate(0,375)`)
@@ -380,16 +382,24 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
 	// 4.4: Plot the temperature data
 	const barsCont = graph.append("g")
+		.attr("id", "barsCont")
 	const bars = barsCont.selectAll()
 			.data(hours)
 			bars.join("rect")
+				.attr("id", (d) => "bar" + d.pdNum)
 				.attr("x", (d) => x(d.stTime))
 				.attr("y", (d) => y(d.temp))
 				.attr("height", (d) => y(0) - y(d.temp))
 				.attr("width", "40")
 				.attr("transform", "translate(0,0)")
 				.attr("fill", (d) => cFormula(1.1 - d.temp/100))
-				.attr("stroke", "black");
+				.attr("stroke", "black")
+				.attr("stroke-width", "3px")
+				.attr("opacity", "100%")
+				.on("mouseenter", function(d) { 
+					barHover(d.target)})
+				.on("mouseleave", function(d) { 
+					barLeave(d.target)})
 
 	// 4.5: Animate the changing axis
 	function getStartingHour(direction) {
@@ -412,7 +422,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.call(d3.axisBottom(
 				d3.scaleTime()
 					.domain([hours[startingHour]["stTime"], hours[endingHour]["stTime"]])
-					.range([0, (endingHour*50)-(startingHour*50)]))
+					.range([4, (endingHour*50)-(startingHour*50)]))
 				.ticks(d3.timeHour.every(2))
 				.tickSize(15))
 			.call(g => g.selectAll(".tick text")
@@ -488,6 +498,29 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			leftButton.on("mouseleave", function(){
 				leftButton.attr("opacity", "100%")
 			})
+
+// Part 5: Hourly Forecast Interactions
+	// 5.1: Dim Bars on Hover
+	function barHover(target) { 
+		const currentBar = barsCont.select("#"+target.id)
+		const barData = currentBar.datum()
+		currentBar.attr("opacity", "50%")
+		tempValue.text(barData.temp)
+		relHumValue.text(barData.relHum)
+		appTempValue.text(barData.appTemp)
+		wdDirValue.text(barData.wdDir)
+		wdSpdValue.text(barData.wdSpd)
+		gaugeLabel.text(barData.readTime)
+		foreground.transition()
+			.duration(250)
+			.attrTween("d", arcTween((barData.temp/100)*(2*tau/3)-tau/3))
+			.styleTween("fill", colorTween((barData.temp/100)*(2*tau/3)-tau/3));
+		
+	}
+	function barLeave(target) {
+		const currentBar = barsCont.select("#"+target.id)
+		currentBar.attr("opacity", "100%")
+	}
 
 // Part Final: Append the master SVG.
 container.append(svg.node());

@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-07-21T00:29:02+00:00",
-        "updateTime": "2024-07-20T23:57:53+00:00",
-        "validTimes": "2024-07-20T17:00:00+00:00/P8D",
+        "generatedAt": "2024-07-21T03:05:43+00:00",
+        "updateTime": "2024-07-21T02:13:36+00:00",
+        "validTimes": "2024-07-20T20:00:00+00:00/P7DT21H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 32.003999999999998
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-07-20T20:00:00-04:00",
+                "startTime": "2024-07-20T23:00:00-04:00",
                 "endTime": "2024-07-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 69,
