@@ -11,6 +11,12 @@ def get_days():
     for ts in outlook["properties"]["periods"]:
         info = []
         info.append(ts["name"])
+
+        stTime = ts["startTime"]
+        stTime = time.strptime(stTime, "%Y-%m-%dT%H:%M:%S%z")
+        stTime = time.strftime("%Y-%m-%dT%H:%M:%S", stTime)
+        info.append(stTime)
+
         info.append(ts["isDaytime"])
         info.append(ts["temperature"])
         info.append(ts["probabilityOfPrecipitation"]["value"])
@@ -29,6 +35,6 @@ def get_days():
         info.append(ts["detailedForecast"])
         periods.append(info)
 
-    periods = pd.DataFrame(data=periods, columns=["name", "isDay", "Temp", "PoPs", "wdSpd", "wdDir", "icon", "longFcst"])
+    periods = pd.DataFrame(data=periods, columns=["name", "stTime", "isDay", "Temp", "PoPs", "wdSpd", "wdDir", "icon", "longFcst"])
 
     return periods
