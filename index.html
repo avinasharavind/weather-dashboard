@@ -40,7 +40,8 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			icon: d.icon,
 			appTemp: d.appTemp, 
 			cldCvr: d.cldCvr, 
-			wdGst: d.wdGst
+			wdGst: d.wdGst,
+			shrtFcst: d.shrtFcst,
 		};
 	});
 
@@ -175,22 +176,39 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	//3.1: Current Weather Icon Display
 	let icon = "images/icons/partly-cloudy.svg"
 	const graphic = svg.append("g")
-		.attr("id", "graphic");
-		graphic.append("svg:image")
+		.attr("id", "graphic")
+		.attr("opacity", "0");
+	const iconImage = graphic.append("svg:image")
 			.attr("href", icon)
 			.attr("width", "250")
 			.attr("x", "195")
 			.attr("y", "425");
-		graphic.attr("opacity", "0");
-		graphic.append("text")
-			.text("Partly Cloudy")
-			.attr("x", "320")
-			.attr("y", "825")
-			.attr("font-size", "45px")
+	const iconLabel = graphic.append("text")
+			.text(hours[0]["shrtFcst"])
+			.attr("x", "1150")
+			.attr("y", "800")
+			.attr("font-size", "40px")
 			.attr("font-weight", "bold")
 			.attr("text-anchor", "middle")
 			.attr("fill", "rgb(200, 200, 200)");
 	//3.2: Labels
+		//3.2.0: Header
+		const header = graphic.append("text")
+			.attr("id", "header")
+			.text("Weather ")
+			.attr("font-size", "65px")
+			.attr("font-weight", "100")
+			.attr("fill", "rgb(200,200,200)")
+			.attr("x", "50")
+			.attr("y", "100")
+			.append("tspan")
+				.text("Dashboard ")
+				.attr("font-weight", "800")
+			.append("tspan")
+				.attr("id", "locLabel")
+				.text("for Edison, NJ")
+				.attr("font-size", "40px")
+				.attr("font-weight", "200")
 		//3.2.1: Temperature Label
 		const tempLabel = graphic.append("text")
 			.text("Temperature (F)")
@@ -201,9 +219,10 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("text-anchor", "middle")
 			.attr("fill", "rgb(200, 200, 200)");
 		
-		//3.2.2: Relative Humidity Value
-		const relHumValue = graphic.append("text")
-			.text(hours[0]["relHum"])
+		//3.2.2: Precipitation Potential Value
+		const popsValue = graphic.append("text")
+			.attr("id", "popsValue")
+			.text(hours[0]["PoPs"])
 			.attr("font-size", "75px")
 			.attr("font-weight", "bolder")
 			.attr("text-anchor", "middle")
@@ -211,9 +230,9 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("x", "520")
 			.attr("y", "340");
 		
-		//3.2.3: Relative Humidity Label
-		const relHumLabel = graphic.append("text")
-			.text("Relative Humidity (%)")
+		//3.2.3: Precipitation Potential Label
+		const popsLabel = graphic.append("text")
+			.text("Chance of Precipitation (%)")
 			.attr("x", "520")
 			.attr("y", "270")
 			.attr("font-size", "20px")
@@ -302,6 +321,48 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.text("Temperature")
 			.attr("font-size", "40")
 			.attr("font-weight", "100")
+		
+		//3.2.13: Cloud Cover Value
+		const cldCvrValue = graphic.append("text")
+			.attr("id", "cldCvrValue")
+			.text(hours[0]["cldCvr"])
+			.attr("font-size", "50px")
+			.attr("font-weight", "bolder")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "220")
+			.attr("y", "810");
+		
+		//3.2.14: Cloud Cover Label
+		const cldCvrLabel = graphic.append("text")
+			.attr("id", "cldCvrLabel")
+			.text("Cloud Cover (%)")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "220")
+			.attr("y", "840");
+		//3.2.13: Relative Humidity Value
+		const relHumValue = graphic.append("text")
+			.attr("id", "relHumValue")
+			.text(hours[0]["relHum"])
+			.attr("font-size", "50px")
+			.attr("font-weight", "bolder")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "420")
+			.attr("y", "810");
+		//3.2.14: Relative Humidity Label
+		const relHumLabel = graphic.append("text")
+			.attr("id", "relHumLabel")
+			.text("Relative Humidity (%)")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "420")
+			.attr("y", "840");
 
 	//3.3: Fade Elements In
 	const gaugeFade = d3.timeout(function() {
@@ -476,11 +537,9 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	
 	// 4.9: Change Currently Displayed Time Period
 		// 4.9.1: Right Button
-			rightButton.on("click", function(){
+			rightButton.on("mouseenter", function(){
 				axisChange(1)
 				barMove()
-			})
-			rightButton.on("mouseenter", function(){
 				rightButton.attr("opacity","50%")
 			})
 			rightButton.on("mouseleave", function(){
@@ -488,11 +547,9 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			})
 
 		// 4.9.2: Left Button
-			leftButton.on("click", function(){
+			leftButton.on("mouseenter", function(){
 				axisChange(-1)
 				barMove()
-			})
-			leftButton.on("mouseenter", function(){
 				leftButton.attr("opacity","50%")
 			})
 			leftButton.on("mouseleave", function(){
@@ -500,7 +557,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			})
 
 // Part 5: Hourly Forecast Interactions
-	// 5.1: Dim Bars on Hover
+	// 5.1: Update Gauge on Hover
 	function barHover(target) { 
 		const currentBar = barsCont.select("#"+target.id)
 		const barData = currentBar.datum()
@@ -511,6 +568,9 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		wdDirValue.text(barData.wdDir)
 		wdSpdValue.text(barData.wdSpd)
 		gaugeLabel.text(barData.readTime)
+		iconLabel.text(barData.shrtFcst)
+		popsValue.text(barData.PoPs)
+		cldCvrValue.temp(barData.cldCvr)
 		foreground.transition()
 			.duration(250)
 			.attrTween("d", arcTween((barData.temp/100)*(2*tau/3)-tau/3))
@@ -521,6 +581,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		const currentBar = barsCont.select("#"+target.id)
 		currentBar.attr("opacity", "100%")
 	}
+
 
 // Part Final: Append the master SVG.
 container.append(svg.node());

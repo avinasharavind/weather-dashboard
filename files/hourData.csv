@@ -1,157 +1,157 @@
-,pdNum,stTime,readTime,temp,PoPs,dewpt,relHum,wdSpd,wdDir,icon,appTemp,cldCvr,wdGst
-0,1,2024-07-20T23:00:00,"11 PM, Sat Jul 20",74,11,66.0,76,5,SW,ovc,74,98,3
-1,2,2024-07-21T00:00:00,"12 AM, Sun Jul 21",74,11,67.0,79,5,SW,ovc,74,94,3
-2,3,2024-07-21T01:00:00,"01 AM, Sun Jul 21",73,12,67.0,81,5,SW,ovc,73,91,3
-3,4,2024-07-21T02:00:00,"02 AM, Sun Jul 21",72,14,68.0,87,5,W,bkn,72,80,3
-4,5,2024-07-21T03:00:00,"03 AM, Sun Jul 21",71,16,68.0,90,5,W,tsra_sct,71,62,3
-5,6,2024-07-21T04:00:00,"04 AM, Sun Jul 21",71,17,68.0,90,5,SW,tsra_hi,71,55,3
-6,7,2024-07-21T05:00:00,"05 AM, Sun Jul 21",70,18,68.0,93,5,W,rain_showers,70,53,3
-7,8,2024-07-21T06:00:00,"06 AM, Sun Jul 21",70,18,67.0,90,5,W,rain_showers,70,53,3
-8,9,2024-07-21T07:00:00,"07 AM, Sun Jul 21",71,17,69.0,93,5,W,rain_showers,71,49,3
-9,10,2024-07-21T08:00:00,"08 AM, Sun Jul 21",74,15,69.0,84,5,W,rain_showers,74,44,3
-10,11,2024-07-21T09:00:00,"09 AM, Sun Jul 21",77,13,70.0,79,5,W,sct,77,36,3
-11,12,2024-07-21T10:00:00,"10 AM, Sun Jul 21",80,15,70.0,72,5,W,rain_showers,83,42,3
-12,13,2024-07-21T11:00:00,"11 AM, Sun Jul 21",82,17,70.0,67,5,W,rain_showers,86,52,3
-13,14,2024-07-21T12:00:00,"12 PM, Sun Jul 21",84,19,70.0,63,5,W,rain_showers,88,55,3
-14,15,2024-07-21T13:00:00,"01 PM, Sun Jul 21",86,19,70.0,59,5,W,rain_showers,91,54,3
-15,16,2024-07-21T14:00:00,"02 PM, Sun Jul 21",87,18,69.0,55,5,SW,rain_showers,91,52,3
-16,17,2024-07-21T15:00:00,"03 PM, Sun Jul 21",88,17,68.0,52,5,SW,rain_showers,92,49,3
-17,18,2024-07-21T16:00:00,"04 PM, Sun Jul 21",88,16,67.0,50,5,S,rain_showers,91,47,3
-18,19,2024-07-21T17:00:00,"05 PM, Sun Jul 21",88,16,67.0,50,5,SW,rain_showers,91,47,3
-19,20,2024-07-21T18:00:00,"06 PM, Sun Jul 21",87,15,67.0,52,5,SW,rain_showers,90,40,3
-20,21,2024-07-21T19:00:00,"07 PM, Sun Jul 21",85,12,67.0,55,5,S,sct,88,38,3
-21,22,2024-07-21T20:00:00,"08 PM, Sun Jul 21",83,10,68.0,61,5,S,sct,86,46,3
-22,23,2024-07-21T21:00:00,"09 PM, Sun Jul 21",80,7,68.0,67,5,S,sct,83,36,3
-23,24,2024-07-21T22:00:00,"10 PM, Sun Jul 21",77,5,69.0,76,5,S,sct,77,38,3
-24,25,2024-07-21T23:00:00,"11 PM, Sun Jul 21",76,3,70.0,82,5,S,sct,76,41,3
-25,26,2024-07-22T00:00:00,"12 AM, Mon Jul 22",74,1,69.0,84,5,SW,sct,74,34,3
-26,27,2024-07-22T01:00:00,"01 AM, Mon Jul 22",73,1,69.0,87,5,SW,sct,73,43,3
-27,28,2024-07-22T02:00:00,"02 AM, Mon Jul 22",72,0,69.0,90,0,Calm,bkn,72,62,3
-28,29,2024-07-22T03:00:00,"03 AM, Mon Jul 22",72,0,69.0,90,0,Calm,bkn,72,59,2
-29,30,2024-07-22T04:00:00,"04 AM, Mon Jul 22",71,0,68.0,90,0,Calm,bkn,71,66,2
-30,31,2024-07-22T05:00:00,"05 AM, Mon Jul 22",70,0,68.0,93,0,Calm,bkn,70,72,3
-31,32,2024-07-22T06:00:00,"06 AM, Mon Jul 22",70,0,68.0,93,0,Calm,bkn,70,70,3
-32,33,2024-07-22T07:00:00,"07 AM, Mon Jul 22",72,3,69.0,90,0,Calm,bkn,72,71,5
-33,34,2024-07-22T08:00:00,"08 AM, Mon Jul 22",74,6,69.0,84,0,Calm,bkn,74,72,5
-34,35,2024-07-22T09:00:00,"09 AM, Mon Jul 22",77,6,70.0,79,0,Calm,bkn,77,72,5
-35,36,2024-07-22T10:00:00,"10 AM, Mon Jul 22",80,6,70.0,72,5,E,bkn,83,69,6
-36,37,2024-07-22T11:00:00,"11 AM, Mon Jul 22",82,26,71.0,69,5,E,rain_showers,86,68,7
-37,38,2024-07-22T12:00:00,"12 PM, Mon Jul 22",84,26,72.0,67,5,E,rain_showers,90,69,8
-38,39,2024-07-22T13:00:00,"01 PM, Mon Jul 22",85,26,72.0,65,5,E,rain_showers,91,72,9
-39,40,2024-07-22T14:00:00,"02 PM, Mon Jul 22",85,45,72.0,65,5,SE,tsra,91,76,10
-40,41,2024-07-22T15:00:00,"03 PM, Mon Jul 22",85,45,72.0,65,5,SE,tsra,91,78,10
-41,42,2024-07-22T16:00:00,"04 PM, Mon Jul 22",84,45,71.0,65,5,SE,tsra,89,80,10
-42,43,2024-07-22T17:00:00,"05 PM, Mon Jul 22",83,47,71.0,67,5,SE,tsra,88,82,10
-43,44,2024-07-22T18:00:00,"06 PM, Mon Jul 22",82,47,71.0,69,5,SE,tsra,86,85,10
-44,45,2024-07-22T19:00:00,"07 PM, Mon Jul 22",80,47,71.0,74,5,SE,tsra,83,88,9
-45,46,2024-07-22T20:00:00,"08 PM, Mon Jul 22",79,51,71.0,77,5,SE,tsra,79,91,8
-46,47,2024-07-22T21:00:00,"09 PM, Mon Jul 22",78,51,71.0,79,5,SE,tsra,78,94,7
-47,48,2024-07-22T22:00:00,"10 PM, Mon Jul 22",76,51,70.0,82,5,SE,tsra,76,97,6
-48,49,2024-07-22T23:00:00,"11 PM, Mon Jul 22",75,67,70.0,84,0,Calm,tsra,75,98,5
-49,50,2024-07-23T00:00:00,"12 AM, Tue Jul 23",74,67,70.0,87,0,Calm,tsra,74,98,5
-50,51,2024-07-23T01:00:00,"01 AM, Tue Jul 23",73,67,71.0,93,0,Calm,tsra,73,98,5
-51,52,2024-07-23T02:00:00,"02 AM, Tue Jul 23",72,58,71.0,97,0,Calm,tsra,72,97,3
-52,53,2024-07-23T03:00:00,"03 AM, Tue Jul 23",71,58,71.0,100,0,Calm,tsra,71,97,3
-53,54,2024-07-23T04:00:00,"04 AM, Tue Jul 23",71,58,71.0,100,0,Calm,tsra,71,97,5
-54,55,2024-07-23T05:00:00,"05 AM, Tue Jul 23",71,56,71.0,100,0,Calm,tsra,71,96,5
-55,56,2024-07-23T06:00:00,"06 AM, Tue Jul 23",72,56,71.0,97,0,Calm,tsra,72,95,5
-56,57,2024-07-23T07:00:00,"07 AM, Tue Jul 23",73,56,72.0,97,0,Calm,tsra,73,93,5
-57,58,2024-07-23T08:00:00,"08 AM, Tue Jul 23",74,45,72.0,93,0,Calm,tsra,74,91,5
-58,59,2024-07-23T09:00:00,"09 AM, Tue Jul 23",75,45,72.0,90,5,NE,tsra,75,87,6
-59,60,2024-07-23T10:00:00,"10 AM, Tue Jul 23",77,45,73.0,87,5,NE,tsra,77,83,7
-60,61,2024-07-23T11:00:00,"11 AM, Tue Jul 23",78,42,73.0,85,5,NE,tsra,78,79,7
-61,62,2024-07-23T12:00:00,"12 PM, Tue Jul 23",80,42,73.0,79,0,Calm,tsra,84,76,6
-62,63,2024-07-23T13:00:00,"01 PM, Tue Jul 23",82,42,73.0,74,5,S,tsra_sct,87,73,7
-63,64,2024-07-23T14:00:00,"02 PM, Tue Jul 23",83,55,73.0,72,5,S,tsra_sct,89,71,9
-64,65,2024-07-23T15:00:00,"03 PM, Tue Jul 23",84,55,73.0,70,5,S,tsra_sct,90,70,10
-65,66,2024-07-23T16:00:00,"04 PM, Tue Jul 23",84,55,72.0,67,5,S,tsra_sct,90,69,10
-66,67,2024-07-23T17:00:00,"05 PM, Tue Jul 23",84,53,72.0,67,5,S,tsra_sct,90,69,9
-67,68,2024-07-23T18:00:00,"06 PM, Tue Jul 23",83,53,72.0,70,5,S,tsra_sct,88,70,7
-68,69,2024-07-23T19:00:00,"07 PM, Tue Jul 23",82,53,72.0,72,5,S,tsra_sct,87,72,6
-69,70,2024-07-23T20:00:00,"08 PM, Tue Jul 23",81,67,72.0,74,5,SE,tsra_sct,85,74,8
-70,71,2024-07-23T21:00:00,"09 PM, Tue Jul 23",78,67,72.0,82,5,SE,tsra,78,76,7
-71,72,2024-07-23T22:00:00,"10 PM, Tue Jul 23",77,67,72.0,85,0,Calm,tsra,77,78,6
-72,73,2024-07-23T23:00:00,"11 PM, Tue Jul 23",75,67,72.0,90,0,Calm,tsra,75,80,5
-73,74,2024-07-24T00:00:00,"12 AM, Wed Jul 24",75,67,72.0,90,0,Calm,tsra,75,80,5
-74,75,2024-07-24T01:00:00,"01 AM, Wed Jul 24",74,67,72.0,93,0,Calm,tsra,74,81,3
-75,76,2024-07-24T02:00:00,"02 AM, Wed Jul 24",73,46,72.0,97,0,Calm,tsra,73,82,3
-76,77,2024-07-24T03:00:00,"03 AM, Wed Jul 24",72,46,72.0,100,0,Calm,tsra,72,85,3
-77,78,2024-07-24T04:00:00,"04 AM, Wed Jul 24",72,46,72.0,100,0,Calm,tsra,72,88,5
-78,79,2024-07-24T05:00:00,"05 AM, Wed Jul 24",71,46,71.0,100,0,Calm,tsra,71,91,5
-79,80,2024-07-24T06:00:00,"06 AM, Wed Jul 24",72,46,72.0,100,0,Calm,tsra,72,90,5
-80,81,2024-07-24T07:00:00,"07 AM, Wed Jul 24",73,46,73.0,100,0,Calm,tsra,73,89,6
-81,82,2024-07-24T08:00:00,"08 AM, Wed Jul 24",73,41,73.0,100,0,Calm,tsra,73,88,6
-82,83,2024-07-24T09:00:00,"09 AM, Wed Jul 24",75,41,74.0,97,5,S,tsra,75,87,7
-83,84,2024-07-24T10:00:00,"10 AM, Wed Jul 24",77,41,74.0,90,5,S,tsra,77,86,7
-84,85,2024-07-24T11:00:00,"11 AM, Wed Jul 24",78,41,75.0,91,5,S,tsra,78,85,8
-85,86,2024-07-24T12:00:00,"12 PM, Wed Jul 24",80,41,75.0,85,5,S,tsra,85,81,9
-86,87,2024-07-24T13:00:00,"01 PM, Wed Jul 24",82,41,75.0,79,5,SW,tsra,89,77,9
-87,88,2024-07-24T14:00:00,"02 PM, Wed Jul 24",83,65,75.0,77,5,SW,tsra_sct,90,72,10
-88,89,2024-07-24T15:00:00,"03 PM, Wed Jul 24",83,65,75.0,77,5,SW,tsra_sct,90,72,10
-89,90,2024-07-24T16:00:00,"04 PM, Wed Jul 24",85,65,75.0,72,5,SW,tsra_sct,94,71,10
-90,91,2024-07-24T17:00:00,"05 PM, Wed Jul 24",84,65,75.0,74,5,SW,tsra_sct,92,70,10
-91,92,2024-07-24T18:00:00,"06 PM, Wed Jul 24",83,65,75.0,77,5,SW,tsra_sct,90,70,9
-92,93,2024-07-24T19:00:00,"07 PM, Wed Jul 24",82,65,74.0,77,5,S,tsra_sct,88,70,9
-93,94,2024-07-24T20:00:00,"08 PM, Wed Jul 24",80,64,74.0,82,5,S,tsra_sct,84,69,8
-94,95,2024-07-24T21:00:00,"09 PM, Wed Jul 24",79,64,74.0,85,5,S,tsra_sct,79,70,7
-95,96,2024-07-24T22:00:00,"10 PM, Wed Jul 24",77,64,73.0,87,0,Calm,tsra_sct,77,70,7
-96,97,2024-07-24T23:00:00,"11 PM, Wed Jul 24",76,64,73.0,90,0,Calm,tsra_sct,76,70,6
-97,98,2024-07-25T00:00:00,"12 AM, Thu Jul 25",75,64,73.0,94,0,Calm,tsra_sct,75,71,6
-98,99,2024-07-25T01:00:00,"01 AM, Thu Jul 25",74,64,72.0,93,0,Calm,tsra_sct,74,72,6
-99,100,2024-07-25T02:00:00,"02 AM, Thu Jul 25",73,53,72.0,97,0,Calm,tsra_sct,73,74,6
-100,101,2024-07-25T03:00:00,"03 AM, Thu Jul 25",73,53,72.0,97,0,Calm,tsra_sct,73,74,6
-101,102,2024-07-25T04:00:00,"04 AM, Thu Jul 25",72,53,72.0,100,0,Calm,tsra,72,75,7
-102,103,2024-07-25T05:00:00,"05 AM, Thu Jul 25",71,53,71.0,100,0,Calm,tsra,71,76,7
-103,104,2024-07-25T06:00:00,"06 AM, Thu Jul 25",72,53,72.0,100,0,Calm,tsra,72,75,8
-104,105,2024-07-25T07:00:00,"07 AM, Thu Jul 25",73,53,73.0,100,5,SW,tsra,73,75,8
-105,106,2024-07-25T08:00:00,"08 AM, Thu Jul 25",74,36,73.0,97,5,SW,tsra,74,75,9
-106,107,2024-07-25T09:00:00,"09 AM, Thu Jul 25",77,36,74.0,90,5,SW,tsra_sct,77,71,9
-107,108,2024-07-25T10:00:00,"10 AM, Thu Jul 25",79,36,74.0,85,5,SW,tsra_sct,79,68,10
-108,109,2024-07-25T11:00:00,"11 AM, Thu Jul 25",82,36,75.0,79,5,SW,tsra_sct,89,65,10
-109,110,2024-07-25T12:00:00,"12 PM, Thu Jul 25",83,36,75.0,77,5,SW,tsra_sct,90,64,12
-110,111,2024-07-25T13:00:00,"01 PM, Thu Jul 25",85,36,74.0,70,5,SW,tsra_sct,93,64,12
-111,112,2024-07-25T14:00:00,"02 PM, Thu Jul 25",86,58,74.0,68,5,SW,tsra_sct,94,63,13
-112,113,2024-07-25T15:00:00,"03 PM, Thu Jul 25",86,58,74.0,68,5,SW,tsra_sct,94,67,13
-113,114,2024-07-25T16:00:00,"04 PM, Thu Jul 25",87,58,74.0,65,5,SW,tsra_sct,95,70,13
-114,115,2024-07-25T17:00:00,"05 PM, Thu Jul 25",86,58,73.0,65,5,SW,tsra_sct,93,74,13
-115,116,2024-07-25T18:00:00,"06 PM, Thu Jul 25",85,58,73.0,67,5,SW,tsra_sct,92,72,12
-116,117,2024-07-25T19:00:00,"07 PM, Thu Jul 25",83,58,72.0,70,5,SW,tsra_sct,88,70,10
-117,118,2024-07-25T20:00:00,"08 PM, Thu Jul 25",81,47,72.0,74,5,SW,tsra_sct,85,69,9
-118,119,2024-07-25T21:00:00,"09 PM, Thu Jul 25",79,47,72.0,79,5,SW,tsra_sct,79,68,9
-119,120,2024-07-25T22:00:00,"10 PM, Thu Jul 25",77,47,72.0,85,5,SW,tsra_sct,77,67,8
-120,121,2024-07-25T23:00:00,"11 PM, Thu Jul 25",75,47,72.0,90,5,SW,tsra_sct,75,67,8
-121,122,2024-07-26T00:00:00,"12 AM, Fri Jul 26",74,47,72.0,93,5,W,tsra_sct,74,63,8
-122,123,2024-07-26T01:00:00,"01 AM, Fri Jul 26",74,47,71.0,90,5,W,tsra_hi,74,59,7
-123,124,2024-07-26T02:00:00,"02 AM, Fri Jul 26",72,29,71.0,97,5,W,tsra_hi,72,56,7
-124,125,2024-07-26T03:00:00,"03 AM, Fri Jul 26",72,29,71.0,97,5,W,tsra_hi,72,58,7
-125,126,2024-07-26T04:00:00,"04 AM, Fri Jul 26",71,29,70.0,97,5,W,tsra_sct,71,60,8
-126,127,2024-07-26T05:00:00,"05 AM, Fri Jul 26",70,29,70.0,100,5,W,tsra_sct,70,62,8
-127,128,2024-07-26T06:00:00,"06 AM, Fri Jul 26",72,29,70.0,93,5,W,tsra_sct,72,60,8
-128,129,2024-07-26T07:00:00,"07 AM, Fri Jul 26",72,29,71.0,97,5,W,tsra_hi,72,58,8
-129,130,2024-07-26T08:00:00,"08 AM, Fri Jul 26",73,24,71.0,93,5,NW,rain_showers,73,56,8
-130,131,2024-07-26T09:00:00,"09 AM, Fri Jul 26",76,24,71.0,85,5,NW,rain_showers,76,54,8
-131,132,2024-07-26T10:00:00,"10 AM, Fri Jul 26",79,24,71.0,77,5,NW,rain_showers,79,52,9
-132,133,2024-07-26T11:00:00,"11 AM, Fri Jul 26",81,24,71.0,72,5,NW,rain_showers,85,50,9
-133,134,2024-07-26T12:00:00,"12 PM, Fri Jul 26",83,24,70.0,65,5,NW,rain_showers,87,45,9
-134,135,2024-07-26T13:00:00,"01 PM, Fri Jul 26",85,24,70.0,61,5,W,rain_showers,90,40,10
-135,136,2024-07-26T14:00:00,"02 PM, Fri Jul 26",87,29,69.0,55,5,W,tsra_hi,91,35,10
-136,137,2024-07-26T15:00:00,"03 PM, Fri Jul 26",87,29,69.0,55,5,W,tsra_hi,91,36,10
-137,138,2024-07-26T16:00:00,"04 PM, Fri Jul 26",87,29,69.0,55,5,W,tsra_hi,91,36,10
-138,139,2024-07-26T17:00:00,"05 PM, Fri Jul 26",87,29,68.0,53,5,W,tsra_hi,91,36,10
-139,140,2024-07-26T18:00:00,"06 PM, Fri Jul 26",85,29,68.0,57,5,W,tsra_hi,88,36,9
-140,141,2024-07-26T19:00:00,"07 PM, Fri Jul 26",84,29,68.0,59,5,SW,tsra_hi,87,36,9
-141,142,2024-07-26T20:00:00,"08 PM, Fri Jul 26",82,19,68.0,63,5,SW,tsra_hi,85,36,8
-142,143,2024-07-26T21:00:00,"09 PM, Fri Jul 26",79,19,68.0,69,5,SW,tsra_hi,79,36,7
-143,144,2024-07-26T22:00:00,"10 PM, Fri Jul 26",77,19,68.0,74,0,Calm,tsra_hi,77,35,7
-144,145,2024-07-26T23:00:00,"11 PM, Fri Jul 26",75,19,68.0,79,0,Calm,tsra_hi,75,35,6
-145,146,2024-07-27T00:00:00,"12 AM, Sat Jul 27",74,19,68.0,82,0,Calm,tsra_hi,74,34,6
-146,147,2024-07-27T01:00:00,"01 AM, Sat Jul 27",73,19,68.0,84,0,Calm,tsra_hi,73,32,5
-147,148,2024-07-27T02:00:00,"02 AM, Sat Jul 27",71,15,68.0,90,0,Calm,rain_showers,71,31,5
-148,149,2024-07-27T03:00:00,"03 AM, Sat Jul 27",71,15,68.0,90,0,Calm,rain_showers,71,32,5
-149,150,2024-07-27T04:00:00,"04 AM, Sat Jul 27",70,15,67.0,90,0,Calm,rain_showers,70,34,6
-150,151,2024-07-27T05:00:00,"05 AM, Sat Jul 27",69,15,67.0,93,0,Calm,rain_showers,69,36,6
-151,152,2024-07-27T06:00:00,"06 AM, Sat Jul 27",71,15,67.0,87,0,Calm,rain_showers,71,34,6
-152,153,2024-07-27T07:00:00,"07 AM, Sat Jul 27",72,15,68.0,87,0,Calm,rain_showers,72,32,6
-153,154,2024-07-27T08:00:00,"08 AM, Sat Jul 27",73,11,68.0,84,0,Calm,sct,73,29,6
-154,155,2024-07-27T09:00:00,"09 AM, Sat Jul 27",77,11,68.0,74,0,Calm,sct,77,28,6
-155,156,2024-07-27T10:00:00,"10 AM, Sat Jul 27",80,11,68.0,67,5,N,sct,83,28,7
+,pdNum,stTime,readTime,temp,PoPs,dewpt,relHum,wdSpd,wdDir,icon,shrtFcst,appTemp,cldCvr,wdGst
+0,1,2024-07-20T23:00:00,"11 PM, Sat Jul 20",74,11,66.0,76,5,SW,ovc,Cloudy,74,98,3
+1,2,2024-07-21T00:00:00,"12 AM, Sun Jul 21",74,11,67.0,79,5,SW,ovc,Cloudy,74,94,3
+2,3,2024-07-21T01:00:00,"01 AM, Sun Jul 21",73,12,67.0,81,5,SW,ovc,Cloudy,73,91,3
+3,4,2024-07-21T02:00:00,"02 AM, Sun Jul 21",72,14,68.0,87,5,W,bkn,Mostly Cloudy,72,80,3
+4,5,2024-07-21T03:00:00,"03 AM, Sun Jul 21",71,16,68.0,90,5,W,tsra_sct,Slight Chance Showers And Thunderstorms,71,62,3
+5,6,2024-07-21T04:00:00,"04 AM, Sun Jul 21",71,17,68.0,90,5,SW,tsra_hi,Slight Chance Showers And Thunderstorms,71,55,3
+6,7,2024-07-21T05:00:00,"05 AM, Sun Jul 21",70,18,68.0,93,5,W,rain_showers,Slight Chance Rain Showers,70,53,3
+7,8,2024-07-21T06:00:00,"06 AM, Sun Jul 21",70,18,67.0,90,5,W,rain_showers,Slight Chance Rain Showers,70,53,3
+8,9,2024-07-21T07:00:00,"07 AM, Sun Jul 21",71,17,69.0,93,5,W,rain_showers,Slight Chance Rain Showers,71,49,3
+9,10,2024-07-21T08:00:00,"08 AM, Sun Jul 21",74,15,69.0,84,5,W,rain_showers,Slight Chance Rain Showers,74,44,3
+10,11,2024-07-21T09:00:00,"09 AM, Sun Jul 21",77,13,70.0,79,5,W,sct,Mostly Sunny,77,36,3
+11,12,2024-07-21T10:00:00,"10 AM, Sun Jul 21",80,15,70.0,72,5,W,rain_showers,Slight Chance Rain Showers,83,42,3
+12,13,2024-07-21T11:00:00,"11 AM, Sun Jul 21",82,17,70.0,67,5,W,rain_showers,Slight Chance Rain Showers,86,52,3
+13,14,2024-07-21T12:00:00,"12 PM, Sun Jul 21",84,19,70.0,63,5,W,rain_showers,Slight Chance Rain Showers,88,55,3
+14,15,2024-07-21T13:00:00,"01 PM, Sun Jul 21",86,19,70.0,59,5,W,rain_showers,Slight Chance Rain Showers,91,54,3
+15,16,2024-07-21T14:00:00,"02 PM, Sun Jul 21",87,18,69.0,55,5,SW,rain_showers,Slight Chance Rain Showers,91,52,3
+16,17,2024-07-21T15:00:00,"03 PM, Sun Jul 21",88,17,68.0,52,5,SW,rain_showers,Slight Chance Rain Showers,92,49,3
+17,18,2024-07-21T16:00:00,"04 PM, Sun Jul 21",88,16,67.0,50,5,S,rain_showers,Slight Chance Rain Showers,91,47,3
+18,19,2024-07-21T17:00:00,"05 PM, Sun Jul 21",88,16,67.0,50,5,SW,rain_showers,Slight Chance Rain Showers,91,47,3
+19,20,2024-07-21T18:00:00,"06 PM, Sun Jul 21",87,15,67.0,52,5,SW,rain_showers,Slight Chance Rain Showers,90,40,3
+20,21,2024-07-21T19:00:00,"07 PM, Sun Jul 21",85,12,67.0,55,5,S,sct,Partly Cloudy,88,38,3
+21,22,2024-07-21T20:00:00,"08 PM, Sun Jul 21",83,10,68.0,61,5,S,sct,Partly Cloudy,86,46,3
+22,23,2024-07-21T21:00:00,"09 PM, Sun Jul 21",80,7,68.0,67,5,S,sct,Partly Cloudy,83,36,3
+23,24,2024-07-21T22:00:00,"10 PM, Sun Jul 21",77,5,69.0,76,5,S,sct,Partly Cloudy,77,38,3
+24,25,2024-07-21T23:00:00,"11 PM, Sun Jul 21",76,3,70.0,82,5,S,sct,Partly Cloudy,76,41,3
+25,26,2024-07-22T00:00:00,"12 AM, Mon Jul 22",74,1,69.0,84,5,SW,sct,Partly Cloudy,74,34,3
+26,27,2024-07-22T01:00:00,"01 AM, Mon Jul 22",73,1,69.0,87,5,SW,sct,Partly Cloudy,73,43,3
+27,28,2024-07-22T02:00:00,"02 AM, Mon Jul 22",72,0,69.0,90,0,Calm,bkn,Mostly Cloudy,72,62,3
+28,29,2024-07-22T03:00:00,"03 AM, Mon Jul 22",72,0,69.0,90,0,Calm,bkn,Mostly Cloudy,72,59,2
+29,30,2024-07-22T04:00:00,"04 AM, Mon Jul 22",71,0,68.0,90,0,Calm,bkn,Mostly Cloudy,71,66,2
+30,31,2024-07-22T05:00:00,"05 AM, Mon Jul 22",70,0,68.0,93,0,Calm,bkn,Mostly Cloudy,70,72,3
+31,32,2024-07-22T06:00:00,"06 AM, Mon Jul 22",70,0,68.0,93,0,Calm,bkn,Mostly Cloudy,70,70,3
+32,33,2024-07-22T07:00:00,"07 AM, Mon Jul 22",72,3,69.0,90,0,Calm,bkn,Mostly Cloudy,72,71,5
+33,34,2024-07-22T08:00:00,"08 AM, Mon Jul 22",74,6,69.0,84,0,Calm,bkn,Mostly Cloudy,74,72,5
+34,35,2024-07-22T09:00:00,"09 AM, Mon Jul 22",77,6,70.0,79,0,Calm,bkn,Mostly Cloudy,77,72,5
+35,36,2024-07-22T10:00:00,"10 AM, Mon Jul 22",80,6,70.0,72,5,E,bkn,Partly Sunny,83,69,6
+36,37,2024-07-22T11:00:00,"11 AM, Mon Jul 22",82,26,71.0,69,5,E,rain_showers,Chance Rain Showers,86,68,7
+37,38,2024-07-22T12:00:00,"12 PM, Mon Jul 22",84,26,72.0,67,5,E,rain_showers,Chance Rain Showers,90,69,8
+38,39,2024-07-22T13:00:00,"01 PM, Mon Jul 22",85,26,72.0,65,5,E,rain_showers,Chance Rain Showers,91,72,9
+39,40,2024-07-22T14:00:00,"02 PM, Mon Jul 22",85,45,72.0,65,5,SE,tsra,Chance Showers And Thunderstorms,91,76,10
+40,41,2024-07-22T15:00:00,"03 PM, Mon Jul 22",85,45,72.0,65,5,SE,tsra,Chance Showers And Thunderstorms,91,78,10
+41,42,2024-07-22T16:00:00,"04 PM, Mon Jul 22",84,45,71.0,65,5,SE,tsra,Chance Showers And Thunderstorms,89,80,10
+42,43,2024-07-22T17:00:00,"05 PM, Mon Jul 22",83,47,71.0,67,5,SE,tsra,Chance Showers And Thunderstorms,88,82,10
+43,44,2024-07-22T18:00:00,"06 PM, Mon Jul 22",82,47,71.0,69,5,SE,tsra,Chance Showers And Thunderstorms,86,85,10
+44,45,2024-07-22T19:00:00,"07 PM, Mon Jul 22",80,47,71.0,74,5,SE,tsra,Chance Showers And Thunderstorms,83,88,9
+45,46,2024-07-22T20:00:00,"08 PM, Mon Jul 22",79,51,71.0,77,5,SE,tsra,Chance Showers And Thunderstorms,79,91,8
+46,47,2024-07-22T21:00:00,"09 PM, Mon Jul 22",78,51,71.0,79,5,SE,tsra,Chance Showers And Thunderstorms,78,94,7
+47,48,2024-07-22T22:00:00,"10 PM, Mon Jul 22",76,51,70.0,82,5,SE,tsra,Chance Showers And Thunderstorms,76,97,6
+48,49,2024-07-22T23:00:00,"11 PM, Mon Jul 22",75,67,70.0,84,0,Calm,tsra,Showers And Thunderstorms Likely,75,98,5
+49,50,2024-07-23T00:00:00,"12 AM, Tue Jul 23",74,67,70.0,87,0,Calm,tsra,Showers And Thunderstorms Likely,74,98,5
+50,51,2024-07-23T01:00:00,"01 AM, Tue Jul 23",73,67,71.0,93,0,Calm,tsra,Showers And Thunderstorms Likely,73,98,5
+51,52,2024-07-23T02:00:00,"02 AM, Tue Jul 23",72,58,71.0,97,0,Calm,tsra,Showers And Thunderstorms Likely,72,97,3
+52,53,2024-07-23T03:00:00,"03 AM, Tue Jul 23",71,58,71.0,100,0,Calm,tsra,Showers And Thunderstorms Likely,71,97,3
+53,54,2024-07-23T04:00:00,"04 AM, Tue Jul 23",71,58,71.0,100,0,Calm,tsra,Showers And Thunderstorms Likely,71,97,5
+54,55,2024-07-23T05:00:00,"05 AM, Tue Jul 23",71,56,71.0,100,0,Calm,tsra,Showers And Thunderstorms Likely,71,96,5
+55,56,2024-07-23T06:00:00,"06 AM, Tue Jul 23",72,56,71.0,97,0,Calm,tsra,Showers And Thunderstorms Likely,72,95,5
+56,57,2024-07-23T07:00:00,"07 AM, Tue Jul 23",73,56,72.0,97,0,Calm,tsra,Showers And Thunderstorms Likely,73,93,5
+57,58,2024-07-23T08:00:00,"08 AM, Tue Jul 23",74,45,72.0,93,0,Calm,tsra,Chance Showers And Thunderstorms,74,91,5
+58,59,2024-07-23T09:00:00,"09 AM, Tue Jul 23",75,45,72.0,90,5,NE,tsra,Chance Showers And Thunderstorms,75,87,6
+59,60,2024-07-23T10:00:00,"10 AM, Tue Jul 23",77,45,73.0,87,5,NE,tsra,Chance Showers And Thunderstorms,77,83,7
+60,61,2024-07-23T11:00:00,"11 AM, Tue Jul 23",78,42,73.0,85,5,NE,tsra,Chance Showers And Thunderstorms,78,79,7
+61,62,2024-07-23T12:00:00,"12 PM, Tue Jul 23",80,42,73.0,79,0,Calm,tsra,Chance Showers And Thunderstorms,84,76,6
+62,63,2024-07-23T13:00:00,"01 PM, Tue Jul 23",82,42,73.0,74,5,S,tsra_sct,Chance Showers And Thunderstorms,87,73,7
+63,64,2024-07-23T14:00:00,"02 PM, Tue Jul 23",83,55,73.0,72,5,S,tsra_sct,Showers And Thunderstorms Likely,89,71,9
+64,65,2024-07-23T15:00:00,"03 PM, Tue Jul 23",84,55,73.0,70,5,S,tsra_sct,Showers And Thunderstorms Likely,90,70,10
+65,66,2024-07-23T16:00:00,"04 PM, Tue Jul 23",84,55,72.0,67,5,S,tsra_sct,Showers And Thunderstorms Likely,90,69,10
+66,67,2024-07-23T17:00:00,"05 PM, Tue Jul 23",84,53,72.0,67,5,S,tsra_sct,Chance Showers And Thunderstorms,90,69,9
+67,68,2024-07-23T18:00:00,"06 PM, Tue Jul 23",83,53,72.0,70,5,S,tsra_sct,Chance Showers And Thunderstorms,88,70,7
+68,69,2024-07-23T19:00:00,"07 PM, Tue Jul 23",82,53,72.0,72,5,S,tsra_sct,Chance Showers And Thunderstorms,87,72,6
+69,70,2024-07-23T20:00:00,"08 PM, Tue Jul 23",81,67,72.0,74,5,SE,tsra_sct,Showers And Thunderstorms Likely,85,74,8
+70,71,2024-07-23T21:00:00,"09 PM, Tue Jul 23",78,67,72.0,82,5,SE,tsra,Showers And Thunderstorms Likely,78,76,7
+71,72,2024-07-23T22:00:00,"10 PM, Tue Jul 23",77,67,72.0,85,0,Calm,tsra,Showers And Thunderstorms Likely,77,78,6
+72,73,2024-07-23T23:00:00,"11 PM, Tue Jul 23",75,67,72.0,90,0,Calm,tsra,Showers And Thunderstorms Likely,75,80,5
+73,74,2024-07-24T00:00:00,"12 AM, Wed Jul 24",75,67,72.0,90,0,Calm,tsra,Showers And Thunderstorms Likely,75,80,5
+74,75,2024-07-24T01:00:00,"01 AM, Wed Jul 24",74,67,72.0,93,0,Calm,tsra,Showers And Thunderstorms Likely,74,81,3
+75,76,2024-07-24T02:00:00,"02 AM, Wed Jul 24",73,46,72.0,97,0,Calm,tsra,Chance Showers And Thunderstorms,73,82,3
+76,77,2024-07-24T03:00:00,"03 AM, Wed Jul 24",72,46,72.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,72,85,3
+77,78,2024-07-24T04:00:00,"04 AM, Wed Jul 24",72,46,72.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,72,88,5
+78,79,2024-07-24T05:00:00,"05 AM, Wed Jul 24",71,46,71.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,71,91,5
+79,80,2024-07-24T06:00:00,"06 AM, Wed Jul 24",72,46,72.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,72,90,5
+80,81,2024-07-24T07:00:00,"07 AM, Wed Jul 24",73,46,73.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,73,89,6
+81,82,2024-07-24T08:00:00,"08 AM, Wed Jul 24",73,41,73.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,73,88,6
+82,83,2024-07-24T09:00:00,"09 AM, Wed Jul 24",75,41,74.0,97,5,S,tsra,Chance Showers And Thunderstorms,75,87,7
+83,84,2024-07-24T10:00:00,"10 AM, Wed Jul 24",77,41,74.0,90,5,S,tsra,Chance Showers And Thunderstorms,77,86,7
+84,85,2024-07-24T11:00:00,"11 AM, Wed Jul 24",78,41,75.0,91,5,S,tsra,Chance Showers And Thunderstorms,78,85,8
+85,86,2024-07-24T12:00:00,"12 PM, Wed Jul 24",80,41,75.0,85,5,S,tsra,Chance Showers And Thunderstorms,85,81,9
+86,87,2024-07-24T13:00:00,"01 PM, Wed Jul 24",82,41,75.0,79,5,SW,tsra,Chance Showers And Thunderstorms,89,77,9
+87,88,2024-07-24T14:00:00,"02 PM, Wed Jul 24",83,65,75.0,77,5,SW,tsra_sct,Showers And Thunderstorms Likely,90,72,10
+88,89,2024-07-24T15:00:00,"03 PM, Wed Jul 24",83,65,75.0,77,5,SW,tsra_sct,Showers And Thunderstorms Likely,90,72,10
+89,90,2024-07-24T16:00:00,"04 PM, Wed Jul 24",85,65,75.0,72,5,SW,tsra_sct,Showers And Thunderstorms Likely,94,71,10
+90,91,2024-07-24T17:00:00,"05 PM, Wed Jul 24",84,65,75.0,74,5,SW,tsra_sct,Showers And Thunderstorms Likely,92,70,10
+91,92,2024-07-24T18:00:00,"06 PM, Wed Jul 24",83,65,75.0,77,5,SW,tsra_sct,Showers And Thunderstorms Likely,90,70,9
+92,93,2024-07-24T19:00:00,"07 PM, Wed Jul 24",82,65,74.0,77,5,S,tsra_sct,Showers And Thunderstorms Likely,88,70,9
+93,94,2024-07-24T20:00:00,"08 PM, Wed Jul 24",80,64,74.0,82,5,S,tsra_sct,Showers And Thunderstorms Likely,84,69,8
+94,95,2024-07-24T21:00:00,"09 PM, Wed Jul 24",79,64,74.0,85,5,S,tsra_sct,Showers And Thunderstorms Likely,79,70,7
+95,96,2024-07-24T22:00:00,"10 PM, Wed Jul 24",77,64,73.0,87,0,Calm,tsra_sct,Showers And Thunderstorms Likely,77,70,7
+96,97,2024-07-24T23:00:00,"11 PM, Wed Jul 24",76,64,73.0,90,0,Calm,tsra_sct,Showers And Thunderstorms Likely,76,70,6
+97,98,2024-07-25T00:00:00,"12 AM, Thu Jul 25",75,64,73.0,94,0,Calm,tsra_sct,Showers And Thunderstorms Likely,75,71,6
+98,99,2024-07-25T01:00:00,"01 AM, Thu Jul 25",74,64,72.0,93,0,Calm,tsra_sct,Showers And Thunderstorms Likely,74,72,6
+99,100,2024-07-25T02:00:00,"02 AM, Thu Jul 25",73,53,72.0,97,0,Calm,tsra_sct,Chance Showers And Thunderstorms,73,74,6
+100,101,2024-07-25T03:00:00,"03 AM, Thu Jul 25",73,53,72.0,97,0,Calm,tsra_sct,Chance Showers And Thunderstorms,73,74,6
+101,102,2024-07-25T04:00:00,"04 AM, Thu Jul 25",72,53,72.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,72,75,7
+102,103,2024-07-25T05:00:00,"05 AM, Thu Jul 25",71,53,71.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,71,76,7
+103,104,2024-07-25T06:00:00,"06 AM, Thu Jul 25",72,53,72.0,100,0,Calm,tsra,Chance Showers And Thunderstorms,72,75,8
+104,105,2024-07-25T07:00:00,"07 AM, Thu Jul 25",73,53,73.0,100,5,SW,tsra,Chance Showers And Thunderstorms,73,75,8
+105,106,2024-07-25T08:00:00,"08 AM, Thu Jul 25",74,36,73.0,97,5,SW,tsra,Chance Showers And Thunderstorms,74,75,9
+106,107,2024-07-25T09:00:00,"09 AM, Thu Jul 25",77,36,74.0,90,5,SW,tsra_sct,Chance Showers And Thunderstorms,77,71,9
+107,108,2024-07-25T10:00:00,"10 AM, Thu Jul 25",79,36,74.0,85,5,SW,tsra_sct,Chance Showers And Thunderstorms,79,68,10
+108,109,2024-07-25T11:00:00,"11 AM, Thu Jul 25",82,36,75.0,79,5,SW,tsra_sct,Chance Showers And Thunderstorms,89,65,10
+109,110,2024-07-25T12:00:00,"12 PM, Thu Jul 25",83,36,75.0,77,5,SW,tsra_sct,Chance Showers And Thunderstorms,90,64,12
+110,111,2024-07-25T13:00:00,"01 PM, Thu Jul 25",85,36,74.0,70,5,SW,tsra_sct,Chance Showers And Thunderstorms,93,64,12
+111,112,2024-07-25T14:00:00,"02 PM, Thu Jul 25",86,58,74.0,68,5,SW,tsra_sct,Showers And Thunderstorms Likely,94,63,13
+112,113,2024-07-25T15:00:00,"03 PM, Thu Jul 25",86,58,74.0,68,5,SW,tsra_sct,Showers And Thunderstorms Likely,94,67,13
+113,114,2024-07-25T16:00:00,"04 PM, Thu Jul 25",87,58,74.0,65,5,SW,tsra_sct,Showers And Thunderstorms Likely,95,70,13
+114,115,2024-07-25T17:00:00,"05 PM, Thu Jul 25",86,58,73.0,65,5,SW,tsra_sct,Showers And Thunderstorms Likely,93,74,13
+115,116,2024-07-25T18:00:00,"06 PM, Thu Jul 25",85,58,73.0,67,5,SW,tsra_sct,Showers And Thunderstorms Likely,92,72,12
+116,117,2024-07-25T19:00:00,"07 PM, Thu Jul 25",83,58,72.0,70,5,SW,tsra_sct,Showers And Thunderstorms Likely,88,70,10
+117,118,2024-07-25T20:00:00,"08 PM, Thu Jul 25",81,47,72.0,74,5,SW,tsra_sct,Chance Showers And Thunderstorms,85,69,9
+118,119,2024-07-25T21:00:00,"09 PM, Thu Jul 25",79,47,72.0,79,5,SW,tsra_sct,Chance Showers And Thunderstorms,79,68,9
+119,120,2024-07-25T22:00:00,"10 PM, Thu Jul 25",77,47,72.0,85,5,SW,tsra_sct,Chance Showers And Thunderstorms,77,67,8
+120,121,2024-07-25T23:00:00,"11 PM, Thu Jul 25",75,47,72.0,90,5,SW,tsra_sct,Chance Showers And Thunderstorms,75,67,8
+121,122,2024-07-26T00:00:00,"12 AM, Fri Jul 26",74,47,72.0,93,5,W,tsra_sct,Chance Showers And Thunderstorms,74,63,8
+122,123,2024-07-26T01:00:00,"01 AM, Fri Jul 26",74,47,71.0,90,5,W,tsra_hi,Chance Showers And Thunderstorms,74,59,7
+123,124,2024-07-26T02:00:00,"02 AM, Fri Jul 26",72,29,71.0,97,5,W,tsra_hi,Chance Showers And Thunderstorms,72,56,7
+124,125,2024-07-26T03:00:00,"03 AM, Fri Jul 26",72,29,71.0,97,5,W,tsra_hi,Chance Showers And Thunderstorms,72,58,7
+125,126,2024-07-26T04:00:00,"04 AM, Fri Jul 26",71,29,70.0,97,5,W,tsra_sct,Chance Showers And Thunderstorms,71,60,8
+126,127,2024-07-26T05:00:00,"05 AM, Fri Jul 26",70,29,70.0,100,5,W,tsra_sct,Chance Showers And Thunderstorms,70,62,8
+127,128,2024-07-26T06:00:00,"06 AM, Fri Jul 26",72,29,70.0,93,5,W,tsra_sct,Chance Showers And Thunderstorms,72,60,8
+128,129,2024-07-26T07:00:00,"07 AM, Fri Jul 26",72,29,71.0,97,5,W,tsra_hi,Chance Showers And Thunderstorms,72,58,8
+129,130,2024-07-26T08:00:00,"08 AM, Fri Jul 26",73,24,71.0,93,5,NW,rain_showers,Slight Chance Rain Showers,73,56,8
+130,131,2024-07-26T09:00:00,"09 AM, Fri Jul 26",76,24,71.0,85,5,NW,rain_showers,Slight Chance Rain Showers,76,54,8
+131,132,2024-07-26T10:00:00,"10 AM, Fri Jul 26",79,24,71.0,77,5,NW,rain_showers,Slight Chance Rain Showers,79,52,9
+132,133,2024-07-26T11:00:00,"11 AM, Fri Jul 26",81,24,71.0,72,5,NW,rain_showers,Slight Chance Rain Showers,85,50,9
+133,134,2024-07-26T12:00:00,"12 PM, Fri Jul 26",83,24,70.0,65,5,NW,rain_showers,Slight Chance Rain Showers,87,45,9
+134,135,2024-07-26T13:00:00,"01 PM, Fri Jul 26",85,24,70.0,61,5,W,rain_showers,Slight Chance Rain Showers,90,40,10
+135,136,2024-07-26T14:00:00,"02 PM, Fri Jul 26",87,29,69.0,55,5,W,tsra_hi,Chance Showers And Thunderstorms,91,35,10
+136,137,2024-07-26T15:00:00,"03 PM, Fri Jul 26",87,29,69.0,55,5,W,tsra_hi,Chance Showers And Thunderstorms,91,36,10
+137,138,2024-07-26T16:00:00,"04 PM, Fri Jul 26",87,29,69.0,55,5,W,tsra_hi,Chance Showers And Thunderstorms,91,36,10
+138,139,2024-07-26T17:00:00,"05 PM, Fri Jul 26",87,29,68.0,53,5,W,tsra_hi,Chance Showers And Thunderstorms,91,36,10
+139,140,2024-07-26T18:00:00,"06 PM, Fri Jul 26",85,29,68.0,57,5,W,tsra_hi,Chance Showers And Thunderstorms,88,36,9
+140,141,2024-07-26T19:00:00,"07 PM, Fri Jul 26",84,29,68.0,59,5,SW,tsra_hi,Chance Showers And Thunderstorms,87,36,9
+141,142,2024-07-26T20:00:00,"08 PM, Fri Jul 26",82,19,68.0,63,5,SW,tsra_hi,Slight Chance Showers And Thunderstorms,85,36,8
+142,143,2024-07-26T21:00:00,"09 PM, Fri Jul 26",79,19,68.0,69,5,SW,tsra_hi,Slight Chance Showers And Thunderstorms,79,36,7
+143,144,2024-07-26T22:00:00,"10 PM, Fri Jul 26",77,19,68.0,74,0,Calm,tsra_hi,Slight Chance Showers And Thunderstorms,77,35,7
+144,145,2024-07-26T23:00:00,"11 PM, Fri Jul 26",75,19,68.0,79,0,Calm,tsra_hi,Slight Chance Showers And Thunderstorms,75,35,6
+145,146,2024-07-27T00:00:00,"12 AM, Sat Jul 27",74,19,68.0,82,0,Calm,tsra_hi,Slight Chance Showers And Thunderstorms,74,34,6
+146,147,2024-07-27T01:00:00,"01 AM, Sat Jul 27",73,19,68.0,84,0,Calm,tsra_hi,Slight Chance Showers And Thunderstorms,73,32,5
+147,148,2024-07-27T02:00:00,"02 AM, Sat Jul 27",71,15,68.0,90,0,Calm,rain_showers,Slight Chance Rain Showers,71,31,5
+148,149,2024-07-27T03:00:00,"03 AM, Sat Jul 27",71,15,68.0,90,0,Calm,rain_showers,Slight Chance Rain Showers,71,32,5
+149,150,2024-07-27T04:00:00,"04 AM, Sat Jul 27",70,15,67.0,90,0,Calm,rain_showers,Slight Chance Rain Showers,70,34,6
+150,151,2024-07-27T05:00:00,"05 AM, Sat Jul 27",69,15,67.0,93,0,Calm,rain_showers,Slight Chance Rain Showers,69,36,6
+151,152,2024-07-27T06:00:00,"06 AM, Sat Jul 27",71,15,67.0,87,0,Calm,rain_showers,Slight Chance Rain Showers,71,34,6
+152,153,2024-07-27T07:00:00,"07 AM, Sat Jul 27",72,15,68.0,87,0,Calm,rain_showers,Slight Chance Rain Showers,72,32,6
+153,154,2024-07-27T08:00:00,"08 AM, Sat Jul 27",73,11,68.0,84,0,Calm,sct,Mostly Sunny,73,29,6
+154,155,2024-07-27T09:00:00,"09 AM, Sat Jul 27",77,11,68.0,74,0,Calm,sct,Mostly Sunny,77,28,6
+155,156,2024-07-27T10:00:00,"10 AM, Sat Jul 27",80,11,68.0,67,5,N,sct,Mostly Sunny,83,28,7

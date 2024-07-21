@@ -44,9 +44,11 @@ def get_hours():
         string = string[0]
         info.append(string)
 
+        info.append(ts["shortForecast"])
+
         periods.append(info)
     
-    periods = pd.DataFrame(data=periods, columns=["pdNum", "stTime", "readTime", "temp", "PoPs", "dewpt", "relHum", "wdSpd", "wdDir", "icon"])
+    periods = pd.DataFrame(data=periods, columns=["pdNum", "stTime", "readTime", "temp", "PoPs", "dewpt", "relHum", "wdSpd", "wdDir", "icon", "shrtFcst"])
 
     #get required data from griddata.json
     griddata = json.load(open("./files/griddata.json"))
