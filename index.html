@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="styles/style.css"/>
 <script type="module" crossorigin="anonymous">
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-//Shoutout to the d3.js documentation and adjacent resources.
+//Shoutout to the d3.js documentation and adjacent resources!
 
 // Part 0: SVG & Data Setup
 	//0.1: Define SVG dimensions
@@ -570,7 +570,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		gaugeLabel.text(barData.readTime)
 		iconLabel.text(barData.shrtFcst)
 		popsValue.text(barData.PoPs)
-		cldCvrValue.temp(barData.cldCvr)
+		cldCvrValue.text(barData.cldCvr)
 		foreground.transition()
 			.duration(250)
 			.attrTween("d", arcTween((barData.temp/100)*(2*tau/3)-tau/3))
