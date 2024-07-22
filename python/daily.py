@@ -37,4 +37,4 @@ def get_days():
 
     periods = pd.DataFrame(data=periods, columns=["name", "stTime", "isDay", "Temp", "PoPs", "wdSpd", "wdDir", "icon", "longFcst"])
 
-    return periods
+    periods.to_csv("./files/dayData.csv")

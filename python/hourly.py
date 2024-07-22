@@ -103,4 +103,5 @@ def get_hours():
 
     periods = periods.ffill(axis=0)
     periods = periods.bfill(axis=0)
-    return periods
+
+    periods.to_csv("./files/hourData.csv")
