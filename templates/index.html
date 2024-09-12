@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <div id="container"></div>
-<link rel="stylesheet" href="styles/style.css"/>
+<link rel="stylesheet" href="../static/styles/style.css"/>
 <script type="module">
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 //Shoutout to the d3.js documentation and adjacent resources.
@@ -26,7 +26,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		.attr("stroke", "white");
 
 	//0.4: Import Data
-	var hours = await d3.csv("files/hourData.csv", (d) => {
+	var hours = await d3.csv("../static/files/hourData.csv", (d) => {
 		return {
 			pdNum: d.pdNum,
 			stTime: new Date(d.stTime),
@@ -45,7 +45,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		};
 	});
 
-	var days = await d3.csv("files/dayData.csv")
+	var days = await d3.csv("../static/files/dayData.csv")
 
 // Part 1: Gauge Initialization Elements
 	//1.1: The Header
@@ -172,9 +172,9 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			}
 	}}
 	
-// Part 3: Main Gauge Elements
+// Part 3: Main Display Elements
 	//3.1: Current Weather Icon Display
-	let icon = "images/icons/partly-cloudy.svg"
+	let icon = "../static/images/icons/partly-cloudy.svg"
 	const graphic = svg.append("g")
 		.attr("id", "graphic")
 		.attr("opacity", "0");
@@ -206,7 +206,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 				.attr("font-weight", "800")
 			.append("tspan")
 				.attr("id", "locLabel")
-				.text("for Edison, NJ")
+				.text("for Ithaca, NY")
 				.attr("font-size", "40px")
 				.attr("font-weight", "200")
 		//3.2.1: Temperature Label
@@ -316,7 +316,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("x", "700")
 			.attr("y", "200");
 		//3.2.12: Currently Displayed Time Series
-		timeSeriesLabel.append("tspan")
+		const currentDisplay = timeSeriesLabel.append("tspan")
 			.attr("id", "currentDisplay")
 			.text("Temperature")
 			.attr("font-size", "40")
@@ -477,7 +477,6 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
 	function axisChange(direction) {d3.timeout(function() {
 		startingHour = (getStartingHour(direction))
-		console.log(startingHour)
 		xaxis.transition()
 			.duration(1000)
 			.call(d3.axisBottom(
@@ -521,7 +520,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	// 4.8: Create Arrow Buttons
 	const rightButton = graphic.append("svg:image")
 		.attr("id", "rightButton")
-		.attr("href", "images/buttons/right-arrow.svg")
+		.attr("href", "../static/images/buttons/right-arrow.svg")
 		.attr("width", "50px")
 		.attr("height", "50px")
 		.attr("x", "1500px")
@@ -529,18 +528,21 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	
 	const leftButton = graphic.append("image")
 		.attr("id", "leftButton")
-		.attr("href", "images/buttons/left-arrow.svg")
+		.attr("href", "../static/images/buttons/left-arrow.svg")
 		.attr("width", "50px")
 		.attr("height", "50px")
 		.attr("x", "750px")
 		.attr("y", "250px")
 	
 	// 4.9: Change Currently Displayed Time Period
+	
 		// 4.9.1: Right Button
 			rightButton.on("mouseenter", function(){
+				rightButton.attr("opacity","50%")
+			})			
+			rightButton.on("click", function(){
 				axisChange(1)
 				barMove()
-				rightButton.attr("opacity","50%")
 			})
 			rightButton.on("mouseleave", function(){
 				rightButton.attr("opacity", "100%")
@@ -548,13 +550,17 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
 		// 4.9.2: Left Button
 			leftButton.on("mouseenter", function(){
+				leftButton.attr("opacity", "50%")
+			})
+			leftButton.on("click", function(){
 				axisChange(-1)
 				barMove()
-				leftButton.attr("opacity","50%")
 			})
 			leftButton.on("mouseleave", function(){
 				leftButton.attr("opacity", "100%")
 			})
+
+
 
 // Part 5: Hourly Forecast Interactions
 	// 5.1: Update Gauge on Hover
@@ -583,8 +589,85 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	}
 
 
-// Part 6: Refresh Data
+// Part 6: Change Currently Displayed Information
+	// 6.1: Construct the SVG for the dropdown menu
+	const hourlyDropdown = graphic.append("svg")
+		.attr("id", "hourlyDropdown")
+		.attr("viewBox", [0, 0, 400, 300])
+		.attr("x", "1075px")
+		.attr("y", "215px")
+		.attr("width", "0px")
+		.attr("height", "0px")
+		
+	// 6.2: Add background for dropdown menu
+	hourlyDropdown.append("rect")
+		.attr("id", "dropdownBackground")
+		.attr("width", "400px")
+		.attr("height", "300px")
+		.attr("stroke-width", "0px")
+		.attr("fill", "rgb(47,49,71)")
+		.attr("opacity", "95%")
 	
+	// 6.3: Add text for other options
+	hourlyDropdown.append("text")
+		.attr("id", "PoPsSelector")
+		.text("Chance of Precipitation")
+		.attr("dy", "50px")
+		.attr("dx", "20px")
+		.attr("font-size", "30px")
+		.attr("font-weight", "100px")
+	
+	hourlyDropdown.append("text")
+		.attr("id", "wdSpdSelector")
+		.text("Wind Speed")
+		.attr("dy", "100px")
+		.attr("dx", "20px")
+		.attr("font-size", "30px")
+		.attr("font-weight", "100px")
+	
+	hourlyDropdown.append("text")
+		.attr("id", "cldCvrSelector")
+		.text("Cloud Cover")
+		.attr("dy", "150px")
+		.attr("dx", "20px")
+		.attr("font-size", "30px")
+		.attr("font-weight", "100px")
+
+	hourlyDropdown.append("text")
+		.attr("id", "relHumSelector")
+		.text("Relative Humidity")
+		.attr("dy", "200px")
+		.attr("dx", "20px")
+		.attr("font-size", "30px")
+		.attr("font-weight", "100px")
+
+	hourlyDropdown.append("text")
+		.attr("id", "tempSelector")
+		.text("Temperature")
+		.attr("dy", "250px")
+		.attr("dx", "20px")
+		.attr("font-size", "30px")
+		.attr("font-weight", "100px")
+	// 6.4: On click, show dropdown menu
+	currentDisplay.on("click", function(){showMenu()})
+
+	function showMenu() {d3.timeout(function() {
+		hourlyDropdown.transition()
+			.duration(250)
+			.attrTween("width", menuTween());
+	}) }
+
+	function menuTween(){
+		return function(d) {
+			const menuHeightInterpolate = d3.interpolateString(hourlyDropdown.attr("height"), "300")
+			const menuWidthInterpolate = d3.interpolateString(hourlyDropdown.attr("width"), "400")
+			return function(t) {
+				hourlyDropdown.attr("height", menuHeightInterpolate(t))
+				hourlyDropdown.attr("width", menuWidthInterpolate(t))
+				return hourlyDropdown.attr("width")
+			}
+		}
+	}
 
 // Part Final: Append the master SVG.
 container.append(svg.node());

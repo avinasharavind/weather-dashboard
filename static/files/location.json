@@ -42,53 +42,53 @@
             }
         }
     ],
-    "id": "https://api.weather.gov/points/40.5182,-74.4114",
+    "id": "https://api.weather.gov/points/42.4396,-76.4967999",
     "type": "Feature",
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -74.4114,
-            40.5182
+            -76.496799899999999,
+            42.439599999999999
         ]
     },
     "properties": {
-        "@id": "https://api.weather.gov/points/40.5182,-74.4114",
+        "@id": "https://api.weather.gov/points/42.4396,-76.4967999",
         "@type": "wx:Point",
-        "cwa": "PHI",
-        "forecastOffice": "https://api.weather.gov/offices/PHI",
-        "gridId": "PHI",
-        "gridX": 72,
-        "gridY": 105,
-        "forecast": "https://api.weather.gov/gridpoints/PHI/72,105/forecast",
-        "forecastHourly": "https://api.weather.gov/gridpoints/PHI/72,105/forecast/hourly",
-        "forecastGridData": "https://api.weather.gov/gridpoints/PHI/72,105",
-        "observationStations": "https://api.weather.gov/gridpoints/PHI/72,105/stations",
+        "cwa": "BGM",
+        "forecastOffice": "https://api.weather.gov/offices/BGM",
+        "gridId": "BGM",
+        "gridX": 44,
+        "gridY": 70,
+        "forecast": "https://api.weather.gov/gridpoints/BGM/44,70/forecast",
+        "forecastHourly": "https://api.weather.gov/gridpoints/BGM/44,70/forecast/hourly",
+        "forecastGridData": "https://api.weather.gov/gridpoints/BGM/44,70",
+        "observationStations": "https://api.weather.gov/gridpoints/BGM/44,70/stations",
         "relativeLocation": {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.427910999999995,
-                    40.500794900000002
+                    -76.503055000000003,
+                    42.443936999999998
                 ]
             },
             "properties": {
-                "city": "Highland Park",
-                "state": "NJ",
+                "city": "Ithaca",
+                "state": "NY",
                 "distance": {
                     "unitCode": "wmoUnit:m",
-                    "value": 2386.2228492588001
+                    "value": 704.29035958275995
                 },
                 "bearing": {
                     "unitCode": "wmoUnit:degree_(angle)",
-                    "value": 35
+                    "value": 133
                 }
             }
         },
-        "forecastZone": "https://api.weather.gov/zones/forecast/NJZ012",
-        "county": "https://api.weather.gov/zones/county/NJC023",
-        "fireWeatherZone": "https://api.weather.gov/zones/fire/NJZ012",
+        "forecastZone": "https://api.weather.gov/zones/forecast/NYZ025",
+        "county": "https://api.weather.gov/zones/county/NYC109",
+        "fireWeatherZone": "https://api.weather.gov/zones/fire/NYZ210",
         "timeZone": "America/New_York",
-        "radarStation": "KDIX"
+        "radarStation": "KBGM"
     }
 }

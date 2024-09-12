@@ -5,7 +5,7 @@ import time, calendar
 
 def get_hours():
     #get required hourly data from hours.json
-    outlook = json.load(open("./files/hourly.json"))
+    outlook = json.load(open("./static/files/hourly.json"))
 
     periods = []
     for ts in outlook["properties"]["periods"]:
@@ -51,7 +51,7 @@ def get_hours():
     periods = pd.DataFrame(data=periods, columns=["pdNum", "stTime", "readTime", "temp", "PoPs", "dewpt", "relHum", "wdSpd", "wdDir", "icon", "shrtFcst"])
 
     #get required data from griddata.json
-    griddata = json.load(open("./files/griddata.json"))
+    griddata = json.load(open("./static/files/griddata.json"))
     feelsLike = []
     for entry in griddata["properties"]["apparentTemperature"]["values"]:
 
@@ -104,4 +104,4 @@ def get_hours():
     periods = periods.ffill(axis=0)
     periods = periods.bfill(axis=0)
 
-    periods.to_csv("./files/hourData.csv")
+    periods.to_csv("./static/files/hourData.csv")

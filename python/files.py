@@ -50,9 +50,9 @@ def get_forecast(lat, long):
 
     url = f"https://api.weather.gov/points/{lat},{long}"
     response = requests.get(url)
-    open("./files/location.json", "wb").write(response.content)
+    open("./static/files/location.json", "wb").write(response.content)
 
-    f = open("./files/location.json")
+    f = open("./static/files/location.json")
     data = json.load(f)
     properties = data["properties"]
     forecast = properties["forecast"]
@@ -61,14 +61,14 @@ def get_forecast(lat, long):
     griddata = properties["forecastGridData"]
 
     office_page = requests.get(office)
-    open("./files/office.json", "wb").write(office_page.content)
+    open("./static/files/office.json", "wb").write(office_page.content)
     
     forecast_page = requests.get(forecast)
-    open("./files/forecast.json", "wb").write(forecast_page.content)
+    open("./static/files/forecast.json", "wb").write(forecast_page.content)
 
     hourly_page = requests.get(hourly)
-    open("./files/hourly.json", "wb").write(hourly_page.content)
+    open("./static/files/hourly.json", "wb").write(hourly_page.content)
 
     griddata_page = requests.get(griddata)
-    open("./files/griddata.json", "wb").write(griddata_page.content)
+    open("./static/files/griddata.json", "wb").write(griddata_page.content)
 
