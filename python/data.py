@@ -16,7 +16,7 @@ def job():
     hourly_data("Ithaca, NY")
     daily_data("Ithaca, NY")
 
-schedule.every().minute.do(job)
+schedule.every().hour.do(job)
 
 while True:
     schedule.run_pending()

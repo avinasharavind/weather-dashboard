@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/python/data.py", line 23, in <module>
+    time.sleep(1)
+KeyboardInterrupt
