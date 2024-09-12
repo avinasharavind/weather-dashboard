@@ -42,17 +42,17 @@
             }
         }
     ],
-    "id": "https://api.weather.gov/points/42.4396,-76.4967999",
+    "id": "https://api.weather.gov/points/42.44,-76.495",
     "type": "Feature",
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -76.496799899999999,
-            42.439599999999999
+            -76.495000000000005,
+            42.439999999999998
         ]
     },
     "properties": {
-        "@id": "https://api.weather.gov/points/42.4396,-76.4967999",
+        "@id": "https://api.weather.gov/points/42.44,-76.495",
         "@type": "wx:Point",
         "cwa": "BGM",
         "forecastOffice": "https://api.weather.gov/offices/BGM",
@@ -77,11 +77,11 @@
                 "state": "NY",
                 "distance": {
                     "unitCode": "wmoUnit:m",
-                    "value": 704.29035958275995
+                    "value": 792.80149769778996
                 },
                 "bearing": {
                     "unitCode": "wmoUnit:degree_(angle)",
-                    "value": 133
+                    "value": 123
                 }
             }
         },

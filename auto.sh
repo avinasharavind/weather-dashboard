@@ -1,3 +1,5 @@
 #!/bin/bash
-git commit -a -m "forecast update `date +%F-%T`"
-git push
+MESSAGE="Auto-commit: $(date)"
+REPO_PATH="/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page"
+git -C "$REPO_PATH" add -A
+git -C "$REPO_PATH" commit -m "$MESSAGE"
