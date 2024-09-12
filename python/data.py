@@ -1,7 +1,4 @@
 #imports
-import schedule 
-import time
-import random
 import files, hourly, daily
 
 def hourly_data(loc):

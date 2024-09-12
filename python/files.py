@@ -11,9 +11,9 @@ import json
 
 
 #Gets and store location info from OSM/Nominatim
-loclist = ["Edison, NJ"]
-latlist = [40.518157]
-longlist = [-74.4113926]
+loclist = ["Edison, NJ", "Ithaca, NY"]
+latlist = [40.518157, 42.44]
+longlist = [-74.4113926, -76.495]
 
 def get_coords(loc):
     """
