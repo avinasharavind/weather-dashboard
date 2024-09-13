@@ -5,7 +5,7 @@ import time
 
 def get_days():
     #Gets daily (Day/Night) data from forecast.json
-    outlook = json.load(open("./static/files/forecast.json"))
+    outlook = json.load(open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/forecast.json"))
 
     periods = []
     for ts in outlook["properties"]["periods"]:
@@ -37,4 +37,4 @@ def get_days():
 
     periods = pd.DataFrame(data=periods, columns=["name", "stTime", "isDay", "Temp", "PoPs", "wdSpd", "wdDir", "icon", "longFcst"])
 
-    periods.to_csv("./static/files/dayData.csv")
+    periods.to_csv("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/dayData.csv")

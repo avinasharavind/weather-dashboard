@@ -50,9 +50,9 @@ def get_forecast(lat, long):
 
     url = f"https://api.weather.gov/points/{lat},{long}"
     response = requests.get(url)
-    open("./static/files/location.json", "wb").write(response.content)
+    open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/location.json", "wb").write(response.content)
 
-    f = open("./static/files/location.json")
+    f = open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/location.json")
     data = json.load(f)
     properties = data["properties"]
     forecast = properties["forecast"]
@@ -61,14 +61,14 @@ def get_forecast(lat, long):
     griddata = properties["forecastGridData"]
 
     office_page = requests.get(office)
-    open("./static/files/office.json", "wb").write(office_page.content)
+    open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/office.json", "wb").write(office_page.content)
     
     forecast_page = requests.get(forecast)
-    open("./static/files/forecast.json", "wb").write(forecast_page.content)
+    open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/forecast.json", "wb").write(forecast_page.content)
 
     hourly_page = requests.get(hourly)
-    open("./static/files/hourly.json", "wb").write(hourly_page.content)
+    open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/hourly.json", "wb").write(hourly_page.content)
 
     griddata_page = requests.get(griddata)
-    open("./static/files/griddata.json", "wb").write(griddata_page.content)
+    open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/griddata.json", "wb").write(griddata_page.content)
 

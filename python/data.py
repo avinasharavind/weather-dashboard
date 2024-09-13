@@ -12,14 +12,16 @@ def daily_data(loc):
     files.get_forecast(lat, long)
     daily.get_days()
 
+place = "Edison, NJ"
+
 def job():
-    hourly_data("Ithaca, NY")
-    daily_data("Ithaca, NY")
+    hourly_data(place)
+    daily_data(place)
 
-schedule.every().hour.at(":05").do(job)
+#schedule.every().hour.at(":05").do(job)
 
-while True:
-    schedule.run_pending()
-    time.sleep(1)
+#while True:
+#    schedule.run_pending()
+#    time.sleep(1)
 
-#job()
+job()
