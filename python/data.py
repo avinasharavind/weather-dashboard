@@ -12,7 +12,7 @@ def daily_data(loc):
     files.get_forecast(lat, long)
     daily.get_days()
 
-place = "Edison, NJ"
+place = "Ithaca, NY"
 
 def job():
     hourly_data(place)
