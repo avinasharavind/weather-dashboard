@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-13T11:05:01+00:00",
-        "updateTime": "2024-09-13T10:22:55+00:00",
-        "validTimes": "2024-09-13T04:00:00+00:00/P7DT21H",
+        "generatedAt": "2024-09-13T16:18:40+00:00",
+        "updateTime": "2024-09-13T14:19:41+00:00",
+        "validTimes": "2024-09-13T08:00:00+00:00/P7DT17H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,11 +50,11 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-09-13T07:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2024-09-13T12:00:00-04:00",
                 "endTime": "2024-09-13T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 84,
+                "temperature": 83,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "2 mph",
-                "windDirection": "SW",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 84. Southwest wind around 2 mph."
+                "detailedForecast": "Sunny, with a high near 83. Northwest wind around 2 mph."
             },
             {
                 "number": 2,

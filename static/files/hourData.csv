@@ -1,157 +1,157 @@
 ,pdNum,stTime,readTime,temp,PoPs,dewpt,relHum,wdSpd,wdDir,icon,shrtFcst,appTemp,cldCvr,wdGst
-0,1,2024-09-13T07:00:00,"07 AM, Fri Sep 13",57,0,56.0,96,2,SE,skc,Sunny,59,1,6
-1,2,2024-09-13T08:00:00,"08 AM, Fri Sep 13",59,0,57.0,93,2,SE,skc,Sunny,59,2,6
-2,3,2024-09-13T09:00:00,"09 AM, Fri Sep 13",64,0,60.0,87,2,SE,skc,Sunny,64,3,6
-3,4,2024-09-13T10:00:00,"10 AM, Fri Sep 13",72,0,63.0,73,2,S,skc,Sunny,72,2,6
-4,5,2024-09-13T11:00:00,"11 AM, Fri Sep 13",76,0,65.0,69,2,SW,skc,Sunny,76,2,6
-5,6,2024-09-13T12:00:00,"12 PM, Fri Sep 13",80,0,64.0,58,2,W,skc,Sunny,82,1,6
-6,7,2024-09-13T13:00:00,"01 PM, Fri Sep 13",81,0,64.0,56,2,NW,skc,Sunny,83,2,6
-7,8,2024-09-13T14:00:00,"02 PM, Fri Sep 13",83,0,64.0,53,2,N,skc,Sunny,84,3,6
-8,9,2024-09-13T15:00:00,"03 PM, Fri Sep 13",83,0,64.0,53,2,N,skc,Sunny,84,5,6
-9,10,2024-09-13T16:00:00,"04 PM, Fri Sep 13",84,0,64.0,51,2,N,few,Sunny,85,7,6
-10,11,2024-09-13T17:00:00,"05 PM, Fri Sep 13",82,0,65.0,56,2,N,few,Sunny,84,8,6
-11,12,2024-09-13T18:00:00,"06 PM, Fri Sep 13",81,0,65.0,58,2,N,few,Mostly Clear,83,7,5
-12,13,2024-09-13T19:00:00,"07 PM, Fri Sep 13",78,0,65.0,64,2,N,few,Mostly Clear,78,7,5
-13,14,2024-09-13T20:00:00,"08 PM, Fri Sep 13",72,0,64.0,76,2,NE,few,Mostly Clear,72,11,3
-14,15,2024-09-13T21:00:00,"09 PM, Fri Sep 13",69,0,63.0,81,1,NE,few,Mostly Clear,69,9,2
-15,16,2024-09-13T22:00:00,"10 PM, Fri Sep 13",67,0,62.0,84,1,E,few,Mostly Clear,67,9,2
-16,17,2024-09-13T23:00:00,"11 PM, Fri Sep 13",65,0,62.0,90,1,SE,few,Mostly Clear,65,8,2
-17,18,2024-09-14T00:00:00,"12 AM, Sat Sep 14",64,0,62.0,93,0,Calm,few,Mostly Clear,64,7,2
-18,19,2024-09-14T01:00:00,"01 AM, Sat Sep 14",63,0,60.0,90,0,Calm,few,Mostly Clear,63,8,1
-19,20,2024-09-14T02:00:00,"02 AM, Sat Sep 14",61,0,60.0,97,0,Calm,fog,Patchy Fog,61,7,1
-20,21,2024-09-14T03:00:00,"03 AM, Sat Sep 14",61,0,59.0,93,0,Calm,few,Mostly Clear,61,6,1
-21,22,2024-09-14T04:00:00,"04 AM, Sat Sep 14",60,0,59.0,96,0,Calm,fog,Patchy Fog,60,9,1
-22,23,2024-09-14T05:00:00,"05 AM, Sat Sep 14",59,0,58.0,96,0,Calm,fog,Patchy Fog,59,8,2
-23,24,2024-09-14T06:00:00,"06 AM, Sat Sep 14",59,0,58.0,96,0,Calm,fog,Patchy Fog,59,21,2
-24,25,2024-09-14T07:00:00,"07 AM, Sat Sep 14",58,0,57.0,96,1,SE,fog,Patchy Fog,58,18,2
-25,26,2024-09-14T08:00:00,"08 AM, Sat Sep 14",60,0,60.0,100,1,E,fog,Patchy Fog,60,14,2
-26,27,2024-09-14T09:00:00,"09 AM, Sat Sep 14",65,0,63.0,93,0,Calm,few,Sunny,65,6,2
-27,28,2024-09-14T10:00:00,"10 AM, Sat Sep 14",73,0,66.0,79,1,E,few,Sunny,73,8,3
-28,29,2024-09-14T11:00:00,"11 AM, Sat Sep 14",77,0,68.0,74,1,NE,few,Sunny,77,16,3
-29,30,2024-09-14T12:00:00,"12 PM, Sat Sep 14",80,0,67.0,65,2,NE,few,Sunny,82,14,5
-30,31,2024-09-14T13:00:00,"01 PM, Sat Sep 14",82,0,67.0,61,2,NE,few,Sunny,85,13,5
-31,32,2024-09-14T14:00:00,"02 PM, Sat Sep 14",84,0,66.0,55,3,NE,few,Sunny,86,11,6
-32,33,2024-09-14T15:00:00,"03 PM, Sat Sep 14",85,0,66.0,53,3,NE,few,Sunny,87,12,6
-33,34,2024-09-14T16:00:00,"04 PM, Sat Sep 14",84,0,66.0,55,2,NE,few,Sunny,86,12,6
-34,35,2024-09-14T17:00:00,"05 PM, Sat Sep 14",84,0,66.0,55,2,NE,few,Sunny,86,13,6
-35,36,2024-09-14T18:00:00,"06 PM, Sat Sep 14",81,0,66.0,60,2,NE,few,Mostly Clear,83,15,5
-36,37,2024-09-14T19:00:00,"07 PM, Sat Sep 14",76,0,65.0,69,2,NE,few,Mostly Clear,76,16,5
-37,38,2024-09-14T20:00:00,"08 PM, Sat Sep 14",73,0,65.0,76,2,NE,few,Mostly Clear,73,18,3
-38,39,2024-09-14T21:00:00,"09 PM, Sat Sep 14",71,0,64.0,79,2,E,few,Mostly Clear,71,17,3
-39,40,2024-09-14T22:00:00,"10 PM, Sat Sep 14",69,0,64.0,84,1,E,few,Mostly Clear,69,16,3
-40,41,2024-09-14T23:00:00,"11 PM, Sat Sep 14",67,0,63.0,87,1,E,few,Mostly Clear,67,15,3
-41,42,2024-09-15T00:00:00,"12 AM, Sun Sep 15",65,0,62.0,90,1,E,few,Mostly Clear,65,13,3
-42,43,2024-09-15T01:00:00,"01 AM, Sun Sep 15",64,0,62.0,93,2,SE,fog,Patchy Fog,64,31,3
-43,44,2024-09-15T02:00:00,"02 AM, Sun Sep 15",63,0,61.0,93,2,SE,fog,Patchy Fog,63,31,3
-44,45,2024-09-15T03:00:00,"03 AM, Sun Sep 15",62,0,60.0,93,2,SE,fog,Patchy Fog,62,31,3
-45,46,2024-09-15T04:00:00,"04 AM, Sun Sep 15",62,0,60.0,93,2,SE,fog,Patchy Fog,62,31,5
-46,47,2024-09-15T05:00:00,"05 AM, Sun Sep 15",61,0,59.0,93,2,SE,fog,Patchy Fog,61,31,5
-47,48,2024-09-15T06:00:00,"06 AM, Sun Sep 15",60,0,60.0,100,2,SE,fog,Patchy Fog,60,31,5
-48,49,2024-09-15T07:00:00,"07 AM, Sun Sep 15",62,0,60.0,93,2,SE,fog,Patchy Fog,62,31,6
-49,50,2024-09-15T08:00:00,"08 AM, Sun Sep 15",63,0,61.0,93,2,SE,fog,Patchy Fog,63,31,6
-50,51,2024-09-15T09:00:00,"09 AM, Sun Sep 15",68,0,63.0,84,2,S,skc,Sunny,68,5,6
-51,52,2024-09-15T10:00:00,"10 AM, Sun Sep 15",73,0,65.0,76,3,S,skc,Sunny,73,5,7
-52,53,2024-09-15T11:00:00,"11 AM, Sun Sep 15",78,0,67.0,69,3,S,skc,Sunny,78,5,7
-53,54,2024-09-15T12:00:00,"12 PM, Sun Sep 15",80,0,67.0,65,3,S,few,Sunny,82,6,7
-54,55,2024-09-15T13:00:00,"01 PM, Sun Sep 15",82,0,66.0,58,3,S,few,Sunny,84,7,8
-55,56,2024-09-15T14:00:00,"02 PM, Sun Sep 15",84,2,66.0,55,3,S,few,Sunny,86,8,8
-56,57,2024-09-15T15:00:00,"03 PM, Sun Sep 15",84,2,66.0,55,3,S,few,Sunny,86,11,8
-57,58,2024-09-15T16:00:00,"04 PM, Sun Sep 15",83,2,65.0,55,3,SE,few,Sunny,85,13,8
-58,59,2024-09-15T17:00:00,"05 PM, Sun Sep 15",83,2,65.0,55,3,SE,few,Sunny,85,16,8
-59,60,2024-09-15T18:00:00,"06 PM, Sun Sep 15",80,2,64.0,58,3,SE,few,Mostly Clear,82,20,7
-60,61,2024-09-15T19:00:00,"07 PM, Sun Sep 15",76,2,64.0,66,2,SE,few,Mostly Clear,76,24,6
-61,62,2024-09-15T20:00:00,"08 PM, Sun Sep 15",73,0,63.0,71,2,SE,sct,Partly Cloudy,73,28,5
-62,63,2024-09-15T21:00:00,"09 PM, Sun Sep 15",71,0,62.0,73,2,SE,few,Mostly Clear,71,24,5
-63,64,2024-09-15T22:00:00,"10 PM, Sun Sep 15",69,0,62.0,78,2,SE,few,Mostly Clear,69,19,5
-64,65,2024-09-15T23:00:00,"11 PM, Sun Sep 15",67,0,61.0,81,2,S,few,Mostly Clear,67,15,5
-65,66,2024-09-16T00:00:00,"12 AM, Mon Sep 16",66,0,61.0,84,2,S,few,Mostly Clear,66,14,5
-66,67,2024-09-16T01:00:00,"01 AM, Mon Sep 16",65,0,60.0,84,2,S,few,Mostly Clear,65,13,5
-67,68,2024-09-16T02:00:00,"02 AM, Mon Sep 16",64,0,60.0,87,2,S,few,Mostly Clear,64,12,5
-68,69,2024-09-16T03:00:00,"03 AM, Mon Sep 16",63,0,59.0,87,2,S,few,Mostly Clear,63,12,5
-69,70,2024-09-16T04:00:00,"04 AM, Mon Sep 16",62,0,59.0,90,2,S,few,Mostly Clear,62,13,5
-70,71,2024-09-16T05:00:00,"05 AM, Mon Sep 16",61,0,58.0,90,2,S,few,Mostly Clear,61,13,5
-71,72,2024-09-16T06:00:00,"06 AM, Mon Sep 16",61,0,58.0,90,2,S,few,Sunny,61,13,5
-72,73,2024-09-16T07:00:00,"07 AM, Mon Sep 16",62,0,59.0,90,2,S,few,Sunny,62,14,5
-73,74,2024-09-16T08:00:00,"08 AM, Mon Sep 16",62,0,59.0,90,2,S,few,Sunny,62,14,5
-74,75,2024-09-16T09:00:00,"09 AM, Mon Sep 16",67,0,60.0,78,2,S,few,Sunny,67,12,5
-75,76,2024-09-16T10:00:00,"10 AM, Mon Sep 16",71,0,62.0,73,2,S,few,Sunny,71,11,6
-76,77,2024-09-16T11:00:00,"11 AM, Mon Sep 16",76,0,63.0,64,2,S,few,Sunny,76,9,6
-77,78,2024-09-16T12:00:00,"12 PM, Mon Sep 16",78,0,63.0,60,2,S,few,Sunny,78,12,7
-78,79,2024-09-16T13:00:00,"01 PM, Mon Sep 16",80,0,63.0,56,3,SE,few,Sunny,81,15,7
-79,80,2024-09-16T14:00:00,"02 PM, Mon Sep 16",82,0,63.0,53,3,SE,few,Sunny,83,18,8
-80,81,2024-09-16T15:00:00,"03 PM, Mon Sep 16",82,0,63.0,53,3,SE,few,Sunny,83,16,8
-81,82,2024-09-16T16:00:00,"04 PM, Mon Sep 16",81,0,63.0,54,3,E,few,Sunny,82,13,7
-82,83,2024-09-16T17:00:00,"05 PM, Mon Sep 16",81,0,63.0,54,3,E,few,Sunny,82,11,7
-83,84,2024-09-16T18:00:00,"06 PM, Mon Sep 16",77,0,62.0,60,3,E,few,Mostly Clear,77,13,6
-84,85,2024-09-16T19:00:00,"07 PM, Mon Sep 16",74,0,62.0,66,2,SE,few,Mostly Clear,74,15,5
-85,86,2024-09-16T20:00:00,"08 PM, Mon Sep 16",70,0,61.0,73,2,SE,few,Mostly Clear,70,17,3
-86,87,2024-09-16T21:00:00,"09 PM, Mon Sep 16",68,0,60.0,76,2,SE,few,Mostly Clear,68,20,3
-87,88,2024-09-16T22:00:00,"10 PM, Mon Sep 16",67,0,59.0,75,2,SE,few,Mostly Clear,67,24,3
-88,89,2024-09-16T23:00:00,"11 PM, Mon Sep 16",65,0,58.0,78,2,SE,sct,Partly Cloudy,65,27,3
-89,90,2024-09-17T00:00:00,"12 AM, Tue Sep 17",64,0,57.0,78,2,SE,few,Mostly Clear,64,25,3
-90,91,2024-09-17T01:00:00,"01 AM, Tue Sep 17",62,0,57.0,84,2,S,few,Mostly Clear,62,22,3
-91,92,2024-09-17T02:00:00,"02 AM, Tue Sep 17",61,2,56.0,84,2,S,few,Mostly Clear,61,20,3
-92,93,2024-09-17T03:00:00,"03 AM, Tue Sep 17",60,2,55.0,84,2,S,sct,Partly Cloudy,60,26,3
-93,94,2024-09-17T04:00:00,"04 AM, Tue Sep 17",60,2,55.0,84,2,SE,sct,Partly Cloudy,60,33,3
-94,95,2024-09-17T05:00:00,"05 AM, Tue Sep 17",59,2,54.0,83,2,SE,sct,Partly Cloudy,59,39,3
-95,96,2024-09-17T06:00:00,"06 AM, Tue Sep 17",59,2,55.0,87,2,SE,sct,Mostly Sunny,59,35,3
-96,97,2024-09-17T07:00:00,"07 AM, Tue Sep 17",60,2,55.0,84,2,SE,sct,Mostly Sunny,60,32,5
-97,98,2024-09-17T08:00:00,"08 AM, Tue Sep 17",60,3,56.0,87,2,SE,sct,Mostly Sunny,60,28,5
-98,99,2024-09-17T09:00:00,"09 AM, Tue Sep 17",65,3,58.0,78,2,SE,sct,Mostly Sunny,65,29,5
-99,100,2024-09-17T10:00:00,"10 AM, Tue Sep 17",69,3,59.0,70,2,SE,sct,Mostly Sunny,69,31,6
-100,101,2024-09-17T11:00:00,"11 AM, Tue Sep 17",74,3,61.0,64,2,SE,sct,Mostly Sunny,74,32,6
-101,102,2024-09-17T12:00:00,"12 PM, Tue Sep 17",76,3,61.0,60,3,SE,sct,Mostly Sunny,76,35,7
-102,103,2024-09-17T13:00:00,"01 PM, Tue Sep 17",78,3,61.0,56,3,SE,sct,Mostly Sunny,78,38,7
-103,104,2024-09-17T14:00:00,"02 PM, Tue Sep 17",80,6,61.0,52,5,SE,sct,Mostly Sunny,81,41,8
-104,105,2024-09-17T15:00:00,"03 PM, Tue Sep 17",80,6,61.0,52,5,SE,sct,Mostly Sunny,81,41,8
-105,106,2024-09-17T16:00:00,"04 PM, Tue Sep 17",79,6,61.0,54,3,SE,sct,Mostly Sunny,79,40,8
-106,107,2024-09-17T17:00:00,"05 PM, Tue Sep 17",79,6,61.0,54,3,SE,sct,Mostly Sunny,79,40,8
-107,108,2024-09-17T18:00:00,"06 PM, Tue Sep 17",76,6,60.0,58,3,SE,sct,Partly Cloudy,76,42,7
-108,109,2024-09-17T19:00:00,"07 PM, Tue Sep 17",73,6,60.0,64,2,SE,sct,Partly Cloudy,73,44,6
-109,110,2024-09-17T20:00:00,"08 PM, Tue Sep 17",70,10,59.0,68,2,SE,sct,Partly Cloudy,70,46,5
-110,111,2024-09-17T21:00:00,"09 PM, Tue Sep 17",68,10,58.0,70,2,SE,sct,Partly Cloudy,68,49,5
-111,112,2024-09-17T22:00:00,"10 PM, Tue Sep 17",67,10,58.0,73,2,SE,bkn,Mostly Cloudy,67,51,5
-112,113,2024-09-17T23:00:00,"11 PM, Tue Sep 17",65,10,57.0,75,2,SE,bkn,Mostly Cloudy,65,54,5
-113,114,2024-09-18T00:00:00,"12 AM, Wed Sep 18",64,10,57.0,78,2,SE,bkn,Mostly Cloudy,64,53,5
-114,115,2024-09-18T01:00:00,"01 AM, Wed Sep 18",63,10,57.0,81,2,SE,bkn,Mostly Cloudy,63,51,5
-115,116,2024-09-18T02:00:00,"02 AM, Wed Sep 18",62,12,57.0,84,2,SE,sct,Partly Cloudy,62,50,5
-116,117,2024-09-18T03:00:00,"03 AM, Wed Sep 18",62,12,57.0,84,2,SE,bkn,Mostly Cloudy,62,53,5
-117,118,2024-09-18T04:00:00,"04 AM, Wed Sep 18",61,12,57.0,87,2,SE,bkn,Mostly Cloudy,61,57,5
-118,119,2024-09-18T05:00:00,"05 AM, Wed Sep 18",61,12,57.0,87,2,SE,bkn,Mostly Cloudy,61,60,5
-119,120,2024-09-18T06:00:00,"06 AM, Wed Sep 18",61,12,58.0,90,2,SE,bkn,Partly Sunny,61,59,5
-120,121,2024-09-18T07:00:00,"07 AM, Wed Sep 18",62,12,58.0,87,2,SE,bkn,Partly Sunny,62,59,5
-121,122,2024-09-18T08:00:00,"08 AM, Wed Sep 18",62,13,59.0,90,2,SE,bkn,Partly Sunny,62,58,5
-122,123,2024-09-18T09:00:00,"09 AM, Wed Sep 18",66,13,61.0,84,2,SE,bkn,Partly Sunny,66,59,6
-123,124,2024-09-18T10:00:00,"10 AM, Wed Sep 18",69,13,62.0,78,3,SE,bkn,Partly Sunny,69,61,7
-124,125,2024-09-18T11:00:00,"11 AM, Wed Sep 18",73,13,64.0,73,3,SE,bkn,Partly Sunny,73,62,8
-125,126,2024-09-18T12:00:00,"12 PM, Wed Sep 18",74,13,64.0,71,3,SE,bkn,Partly Sunny,74,65,8
-126,127,2024-09-18T13:00:00,"01 PM, Wed Sep 18",76,13,65.0,69,5,SE,bkn,Partly Sunny,76,69,9
-127,128,2024-09-18T14:00:00,"02 PM, Wed Sep 18",77,16,65.0,67,5,SE,rain_showers,Slight Chance Rain Showers,77,72,9
-128,129,2024-09-18T15:00:00,"03 PM, Wed Sep 18",77,16,65.0,67,5,SE,rain_showers,Slight Chance Rain Showers,77,72,9
-129,130,2024-09-18T16:00:00,"04 PM, Wed Sep 18",76,16,65.0,69,5,SE,rain_showers,Slight Chance Rain Showers,76,71,9
-130,131,2024-09-18T17:00:00,"05 PM, Wed Sep 18",76,16,65.0,69,5,SE,rain_showers,Slight Chance Rain Showers,76,71,9
-131,132,2024-09-18T18:00:00,"06 PM, Wed Sep 18",74,16,64.0,71,3,SE,rain_showers,Slight Chance Rain Showers,74,74,8
-132,133,2024-09-18T19:00:00,"07 PM, Wed Sep 18",71,16,64.0,79,3,SE,rain_showers,Slight Chance Rain Showers,71,76,7
-133,134,2024-09-18T20:00:00,"08 PM, Wed Sep 18",69,18,63.0,81,2,SE,rain_showers,Slight Chance Rain Showers,69,79,6
-134,135,2024-09-18T21:00:00,"09 PM, Wed Sep 18",68,18,63.0,84,2,SE,rain_showers,Slight Chance Rain Showers,68,79,6
-135,136,2024-09-18T22:00:00,"10 PM, Wed Sep 18",66,18,62.0,87,2,SE,rain_showers,Slight Chance Rain Showers,66,78,5
-136,137,2024-09-18T23:00:00,"11 PM, Wed Sep 18",65,18,62.0,90,2,SE,rain_showers,Slight Chance Rain Showers,65,78,5
-137,138,2024-09-19T00:00:00,"12 AM, Thu Sep 19",65,18,61.0,87,2,SE,rain_showers,Slight Chance Rain Showers,65,77,5
-138,139,2024-09-19T01:00:00,"01 AM, Thu Sep 19",64,18,61.0,90,2,SE,rain_showers,Slight Chance Rain Showers,64,75,3
-139,140,2024-09-19T02:00:00,"02 AM, Thu Sep 19",64,14,60.0,87,2,SE,bkn,Mostly Cloudy,64,74,3
-140,141,2024-09-19T03:00:00,"03 AM, Thu Sep 19",63,14,60.0,90,2,SE,bkn,Mostly Cloudy,63,75,3
-141,142,2024-09-19T04:00:00,"04 AM, Thu Sep 19",63,14,59.0,87,2,SE,bkn,Mostly Cloudy,63,75,5
-142,143,2024-09-19T05:00:00,"05 AM, Thu Sep 19",62,14,59.0,90,2,SE,bkn,Mostly Cloudy,62,76,5
-143,144,2024-09-19T06:00:00,"06 AM, Thu Sep 19",62,14,60.0,93,2,SE,bkn,Mostly Cloudy,62,74,5
-144,145,2024-09-19T07:00:00,"07 AM, Thu Sep 19",63,14,60.0,90,2,SE,bkn,Mostly Cloudy,63,71,5
-145,146,2024-09-19T08:00:00,"08 AM, Thu Sep 19",63,16,61.0,93,2,SE,rain_showers,Slight Chance Rain Showers,63,69,5
-146,147,2024-09-19T09:00:00,"09 AM, Thu Sep 19",66,16,63.0,90,2,SE,rain_showers,Slight Chance Rain Showers,66,67,6
-147,148,2024-09-19T10:00:00,"10 AM, Thu Sep 19",70,16,64.0,81,3,SE,rain_showers,Slight Chance Rain Showers,70,64,7
-148,149,2024-09-19T11:00:00,"11 AM, Thu Sep 19",73,16,66.0,79,3,SE,rain_showers,Slight Chance Rain Showers,73,62,8
-149,150,2024-09-19T12:00:00,"12 PM, Thu Sep 19",74,16,66.0,76,5,SE,rain_showers,Slight Chance Rain Showers,74,64,9
-150,151,2024-09-19T13:00:00,"01 PM, Thu Sep 19",76,16,66.0,71,5,E,rain_showers,Slight Chance Rain Showers,76,65,9
-151,152,2024-09-19T14:00:00,"02 PM, Thu Sep 19",77,16,66.0,69,6,E,rain_showers,Slight Chance Rain Showers,77,67,10
-152,153,2024-09-19T15:00:00,"03 PM, Thu Sep 19",77,16,66.0,69,6,E,rain_showers,Slight Chance Rain Showers,77,66,10
-153,154,2024-09-19T16:00:00,"04 PM, Thu Sep 19",77,16,65.0,67,5,E,rain_showers,Slight Chance Rain Showers,77,65,9
-154,155,2024-09-19T17:00:00,"05 PM, Thu Sep 19",77,16,65.0,67,5,E,rain_showers,Slight Chance Rain Showers,77,64,9
-155,156,2024-09-19T18:00:00,"06 PM, Thu Sep 19",74,16,64.0,71,5,E,rain_showers,Slight Chance Rain Showers,74,64,8
+0,1,2024-09-13T12:00:00,"12 PM, Fri Sep 13",77,0,64.0,64,2,W,skc,Sunny,77,1,5
+1,2,2024-09-13T13:00:00,"01 PM, Fri Sep 13",80,0,64.0,58,2,NW,skc,Sunny,82,2,5
+2,3,2024-09-13T14:00:00,"02 PM, Fri Sep 13",82,0,64.0,55,2,N,skc,Sunny,83,3,5
+3,4,2024-09-13T15:00:00,"03 PM, Fri Sep 13",83,0,64.0,53,2,N,skc,Sunny,84,5,5
+4,5,2024-09-13T16:00:00,"04 PM, Fri Sep 13",83,0,64.0,53,2,N,few,Sunny,84,7,5
+5,6,2024-09-13T17:00:00,"05 PM, Fri Sep 13",82,0,65.0,56,2,N,few,Sunny,84,8,5
+6,7,2024-09-13T18:00:00,"06 PM, Fri Sep 13",80,0,65.0,60,2,N,few,Mostly Clear,82,7,5
+7,8,2024-09-13T19:00:00,"07 PM, Fri Sep 13",76,0,65.0,69,2,N,few,Mostly Clear,76,7,5
+8,9,2024-09-13T20:00:00,"08 PM, Fri Sep 13",72,0,64.0,76,2,NE,few,Mostly Clear,72,11,3
+9,10,2024-09-13T21:00:00,"09 PM, Fri Sep 13",69,0,63.0,81,1,NE,few,Mostly Clear,69,9,2
+10,11,2024-09-13T22:00:00,"10 PM, Fri Sep 13",67,0,62.0,84,1,E,few,Mostly Clear,67,9,2
+11,12,2024-09-13T23:00:00,"11 PM, Fri Sep 13",65,0,62.0,90,1,SE,few,Mostly Clear,65,8,2
+12,13,2024-09-14T00:00:00,"12 AM, Sat Sep 14",64,0,62.0,93,0,Calm,few,Mostly Clear,64,7,2
+13,14,2024-09-14T01:00:00,"01 AM, Sat Sep 14",63,0,60.0,90,0,Calm,few,Mostly Clear,63,8,1
+14,15,2024-09-14T02:00:00,"02 AM, Sat Sep 14",61,0,60.0,97,0,Calm,fog,Patchy Fog,61,7,1
+15,16,2024-09-14T03:00:00,"03 AM, Sat Sep 14",61,0,59.0,93,0,Calm,few,Mostly Clear,61,6,1
+16,17,2024-09-14T04:00:00,"04 AM, Sat Sep 14",60,0,59.0,96,0,Calm,fog,Patchy Fog,60,9,1
+17,18,2024-09-14T05:00:00,"05 AM, Sat Sep 14",59,0,58.0,96,0,Calm,fog,Patchy Fog,59,8,2
+18,19,2024-09-14T06:00:00,"06 AM, Sat Sep 14",59,0,58.0,96,0,Calm,fog,Patchy Fog,59,21,2
+19,20,2024-09-14T07:00:00,"07 AM, Sat Sep 14",58,0,57.0,96,1,SE,fog,Patchy Fog,58,18,2
+20,21,2024-09-14T08:00:00,"08 AM, Sat Sep 14",60,0,60.0,100,1,E,fog,Patchy Fog,60,14,2
+21,22,2024-09-14T09:00:00,"09 AM, Sat Sep 14",65,0,63.0,93,0,Calm,few,Sunny,65,6,2
+22,23,2024-09-14T10:00:00,"10 AM, Sat Sep 14",73,0,66.0,79,1,E,few,Sunny,73,8,3
+23,24,2024-09-14T11:00:00,"11 AM, Sat Sep 14",77,0,68.0,74,1,NE,few,Sunny,77,16,3
+24,25,2024-09-14T12:00:00,"12 PM, Sat Sep 14",80,0,67.0,65,2,NE,few,Sunny,82,14,5
+25,26,2024-09-14T13:00:00,"01 PM, Sat Sep 14",82,0,67.0,61,2,NE,few,Sunny,85,13,5
+26,27,2024-09-14T14:00:00,"02 PM, Sat Sep 14",84,0,66.0,55,3,NE,few,Sunny,86,11,6
+27,28,2024-09-14T15:00:00,"03 PM, Sat Sep 14",85,0,66.0,53,3,NE,few,Sunny,87,12,6
+28,29,2024-09-14T16:00:00,"04 PM, Sat Sep 14",84,0,66.0,55,2,NE,few,Sunny,86,12,6
+29,30,2024-09-14T17:00:00,"05 PM, Sat Sep 14",84,0,66.0,55,2,NE,few,Sunny,86,13,6
+30,31,2024-09-14T18:00:00,"06 PM, Sat Sep 14",81,0,66.0,60,2,NE,few,Mostly Clear,83,15,5
+31,32,2024-09-14T19:00:00,"07 PM, Sat Sep 14",76,0,65.0,69,2,NE,few,Mostly Clear,76,16,5
+32,33,2024-09-14T20:00:00,"08 PM, Sat Sep 14",73,0,65.0,76,2,NE,few,Mostly Clear,73,18,3
+33,34,2024-09-14T21:00:00,"09 PM, Sat Sep 14",71,0,64.0,79,2,E,few,Mostly Clear,71,17,3
+34,35,2024-09-14T22:00:00,"10 PM, Sat Sep 14",69,0,64.0,84,1,E,few,Mostly Clear,69,16,3
+35,36,2024-09-14T23:00:00,"11 PM, Sat Sep 14",67,0,63.0,87,1,E,few,Mostly Clear,67,15,3
+36,37,2024-09-15T00:00:00,"12 AM, Sun Sep 15",65,0,62.0,90,1,E,few,Mostly Clear,65,13,3
+37,38,2024-09-15T01:00:00,"01 AM, Sun Sep 15",64,0,62.0,93,2,SE,fog,Patchy Fog,64,31,3
+38,39,2024-09-15T02:00:00,"02 AM, Sun Sep 15",63,0,61.0,93,2,SE,fog,Patchy Fog,63,31,3
+39,40,2024-09-15T03:00:00,"03 AM, Sun Sep 15",62,0,60.0,93,2,SE,fog,Patchy Fog,62,31,3
+40,41,2024-09-15T04:00:00,"04 AM, Sun Sep 15",62,0,60.0,93,2,SE,fog,Patchy Fog,62,31,5
+41,42,2024-09-15T05:00:00,"05 AM, Sun Sep 15",61,0,59.0,93,2,SE,fog,Patchy Fog,61,31,5
+42,43,2024-09-15T06:00:00,"06 AM, Sun Sep 15",60,0,60.0,100,2,SE,fog,Patchy Fog,60,31,5
+43,44,2024-09-15T07:00:00,"07 AM, Sun Sep 15",62,0,60.0,93,2,SE,fog,Patchy Fog,62,31,6
+44,45,2024-09-15T08:00:00,"08 AM, Sun Sep 15",63,0,61.0,93,2,SE,fog,Patchy Fog,63,31,6
+45,46,2024-09-15T09:00:00,"09 AM, Sun Sep 15",68,0,63.0,84,2,S,skc,Sunny,68,5,6
+46,47,2024-09-15T10:00:00,"10 AM, Sun Sep 15",73,0,65.0,76,3,S,skc,Sunny,73,5,7
+47,48,2024-09-15T11:00:00,"11 AM, Sun Sep 15",78,0,67.0,69,3,S,skc,Sunny,78,5,7
+48,49,2024-09-15T12:00:00,"12 PM, Sun Sep 15",80,0,67.0,65,3,S,few,Sunny,82,6,7
+49,50,2024-09-15T13:00:00,"01 PM, Sun Sep 15",82,0,66.0,58,3,S,few,Sunny,84,7,8
+50,51,2024-09-15T14:00:00,"02 PM, Sun Sep 15",84,2,66.0,55,3,S,few,Sunny,86,8,8
+51,52,2024-09-15T15:00:00,"03 PM, Sun Sep 15",84,2,66.0,55,3,S,few,Sunny,86,11,8
+52,53,2024-09-15T16:00:00,"04 PM, Sun Sep 15",83,2,65.0,55,3,SE,few,Sunny,85,13,8
+53,54,2024-09-15T17:00:00,"05 PM, Sun Sep 15",83,2,65.0,55,3,SE,few,Sunny,85,16,8
+54,55,2024-09-15T18:00:00,"06 PM, Sun Sep 15",80,2,64.0,58,3,SE,few,Mostly Clear,82,20,7
+55,56,2024-09-15T19:00:00,"07 PM, Sun Sep 15",76,2,64.0,66,2,SE,few,Mostly Clear,76,24,6
+56,57,2024-09-15T20:00:00,"08 PM, Sun Sep 15",73,0,63.0,71,2,SE,sct,Partly Cloudy,73,28,5
+57,58,2024-09-15T21:00:00,"09 PM, Sun Sep 15",71,0,62.0,73,2,SE,few,Mostly Clear,71,24,5
+58,59,2024-09-15T22:00:00,"10 PM, Sun Sep 15",69,0,62.0,78,2,SE,few,Mostly Clear,69,19,5
+59,60,2024-09-15T23:00:00,"11 PM, Sun Sep 15",67,0,61.0,81,2,S,few,Mostly Clear,67,15,5
+60,61,2024-09-16T00:00:00,"12 AM, Mon Sep 16",66,0,61.0,84,2,S,few,Mostly Clear,66,14,5
+61,62,2024-09-16T01:00:00,"01 AM, Mon Sep 16",65,0,60.0,84,2,S,few,Mostly Clear,65,13,5
+62,63,2024-09-16T02:00:00,"02 AM, Mon Sep 16",64,0,60.0,87,2,S,few,Mostly Clear,64,12,5
+63,64,2024-09-16T03:00:00,"03 AM, Mon Sep 16",63,0,59.0,87,2,S,few,Mostly Clear,63,12,5
+64,65,2024-09-16T04:00:00,"04 AM, Mon Sep 16",62,0,59.0,90,2,S,few,Mostly Clear,62,13,5
+65,66,2024-09-16T05:00:00,"05 AM, Mon Sep 16",61,0,58.0,90,2,S,few,Mostly Clear,61,13,5
+66,67,2024-09-16T06:00:00,"06 AM, Mon Sep 16",61,0,58.0,90,2,S,few,Sunny,61,13,5
+67,68,2024-09-16T07:00:00,"07 AM, Mon Sep 16",62,0,59.0,90,2,S,few,Sunny,62,14,5
+68,69,2024-09-16T08:00:00,"08 AM, Mon Sep 16",62,0,59.0,90,2,S,few,Sunny,62,14,5
+69,70,2024-09-16T09:00:00,"09 AM, Mon Sep 16",67,0,60.0,78,2,S,few,Sunny,67,12,5
+70,71,2024-09-16T10:00:00,"10 AM, Mon Sep 16",71,0,62.0,73,2,S,few,Sunny,71,11,6
+71,72,2024-09-16T11:00:00,"11 AM, Mon Sep 16",76,0,63.0,64,2,S,few,Sunny,76,9,6
+72,73,2024-09-16T12:00:00,"12 PM, Mon Sep 16",78,0,63.0,60,2,S,few,Sunny,78,12,7
+73,74,2024-09-16T13:00:00,"01 PM, Mon Sep 16",80,0,63.0,56,3,SE,few,Sunny,81,15,7
+74,75,2024-09-16T14:00:00,"02 PM, Mon Sep 16",82,0,63.0,53,3,SE,few,Sunny,83,18,8
+75,76,2024-09-16T15:00:00,"03 PM, Mon Sep 16",82,0,63.0,53,3,SE,few,Sunny,83,16,8
+76,77,2024-09-16T16:00:00,"04 PM, Mon Sep 16",81,0,63.0,54,3,E,few,Sunny,82,13,7
+77,78,2024-09-16T17:00:00,"05 PM, Mon Sep 16",81,0,63.0,54,3,E,few,Sunny,82,11,7
+78,79,2024-09-16T18:00:00,"06 PM, Mon Sep 16",77,0,62.0,60,3,E,few,Mostly Clear,77,13,6
+79,80,2024-09-16T19:00:00,"07 PM, Mon Sep 16",74,0,62.0,66,2,SE,few,Mostly Clear,74,15,5
+80,81,2024-09-16T20:00:00,"08 PM, Mon Sep 16",70,0,61.0,73,2,SE,few,Mostly Clear,70,17,3
+81,82,2024-09-16T21:00:00,"09 PM, Mon Sep 16",68,0,60.0,76,2,SE,few,Mostly Clear,68,20,3
+82,83,2024-09-16T22:00:00,"10 PM, Mon Sep 16",67,0,59.0,75,2,SE,few,Mostly Clear,67,24,3
+83,84,2024-09-16T23:00:00,"11 PM, Mon Sep 16",65,0,58.0,78,2,SE,sct,Partly Cloudy,65,27,3
+84,85,2024-09-17T00:00:00,"12 AM, Tue Sep 17",64,0,57.0,78,2,SE,few,Mostly Clear,64,25,3
+85,86,2024-09-17T01:00:00,"01 AM, Tue Sep 17",62,0,57.0,84,2,S,few,Mostly Clear,62,22,3
+86,87,2024-09-17T02:00:00,"02 AM, Tue Sep 17",61,2,56.0,84,2,S,few,Mostly Clear,61,20,3
+87,88,2024-09-17T03:00:00,"03 AM, Tue Sep 17",60,2,55.0,84,2,S,sct,Partly Cloudy,60,26,3
+88,89,2024-09-17T04:00:00,"04 AM, Tue Sep 17",60,2,55.0,84,2,SE,sct,Partly Cloudy,60,33,3
+89,90,2024-09-17T05:00:00,"05 AM, Tue Sep 17",59,2,54.0,83,2,SE,sct,Partly Cloudy,59,39,3
+90,91,2024-09-17T06:00:00,"06 AM, Tue Sep 17",59,2,55.0,87,2,SE,sct,Mostly Sunny,59,35,3
+91,92,2024-09-17T07:00:00,"07 AM, Tue Sep 17",60,2,55.0,84,2,SE,sct,Mostly Sunny,60,32,5
+92,93,2024-09-17T08:00:00,"08 AM, Tue Sep 17",60,3,56.0,87,2,SE,sct,Mostly Sunny,60,28,5
+93,94,2024-09-17T09:00:00,"09 AM, Tue Sep 17",65,3,58.0,78,2,SE,sct,Mostly Sunny,65,29,5
+94,95,2024-09-17T10:00:00,"10 AM, Tue Sep 17",69,3,59.0,70,2,SE,sct,Mostly Sunny,69,31,6
+95,96,2024-09-17T11:00:00,"11 AM, Tue Sep 17",74,3,61.0,64,2,SE,sct,Mostly Sunny,74,32,6
+96,97,2024-09-17T12:00:00,"12 PM, Tue Sep 17",76,3,61.0,60,3,SE,sct,Mostly Sunny,76,35,7
+97,98,2024-09-17T13:00:00,"01 PM, Tue Sep 17",78,3,61.0,56,3,SE,sct,Mostly Sunny,78,38,7
+98,99,2024-09-17T14:00:00,"02 PM, Tue Sep 17",80,6,61.0,52,5,SE,sct,Mostly Sunny,81,41,8
+99,100,2024-09-17T15:00:00,"03 PM, Tue Sep 17",80,6,61.0,52,5,SE,sct,Mostly Sunny,81,41,8
+100,101,2024-09-17T16:00:00,"04 PM, Tue Sep 17",79,6,61.0,54,3,SE,sct,Mostly Sunny,79,40,8
+101,102,2024-09-17T17:00:00,"05 PM, Tue Sep 17",79,6,61.0,54,3,SE,sct,Mostly Sunny,79,40,8
+102,103,2024-09-17T18:00:00,"06 PM, Tue Sep 17",76,6,60.0,58,3,SE,sct,Partly Cloudy,76,42,7
+103,104,2024-09-17T19:00:00,"07 PM, Tue Sep 17",73,6,60.0,64,2,SE,sct,Partly Cloudy,73,44,6
+104,105,2024-09-17T20:00:00,"08 PM, Tue Sep 17",70,10,59.0,68,2,SE,sct,Partly Cloudy,70,46,5
+105,106,2024-09-17T21:00:00,"09 PM, Tue Sep 17",68,10,58.0,70,2,SE,sct,Partly Cloudy,68,49,5
+106,107,2024-09-17T22:00:00,"10 PM, Tue Sep 17",67,10,58.0,73,2,SE,bkn,Mostly Cloudy,67,51,5
+107,108,2024-09-17T23:00:00,"11 PM, Tue Sep 17",65,10,57.0,75,2,SE,bkn,Mostly Cloudy,65,54,5
+108,109,2024-09-18T00:00:00,"12 AM, Wed Sep 18",64,10,57.0,78,2,SE,bkn,Mostly Cloudy,64,53,5
+109,110,2024-09-18T01:00:00,"01 AM, Wed Sep 18",63,10,57.0,81,2,SE,bkn,Mostly Cloudy,63,51,5
+110,111,2024-09-18T02:00:00,"02 AM, Wed Sep 18",62,12,57.0,84,2,SE,sct,Partly Cloudy,62,50,5
+111,112,2024-09-18T03:00:00,"03 AM, Wed Sep 18",62,12,57.0,84,2,SE,bkn,Mostly Cloudy,62,53,5
+112,113,2024-09-18T04:00:00,"04 AM, Wed Sep 18",61,12,57.0,87,2,SE,bkn,Mostly Cloudy,61,57,5
+113,114,2024-09-18T05:00:00,"05 AM, Wed Sep 18",61,12,57.0,87,2,SE,bkn,Mostly Cloudy,61,60,5
+114,115,2024-09-18T06:00:00,"06 AM, Wed Sep 18",61,12,58.0,90,2,SE,bkn,Partly Sunny,61,59,5
+115,116,2024-09-18T07:00:00,"07 AM, Wed Sep 18",62,12,58.0,87,2,SE,bkn,Partly Sunny,62,59,5
+116,117,2024-09-18T08:00:00,"08 AM, Wed Sep 18",62,13,59.0,90,2,SE,bkn,Partly Sunny,62,58,5
+117,118,2024-09-18T09:00:00,"09 AM, Wed Sep 18",66,13,61.0,84,2,SE,bkn,Partly Sunny,66,59,6
+118,119,2024-09-18T10:00:00,"10 AM, Wed Sep 18",69,13,62.0,78,3,SE,bkn,Partly Sunny,69,61,7
+119,120,2024-09-18T11:00:00,"11 AM, Wed Sep 18",73,13,64.0,73,3,SE,bkn,Partly Sunny,73,62,8
+120,121,2024-09-18T12:00:00,"12 PM, Wed Sep 18",74,13,64.0,71,3,SE,bkn,Partly Sunny,74,65,8
+121,122,2024-09-18T13:00:00,"01 PM, Wed Sep 18",76,13,65.0,69,5,SE,bkn,Partly Sunny,76,69,9
+122,123,2024-09-18T14:00:00,"02 PM, Wed Sep 18",77,16,65.0,67,5,SE,rain_showers,Slight Chance Rain Showers,77,72,9
+123,124,2024-09-18T15:00:00,"03 PM, Wed Sep 18",77,16,65.0,67,5,SE,rain_showers,Slight Chance Rain Showers,77,72,9
+124,125,2024-09-18T16:00:00,"04 PM, Wed Sep 18",76,16,65.0,69,5,SE,rain_showers,Slight Chance Rain Showers,76,71,9
+125,126,2024-09-18T17:00:00,"05 PM, Wed Sep 18",76,16,65.0,69,5,SE,rain_showers,Slight Chance Rain Showers,76,71,9
+126,127,2024-09-18T18:00:00,"06 PM, Wed Sep 18",74,16,64.0,71,3,SE,rain_showers,Slight Chance Rain Showers,74,74,8
+127,128,2024-09-18T19:00:00,"07 PM, Wed Sep 18",71,16,64.0,79,3,SE,rain_showers,Slight Chance Rain Showers,71,76,7
+128,129,2024-09-18T20:00:00,"08 PM, Wed Sep 18",69,18,63.0,81,2,SE,rain_showers,Slight Chance Rain Showers,69,79,6
+129,130,2024-09-18T21:00:00,"09 PM, Wed Sep 18",68,18,63.0,84,2,SE,rain_showers,Slight Chance Rain Showers,68,79,6
+130,131,2024-09-18T22:00:00,"10 PM, Wed Sep 18",66,18,62.0,87,2,SE,rain_showers,Slight Chance Rain Showers,66,78,5
+131,132,2024-09-18T23:00:00,"11 PM, Wed Sep 18",65,18,62.0,90,2,SE,rain_showers,Slight Chance Rain Showers,65,78,5
+132,133,2024-09-19T00:00:00,"12 AM, Thu Sep 19",65,18,61.0,87,2,SE,rain_showers,Slight Chance Rain Showers,65,77,5
+133,134,2024-09-19T01:00:00,"01 AM, Thu Sep 19",64,18,61.0,90,2,SE,rain_showers,Slight Chance Rain Showers,64,75,3
+134,135,2024-09-19T02:00:00,"02 AM, Thu Sep 19",64,14,60.0,87,2,SE,bkn,Mostly Cloudy,64,74,3
+135,136,2024-09-19T03:00:00,"03 AM, Thu Sep 19",63,14,60.0,90,2,SE,bkn,Mostly Cloudy,63,75,3
+136,137,2024-09-19T04:00:00,"04 AM, Thu Sep 19",63,14,59.0,87,2,SE,bkn,Mostly Cloudy,63,75,5
+137,138,2024-09-19T05:00:00,"05 AM, Thu Sep 19",62,14,59.0,90,2,SE,bkn,Mostly Cloudy,62,76,5
+138,139,2024-09-19T06:00:00,"06 AM, Thu Sep 19",62,14,60.0,93,2,SE,bkn,Mostly Cloudy,62,74,5
+139,140,2024-09-19T07:00:00,"07 AM, Thu Sep 19",63,14,60.0,90,2,SE,bkn,Mostly Cloudy,63,71,5
+140,141,2024-09-19T08:00:00,"08 AM, Thu Sep 19",63,16,61.0,93,2,SE,rain_showers,Slight Chance Rain Showers,63,69,5
+141,142,2024-09-19T09:00:00,"09 AM, Thu Sep 19",66,16,63.0,90,2,SE,rain_showers,Slight Chance Rain Showers,66,67,6
+142,143,2024-09-19T10:00:00,"10 AM, Thu Sep 19",70,16,64.0,81,3,SE,rain_showers,Slight Chance Rain Showers,70,64,7
+143,144,2024-09-19T11:00:00,"11 AM, Thu Sep 19",73,16,66.0,79,3,SE,rain_showers,Slight Chance Rain Showers,73,62,8
+144,145,2024-09-19T12:00:00,"12 PM, Thu Sep 19",74,16,66.0,76,5,SE,rain_showers,Slight Chance Rain Showers,74,64,9
+145,146,2024-09-19T13:00:00,"01 PM, Thu Sep 19",76,16,66.0,71,5,E,rain_showers,Slight Chance Rain Showers,76,65,9
+146,147,2024-09-19T14:00:00,"02 PM, Thu Sep 19",77,16,66.0,69,6,E,rain_showers,Slight Chance Rain Showers,77,67,10
+147,148,2024-09-19T15:00:00,"03 PM, Thu Sep 19",77,16,66.0,69,6,E,rain_showers,Slight Chance Rain Showers,77,66,10
+148,149,2024-09-19T16:00:00,"04 PM, Thu Sep 19",77,16,65.0,67,5,E,rain_showers,Slight Chance Rain Showers,77,65,9
+149,150,2024-09-19T17:00:00,"05 PM, Thu Sep 19",77,16,65.0,67,5,E,rain_showers,Slight Chance Rain Showers,77,64,9
+150,151,2024-09-19T18:00:00,"06 PM, Thu Sep 19",74,16,64.0,71,5,E,rain_showers,Slight Chance Rain Showers,74,64,8
+151,152,2024-09-19T19:00:00,"07 PM, Thu Sep 19",72,16,64.0,76,3,E,rain_showers,Slight Chance Rain Showers,72,64,8
+152,153,2024-09-19T20:00:00,"08 PM, Thu Sep 19",69,14,63.0,81,3,E,bkn,Mostly Cloudy,69,64,7
+153,154,2024-09-19T21:00:00,"09 PM, Thu Sep 19",68,14,62.0,81,3,E,bkn,Mostly Cloudy,68,65,6
+154,155,2024-09-19T22:00:00,"10 PM, Thu Sep 19",66,14,62.0,87,2,E,bkn,Mostly Cloudy,66,66,5
+155,156,2024-09-19T23:00:00,"11 PM, Thu Sep 19",65,14,61.0,87,2,E,bkn,Mostly Cloudy,65,67,3
