@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-09-13T22:00:00,False,58,,1 mph,E,few,"Mostly clear, with a low around 58. East wind around 1 mph."
+0,Overnight,2024-09-14T01:00:00,False,58,,1 mph,E,few,"Mostly clear, with a low around 58. East wind around 1 mph."
 1,Saturday,2024-09-14T06:00:00,True,85,,2 mph,NE,few,"Sunny, with a high near 85. Northeast wind around 2 mph."
 2,Saturday Night,2024-09-14T18:00:00,False,60,,2 mph,E,few,"Mostly clear, with a low around 60. East wind around 2 mph."
 3,Sunday,2024-09-15T06:00:00,True,85,,5 mph,S,few,"Sunny, with a high near 85. South wind around 5 mph."
