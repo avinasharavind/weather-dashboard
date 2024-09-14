@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-09-14T07:00:00,True,85,,2 mph,E,skc,"Patchy fog before 9am. Sunny, with a high near 85. East wind around 2 mph."
+0,Today,2024-09-14T10:00:00,True,85,,2 mph,NE,skc,"Sunny, with a high near 85. Northeast wind around 2 mph."
 1,Tonight,2024-09-14T18:00:00,False,60,,2 mph,E,few,"Mostly clear, with a low around 60. East wind around 2 mph."
 2,Sunday,2024-09-15T06:00:00,True,85,,3 mph,S,few,"Sunny, with a high near 85. South wind around 3 mph."
 3,Sunday Night,2024-09-15T18:00:00,False,59,,3 mph,SE,few,"Mostly clear, with a low around 59. Southeast wind around 3 mph."
