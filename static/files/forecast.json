@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-15T12:00:04+00:00",
-        "updateTime": "2024-09-15T10:24:41+00:00",
-        "validTimes": "2024-09-15T04:00:00+00:00/P7DT23H",
+        "generatedAt": "2024-09-15T15:00:03+00:00",
+        "updateTime": "2024-09-15T13:44:00+00:00",
+        "validTimes": "2024-09-15T07:00:00+00:00/P7DT20H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,21 +51,21 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-09-15T08:00:00-04:00",
+                "startTime": "2024-09-15T11:00:00-04:00",
                 "endTime": "2024-09-15T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 84,
+                "temperature": 85,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 84. South wind around 2 mph."
+                "detailedForecast": "Sunny, with a high near 85. South wind around 3 mph."
             },
             {
                 "number": 2,
@@ -73,7 +73,7 @@
                 "startTime": "2024-09-15T18:00:00-04:00",
                 "endTime": "2024-09-16T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 58,
+                "temperature": 57,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -84,7 +84,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. Southeast wind around 2 mph."
+                "detailedForecast": "Mostly clear, with a low around 57. Southeast wind around 2 mph."
             },
             {
                 "number": 3,
@@ -101,9 +101,9 @@
                 },
                 "windSpeed": "3 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 84. Southeast wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 84. Southeast wind around 3 mph."
             },
             {
                 "number": 4,
