@@ -1,8 +1,8 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-09-15T11:00:00,True,85,,3 mph,S,few,"Sunny, with a high near 85. South wind around 3 mph."
-1,Tonight,2024-09-15T18:00:00,False,57,,2 mph,SE,few,"Mostly clear, with a low around 57. Southeast wind around 2 mph."
-2,Monday,2024-09-16T06:00:00,True,84,,3 mph,SE,few,"Sunny, with a high near 84. Southeast wind around 3 mph."
-3,Monday Night,2024-09-16T18:00:00,False,57,,3 mph,SE,bkn,"Mostly cloudy, with a low around 57. Southeast wind around 3 mph."
+0,This Afternoon,2024-09-15T14:00:00,True,85,,3 mph,S,few,"Sunny, with a high near 85. South wind around 3 mph."
+1,Tonight,2024-09-15T18:00:00,False,58,,2 mph,SE,few,"Mostly clear, with a low around 58. Southeast wind around 2 mph."
+2,Monday,2024-09-16T06:00:00,True,85,,3 mph,SE,few,"Sunny, with a high near 85. Southeast wind around 3 mph."
+3,Monday Night,2024-09-16T18:00:00,False,56,,2 mph,SE,bkn,"Mostly cloudy, with a low around 56. Southeast wind around 2 mph."
 4,Tuesday,2024-09-17T06:00:00,True,80,,5 mph,SE,bkn,"Partly sunny, with a high near 80. Southeast wind around 5 mph."
 5,Tuesday Night,2024-09-17T18:00:00,False,61,30.0,3 mph,SE,rain_showers,"A chance of rain showers after 8pm. Mostly cloudy, with a low around 61. Chance of precipitation is 30%."
 6,Wednesday,2024-09-18T06:00:00,True,76,30.0,2 to 7 mph,E,rain_showers,"A chance of rain showers. Mostly cloudy, with a high near 76. Chance of precipitation is 30%."
