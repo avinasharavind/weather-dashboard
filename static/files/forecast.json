@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-14T23:00:06+00:00",
-        "updateTime": "2024-09-14T22:15:04+00:00",
-        "validTimes": "2024-09-14T16:00:00+00:00/P8D",
+        "generatedAt": "2024-09-15T04:00:04+00:00",
+        "updateTime": "2024-09-15T01:16:53+00:00",
+        "validTimes": "2024-09-14T19:00:00+00:00/P7DT21H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,11 +50,11 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-09-14T19:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-09-15T00:00:00-04:00",
                 "endTime": "2024-09-15T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 57,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 57. East wind around 3 mph."
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 58. Southeast wind around 3 mph."
             },
             {
                 "number": 2,
@@ -92,7 +92,7 @@
                 "startTime": "2024-09-15T18:00:00-04:00",
                 "endTime": "2024-09-16T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 58,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -103,7 +103,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. Southeast wind around 2 mph."
+                "detailedForecast": "Mostly clear, with a low around 59. Southeast wind around 2 mph."
             },
             {
                 "number": 4,
