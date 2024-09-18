@@ -105,3 +105,5 @@ def get_hours():
     periods = periods.bfill(axis=0)
 
     periods.to_csv("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/hourData.csv")
+
+

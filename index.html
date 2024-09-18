@@ -96,8 +96,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 				return tempValue.attr("transform")
 			}
 		}
-	}
-	
+	}	
 
 // Part 2: The Dashboard Arc
 	// Most of this is directly inspired by https://observablehq.com/@d3/arc-tween?intent=fork. Go check it out!
@@ -173,6 +172,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			}
 	}}
 	
+
 // Part 3: Main Display Elements
 	//3.1: Current Weather Icon Display
 	let icon = "static/images/icons/partly-cloudy.svg"
@@ -192,6 +192,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("font-weight", "bold")
 			.attr("text-anchor", "middle")
 			.attr("fill", "rgb(200, 200, 200)");
+			
 	//3.2: Labels
 		//3.2.0: Header
 		const header = graphic.append("text")
@@ -278,7 +279,6 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("fill", "rgb(200, 200, 200)")
 			.attr("x", "320")
 			.attr("y", "740");
-
 		//3.2.8: Wind Speed Value
 		const wdSpdValue = graphic.append("text")
 			.text(hours[0]["wdSpd"])
@@ -288,7 +288,6 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("fill", "rgb(200, 200, 200)")
 			.attr("x", "520")
 			.attr("y", "710");
-
 		//3.2.9: Wind Speed Label
 		const wdSpdLabel = graphic.append("text")
 			.text("Wind Speed (mph)")
@@ -371,6 +370,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.duration(250)
 			.attrTween("opacity", opacityTween())
 	}, 2500)
+	
 	//3.4: Function for Opacity Fade
 	function opacityTween() {
 		return function(g) {
@@ -561,8 +561,6 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 				leftButton.attr("opacity", "100%")
 			})
 
-
-
 // Part 5: Hourly Forecast Interactions
 	// 5.1: Update Gauge on Hover
 	function barHover(target) { 
@@ -588,7 +586,6 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		const currentBar = barsCont.select("#"+target.id)
 		currentBar.attr("opacity", "100%")
 	}
-
 
 // Part 6: Change Currently Displayed Information
 	// 6.1: Construct the SVG for the dropdown menu
@@ -649,6 +646,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 		.attr("dx", "20px")
 		.attr("font-size", "30px")
 		.attr("font-weight", "100px")
+	
 	// 6.4: On click, show dropdown menu
 	currentDisplay.on("click", function(){showMenu()})
 
