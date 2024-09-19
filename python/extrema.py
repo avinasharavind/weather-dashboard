@@ -1,5 +1,9 @@
-import json
-import statistics
+import json, statistics, time
+import data
+import numpy as np
+
+data.job()
+time.sleep(30)
 
 hourly = json.load(open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/hourly.json"))
 hours = hourly["properties"]["periods"]
@@ -11,6 +15,7 @@ print("\n")
 rainlist = []
 for item in hours:
     rainlist.append(item["probabilityOfPrecipitation"]["value"])
+
 print(f'The Max PoPs is {max(rainlist[:period])}%')
 
 #max/min temp
@@ -38,6 +43,7 @@ print(f'The Max Wind Speed is {max(windlist[:period])}')
 weatherlist = []
 for item in hours:
     weatherlist.append(item["shortForecast"])
-print(f'The most frequent weather type is is {statistics.mode(weatherlist[:period])}')
+weathermode = statistics.mode(weatherlist[:period])
+print(f'The most frequent weather type is is {weathermode}')
 
 print("\n")
