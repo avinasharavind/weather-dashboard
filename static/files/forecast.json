@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-19T22:00:03+00:00",
-        "updateTime": "2024-09-19T18:56:59+00:00",
-        "validTimes": "2024-09-19T12:00:00+00:00/P8DT1H",
+        "generatedAt": "2024-09-19T23:00:03+00:00",
+        "updateTime": "2024-09-19T22:29:52+00:00",
+        "validTimes": "2024-09-19T16:00:00+00:00/P7DT21H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-09-19T18:00:00-04:00",
+                "startTime": "2024-09-19T19:00:00-04:00",
                 "endTime": "2024-09-20T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 6 mph",
-                "windDirection": "N",
+                "windSpeed": "0 to 5 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
                 "shortForecast": "Mostly Clear then Patchy Fog",
-                "detailedForecast": "Patchy fog after 1am. Mostly clear, with a low around 57. North wind 0 to 6 mph."
+                "detailedForecast": "Patchy fog after 3am. Mostly clear, with a low around 57. Northwest wind 0 to 5 mph."
             },
             {
                 "number": 2,
@@ -80,11 +80,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 3 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
                 "shortForecast": "Patchy Fog then Sunny",
-                "detailedForecast": "Patchy fog before 8am. Sunny, with a high near 83. Southeast wind 0 to 3 mph."
+                "detailedForecast": "Patchy fog before 10am. Sunny, with a high near 83. Southeast wind around 3 mph."
             },
             {
                 "number": 3,
@@ -92,7 +92,7 @@
                 "startTime": "2024-09-20T18:00:00-04:00",
                 "endTime": "2024-09-21T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 58,
+                "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -103,7 +103,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 58. Southeast wind around 5 mph."
+                "detailedForecast": "Partly cloudy, with a low around 60. Southeast wind around 5 mph."
             },
             {
                 "number": 4,
