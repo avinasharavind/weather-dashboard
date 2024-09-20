@@ -3,7 +3,7 @@ import data
 import numpy as np
 
 data.job()
-time.sleep(30)
+time.sleep(10)
 
 hourly = json.load(open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/hourly.json"))
 hours = hourly["properties"]["periods"]
@@ -28,10 +28,10 @@ print(f'The Min Temperature is {min(templist[:period])}F')
 #max/min daytime rh
 humlist = []
 for item in hours:
-    if int(item["startTime"][-14:-12]) > 10 and int(item["startTime"][-14:-12]) < 18:
+    if int(item["startTime"][-14:-12]) > 12 and int(item["startTime"][-14:-12]) < 19:
         humlist.append(item["relativeHumidity"]["value"])
-print(f'The Max Daytime RH is {max(humlist[:period])}% ("Daytime" is 11am-5pm)')
-print(f'The Min Daytime RH is {min(humlist[:period])}% ("Daytime" is 11am-5pm)')
+print(f'The Max Midday RH is {max(humlist[:period])}% ("Midday" is 12pm-6pm)')
+print(f'The Min Midday RH is {min(humlist[:period])}% ("Midday" is 12pm-6pm)')
 
 #max/min windspeed
 windlist = []

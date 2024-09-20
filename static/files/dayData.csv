@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-09-20T08:00:00,True,83,,3 mph,SE,few,"Sunny, with a high near 83. Southeast wind around 3 mph."
+0,Today,2024-09-20T09:00:00,True,83,,3 mph,SE,few,"Sunny, with a high near 83. Southeast wind around 3 mph."
 1,Tonight,2024-09-20T18:00:00,False,60,,5 mph,SE,sct,"Partly cloudy, with a low around 60. Southeast wind around 5 mph."
 2,Saturday,2024-09-21T06:00:00,True,81,60.0,6 mph,SE,tsra_hi,"Showers and thunderstorms likely after 1pm. Mostly sunny, with a high near 81. Southeast wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
 3,Saturday Night,2024-09-21T18:00:00,False,58,60.0,5 mph,SE,tsra_sct,"Showers and thunderstorms likely. Mostly cloudy, with a low around 58. Southeast wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
