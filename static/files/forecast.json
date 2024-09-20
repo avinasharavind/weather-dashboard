@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-20T00:00:38+00:00",
+        "generatedAt": "2024-09-20T01:01:16+00:00",
         "updateTime": "2024-09-19T23:12:34+00:00",
         "validTimes": "2024-09-19T17:00:00+00:00/P7DT20H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-09-19T20:00:00-04:00",
+                "startTime": "2024-09-19T21:00:00-04:00",
                 "endTime": "2024-09-20T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "0 to 3 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
                 "shortForecast": "Mostly Clear then Patchy Fog",
-                "detailedForecast": "Patchy fog after 3am. Mostly clear, with a low around 57. Northwest wind 0 to 3 mph."
+                "detailedForecast": "Patchy fog after 3am. Mostly clear, with a low around 57. Northwest wind around 2 mph."
             },
             {
                 "number": 2,
