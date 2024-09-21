@@ -3,7 +3,7 @@ import data
 import numpy as np
 
 data.job()
-time.sleep(10)
+time.sleep(7)
 
 hourly = json.load(open("/Users/avinasharavind/Documents/Weather_Projects/NWS_Forecast_Page/static/files/hourly.json"))
 hours = hourly["properties"]["periods"]
