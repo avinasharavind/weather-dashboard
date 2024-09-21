@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-21T14:00:02+00:00",
-        "updateTime": "2024-09-21T13:26:47+00:00",
-        "validTimes": "2024-09-21T07:00:00+00:00/P8DT6H",
+        "generatedAt": "2024-09-21T17:00:03+00:00",
+        "updateTime": "2024-09-21T16:11:47+00:00",
+        "validTimes": "2024-09-21T10:00:00+00:00/P8DT4H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-09-21T10:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2024-09-21T13:00:00-04:00",
                 "endTime": "2024-09-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 79,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "9 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 79. Southeast wind around 9 mph. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Mostly sunny, with a high near 79. Southeast wind around 8 mph. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -73,18 +73,18 @@
                 "startTime": "2024-09-21T18:00:00-04:00",
                 "endTime": "2024-09-22T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 60,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,40/tsra_sct,30?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms between 7pm and 4am. Mostly cloudy, with a low around 60. Southeast wind around 6 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30/bkn?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 7pm, then scattered showers and thunderstorms between 7pm and 11pm. Mostly cloudy, with a low around 58. Southeast wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 3,
@@ -92,7 +92,7 @@
                 "startTime": "2024-09-22T06:00:00-04:00",
                 "endTime": "2024-09-22T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 76,
+                "temperature": 78,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -100,10 +100,10 @@
                     "value": null
                 },
                 "windSpeed": "7 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 76. Southeast wind around 7 mph. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 78. South wind around 7 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
@@ -111,18 +111,18 @@
                 "startTime": "2024-09-22T18:00:00-04:00",
                 "endTime": "2024-09-23T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 56,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. Southeast wind 6 to 9 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 58. Southeast wind 5 to 9 mph."
             },
             {
                 "number": 5,
