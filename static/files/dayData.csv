@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-09-21T13:00:00,True,79,,8 mph,SE,sct,"Mostly sunny, with a high near 79. Southeast wind around 8 mph. New rainfall amounts between a tenth and quarter of an inch possible."
+0,This Afternoon,2024-09-21T14:00:00,True,79,,8 mph,SE,sct,"Mostly sunny, with a high near 79. Southeast wind around 8 mph. New rainfall amounts between a tenth and quarter of an inch possible."
 1,Tonight,2024-09-21T18:00:00,False,58,30.0,6 mph,SE,bkn,"A slight chance of showers and thunderstorms before 7pm, then scattered showers and thunderstorms between 7pm and 11pm. Mostly cloudy, with a low around 58. Southeast wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
 2,Sunday,2024-09-22T06:00:00,True,78,,7 mph,S,few,"Sunny, with a high near 78. South wind around 7 mph. New rainfall amounts less than a tenth of an inch possible."
 3,Sunday Night,2024-09-22T18:00:00,False,58,,5 to 9 mph,SE,bkn,"Mostly cloudy, with a low around 58. Southeast wind 5 to 9 mph."
