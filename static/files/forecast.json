@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-22T03:00:03+00:00",
+        "generatedAt": "2024-09-22T04:05:36+00:00",
         "updateTime": "2024-09-22T01:45:45+00:00",
         "validTimes": "2024-09-21T19:00:00+00:00/P7DT22H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-09-21T23:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-09-22T00:00:00-04:00",
                 "endTime": "2024-09-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -59,13 +59,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "3 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
-                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Isolated rain showers before midnight. Mostly cloudy, with a low around 58. Southeast wind around 3 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 58. Southeast wind around 3 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
