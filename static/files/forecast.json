@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-21T22:00:04+00:00",
-        "updateTime": "2024-09-21T18:56:20+00:00",
-        "validTimes": "2024-09-21T12:00:00+00:00/P8DT5H",
+        "generatedAt": "2024-09-21T23:18:33+00:00",
+        "updateTime": "2024-09-21T22:17:08+00:00",
+        "validTimes": "2024-09-21T16:00:00+00:00/P8DT1H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-09-21T18:00:00-04:00",
+                "startTime": "2024-09-21T19:00:00-04:00",
                 "endTime": "2024-09-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -59,13 +59,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 40
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30/bkn?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 7pm, then scattered showers and thunderstorms between 7pm and 11pm. Mostly cloudy, with a low around 58. Southeast wind 2 to 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,40/bkn?size=medium",
+                "shortForecast": "Scattered Showers And Thunderstorms then Mostly Cloudy",
+                "detailedForecast": "Scattered showers and thunderstorms before midnight. Mostly cloudy, with a low around 58. Southeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,

@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-09-21T18:00:00,False,58,30.0,2 to 6 mph,SE,bkn,"A slight chance of showers and thunderstorms before 7pm, then scattered showers and thunderstorms between 7pm and 11pm. Mostly cloudy, with a low around 58. Southeast wind 2 to 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+0,Tonight,2024-09-21T19:00:00,False,58,40.0,5 mph,SE,bkn,"Scattered showers and thunderstorms before midnight. Mostly cloudy, with a low around 58. Southeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
 1,Sunday,2024-09-22T06:00:00,True,78,,3 to 7 mph,SE,few,"Sunny, with a high near 78. Southeast wind 3 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
 2,Sunday Night,2024-09-22T18:00:00,False,58,,5 to 9 mph,SE,bkn,"Mostly cloudy, with a low around 58. Southeast wind 5 to 9 mph."
 3,Monday,2024-09-23T06:00:00,True,68,40.0,12 mph,SE,rain_showers,"A chance of rain showers after 8am. Mostly cloudy, with a high near 68. Southeast wind around 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
