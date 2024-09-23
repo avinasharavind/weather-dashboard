@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-23T16:00:03+00:00",
-        "updateTime": "2024-09-23T13:43:01+00:00",
-        "validTimes": "2024-09-23T07:00:00+00:00/P8DT6H",
+        "generatedAt": "2024-09-23T17:00:03+00:00",
+        "updateTime": "2024-09-23T16:41:28+00:00",
+        "validTimes": "2024-09-23T10:00:00+00:00/P8DT4H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-09-23T12:00:00-04:00",
+                "startTime": "2024-09-23T13:00:00-04:00",
                 "endTime": "2024-09-23T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -78,13 +78,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 60
                 },
                 "windSpeed": "6 to 10 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 56. Southeast wind 6 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers,30?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Cloudy, with a low around 56. Southeast wind 6 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 3,
