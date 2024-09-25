@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-25T03:00:03+00:00",
+        "generatedAt": "2024-09-25T04:01:02+00:00",
         "updateTime": "2024-09-25T01:44:31+00:00",
         "validTimes": "2024-09-24T19:00:00+00:00/P7DT18H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-09-24T23:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-09-25T00:00:00-04:00",
                 "endTime": "2024-09-25T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 50
                 },
-                "windSpeed": "9 to 13 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/tsra,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 5am, then a chance of showers and thunderstorms. Cloudy, with a low around 57. Southeast wind 9 to 13 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra,50?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain showers before 5am, then a chance of showers and thunderstorms. Cloudy, with a low around 57. Southeast wind around 13 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
