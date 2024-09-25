@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-25T15:00:04+00:00",
-        "updateTime": "2024-09-25T13:40:40+00:00",
-        "validTimes": "2024-09-25T07:00:00+00:00/P7DT21H",
+        "generatedAt": "2024-09-25T16:01:33+00:00",
+        "updateTime": "2024-09-25T15:39:43+00:00",
+        "validTimes": "2024-09-25T09:00:00+00:00/P7DT19H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-09-25T11:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2024-09-25T12:00:00-04:00",
                 "endTime": "2024-09-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -63,8 +63,8 @@
                 },
                 "windSpeed": "13 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,40?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
                 "detailedForecast": "A chance of rain showers before 5pm, then a chance of showers and thunderstorms. Cloudy, with a high near 68. South wind around 13 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
