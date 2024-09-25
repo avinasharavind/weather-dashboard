@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-25T10:16:09+00:00",
-        "updateTime": "2024-09-25T07:39:44+00:00",
-        "validTimes": "2024-09-25T01:00:00+00:00/P8DT3H",
+        "generatedAt": "2024-09-25T11:16:08+00:00",
+        "updateTime": "2024-09-25T10:16:52+00:00",
+        "validTimes": "2024-09-25T04:00:00+00:00/P8D",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-09-25T06:00:00-04:00",
+                "startTime": "2024-09-25T07:00:00-04:00",
                 "endTime": "2024-09-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -63,9 +63,9 @@
                 },
                 "windSpeed": "6 to 13 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,30/tsra,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,20/tsra,40?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers before 8am, then a chance of showers and thunderstorms between 8am and 9am, then a chance of showers and thunderstorms. Cloudy, with a high near 68. South wind 6 to 13 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain showers before 8am, then a chance of showers and thunderstorms. Cloudy, with a high near 68. South wind 6 to 13 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
