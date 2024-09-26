@@ -1,6 +1,6 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-09-26T12:00:00,True,73,50.0,6 mph,NW,rain_showers,"Scattered rain showers. Cloudy, with a high near 73. Northwest wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
-1,Tonight,2024-09-26T18:00:00,False,54,20.0,0 to 3 mph,NE,bkn,"Isolated rain showers before 8pm. Mostly cloudy, with a low around 54. Northeast wind 0 to 3 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+0,This Afternoon,2024-09-26T15:00:00,True,71,30.0,6 mph,N,rain_showers,"Scattered rain showers. Mostly cloudy, with a high near 71. North wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+1,Tonight,2024-09-26T18:00:00,False,54,20.0,0 to 3 mph,NE,bkn,"Isolated rain showers before 9pm. Mostly cloudy, with a low around 54. Northeast wind 0 to 3 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
 2,Friday,2024-09-27T06:00:00,True,75,,3 mph,E,bkn,"Mostly cloudy, with a high near 75. East wind around 3 mph."
 3,Friday Night,2024-09-27T18:00:00,False,59,20.0,3 mph,E,rain_showers,"A slight chance of rain showers after 2am. Mostly cloudy, with a low around 59. East wind around 3 mph. Chance of precipitation is 20%."
 4,Saturday,2024-09-28T06:00:00,True,75,20.0,3 to 7 mph,E,rain_showers,"A slight chance of rain showers. Mostly cloudy, with a high near 75. East wind 3 to 7 mph. Chance of precipitation is 20%."
