@@ -1,6 +1,6 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-09-26T23:00:00,False,56,,1 mph,W,fog,"Patchy fog after midnight. Mostly cloudy, with a low around 56. West wind around 1 mph."
-1,Friday,2024-09-27T06:00:00,True,76,,3 mph,E,bkn,"Patchy fog before 9am. Partly sunny, with a high near 76. East wind around 3 mph."
+0,Overnight,2024-09-27T01:00:00,False,56,,0 mph,,bkn,"Mostly cloudy, with a low around 56. Wind around 0 mph."
+1,Friday,2024-09-27T06:00:00,True,76,,3 mph,E,bkn,"Patchy fog between 7am and 9am. Partly sunny, with a high near 76. East wind around 3 mph."
 2,Friday Night,2024-09-27T18:00:00,False,60,30.0,3 mph,E,rain_showers,"A chance of rain showers after 1am. Mostly cloudy, with a low around 60. East wind around 3 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
 3,Saturday,2024-09-28T06:00:00,True,74,40.0,3 to 7 mph,SE,rain_showers,"A chance of rain showers. Mostly cloudy, with a high near 74. Southeast wind 3 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
 4,Saturday Night,2024-09-28T18:00:00,False,60,40.0,6 mph,SE,rain_showers,"A chance of rain showers. Cloudy, with a low around 60. Southeast wind around 6 mph. Chance of precipitation is 40%."
