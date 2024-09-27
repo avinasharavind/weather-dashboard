@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-27T19:00:02+00:00",
-        "updateTime": "2024-09-27T18:38:10+00:00",
-        "validTimes": "2024-09-27T12:00:00+00:00/P8DT1H",
+        "generatedAt": "2024-09-27T20:02:12+00:00",
+        "updateTime": "2024-09-27T19:43:43+00:00",
+        "validTimes": "2024-09-27T13:00:00+00:00/P8D",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-09-27T15:00:00-04:00",
+                "startTime": "2024-09-27T16:00:00-04:00",
                 "endTime": "2024-09-27T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 77,
@@ -63,9 +63,9 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 77. East wind around 5 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a high near 77. East wind around 5 mph."
             },
             {
                 "number": 2,
