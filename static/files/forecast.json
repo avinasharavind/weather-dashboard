@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-28T01:00:03+00:00",
-        "updateTime": "2024-09-27T22:49:09+00:00",
-        "validTimes": "2024-09-27T16:00:00+00:00/P7DT21H",
+        "generatedAt": "2024-09-28T03:00:04+00:00",
+        "updateTime": "2024-09-28T01:48:25+00:00",
+        "validTimes": "2024-09-27T19:00:00+00:00/P7DT18H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-09-27T21:00:00-04:00",
+                "startTime": "2024-09-27T23:00:00-04:00",
                 "endTime": "2024-09-28T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "SE",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 61. Southeast wind around 3 mph."
+                "detailedForecast": "Cloudy, with a low around 61. East wind around 3 mph."
             },
             {
                 "number": 2,
@@ -84,7 +84,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 9am. Cloudy, with a high near 75. Southeast wind 3 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers after 10am. Cloudy, with a high near 75. Southeast wind 3 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
