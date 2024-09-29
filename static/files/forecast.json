@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-29T00:00:04+00:00",
+        "generatedAt": "2024-09-29T01:00:04+00:00",
         "updateTime": "2024-09-28T22:25:09+00:00",
         "validTimes": "2024-09-28T16:00:00+00:00/P7DT21H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-09-28T20:00:00-04:00",
+                "startTime": "2024-09-28T21:00:00-04:00",
                 "endTime": "2024-09-29T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -65,7 +65,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,90/rain_showers,60?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers and patchy fog. Cloudy, with a low around 60. Southeast wind around 5 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain showers before 10pm, then rain showers and patchy fog. Cloudy, with a low around 60. Southeast wind around 5 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
