@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-09-29T15:00:00,True,69,20.0,7 mph,SE,rain,"A slight chance of rain. Cloudy, with a high near 69. Southeast wind around 7 mph. Chance of precipitation is 20%."
+0,This Afternoon,2024-09-29T16:00:00,True,69,20.0,6 mph,SE,rain,"A slight chance of rain. Mostly cloudy, with a high near 69. Southeast wind around 6 mph. Chance of precipitation is 20%."
 1,Tonight,2024-09-29T18:00:00,False,57,,5 mph,SE,fog,"Patchy fog after 10pm. Cloudy, with a low around 57. Southeast wind around 5 mph."
 2,Monday,2024-09-30T06:00:00,True,77,,2 to 6 mph,E,bkn,"Patchy fog before 9am. Partly sunny, with a high near 77. East wind 2 to 6 mph."
 3,Monday Night,2024-09-30T18:00:00,False,56,,5 mph,SE,bkn,"Mostly cloudy, with a low around 56. Southeast wind around 5 mph."
