@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-09-29T21:00:00,False,57,,1 mph,SE,rain,"Patchy drizzle and patchy fog after 10pm. Mostly cloudy, with a low around 57. Southeast wind around 1 mph."
+0,Overnight,2024-09-30T00:00:00,False,57,,1 mph,SE,rain,"Patchy drizzle and patchy fog. Mostly cloudy, with a low around 57. Southeast wind around 1 mph."
 1,Monday,2024-09-30T06:00:00,True,77,,2 to 6 mph,E,bkn,"Patchy drizzle and patchy fog before 9am. Partly sunny, with a high near 77. East wind 2 to 6 mph."
 2,Monday Night,2024-09-30T18:00:00,False,56,,5 mph,SE,bkn,"Mostly cloudy, with a low around 56. Southeast wind around 5 mph."
 3,Tuesday,2024-10-01T06:00:00,True,73,,3 to 9 mph,SE,bkn,"Partly sunny, with a high near 73. Southeast wind 3 to 9 mph."

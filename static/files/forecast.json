@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-30T01:45:00+00:00",
+        "generatedAt": "2024-09-30T04:00:05+00:00",
         "updateTime": "2024-09-30T01:33:18+00:00",
         "validTimes": "2024-09-29T19:00:00+00:00/P7DT21H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-09-29T21:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-09-30T00:00:00-04:00",
                 "endTime": "2024-09-30T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -65,7 +65,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle and patchy fog after 10pm. Mostly cloudy, with a low around 57. Southeast wind around 1 mph."
+                "detailedForecast": "Patchy drizzle and patchy fog. Mostly cloudy, with a low around 57. Southeast wind around 1 mph."
             },
             {
                 "number": 2,
