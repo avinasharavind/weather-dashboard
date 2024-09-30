@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-09-30T15:00:00,True,77,,3 mph,NE,bkn,"Mostly cloudy, with a high near 77. Northeast wind around 3 mph."
+0,This Afternoon,2024-09-30T16:00:00,True,77,,3 mph,NE,bkn,"Mostly cloudy, with a high near 77. Northeast wind around 3 mph."
 1,Tonight,2024-09-30T18:00:00,False,56,,3 mph,E,bkn,"Mostly cloudy, with a low around 56. East wind around 3 mph."
 2,Tuesday,2024-10-01T06:00:00,True,74,,3 to 9 mph,SE,bkn,"Partly sunny, with a high near 74. Southeast wind 3 to 9 mph."
 3,Tuesday Night,2024-10-01T18:00:00,False,56,40.0,8 mph,SE,rain_showers,"A chance of rain showers after 2am. Mostly cloudy, with a low around 56. Southeast wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
