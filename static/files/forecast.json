@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-09-30T22:00:05+00:00",
-        "updateTime": "2024-09-30T18:26:27+00:00",
-        "validTimes": "2024-09-30T12:00:00+00:00/P8D",
+        "generatedAt": "2024-10-01T01:00:03+00:00",
+        "updateTime": "2024-09-30T23:03:25+00:00",
+        "validTimes": "2024-09-30T17:00:00+00:00/P7DT19H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-09-30T18:00:00-04:00",
+                "startTime": "2024-09-30T21:00:00-04:00",
                 "endTime": "2024-10-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "E",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. East wind around 3 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 56. Southeast wind around 3 mph."
             },
             {
                 "number": 2,
