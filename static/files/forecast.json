@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-01T03:00:03+00:00",
-        "updateTime": "2024-10-01T01:33:09+00:00",
-        "validTimes": "2024-09-30T19:00:00+00:00/P7DT17H",
+        "generatedAt": "2024-10-01T05:01:01+00:00",
+        "updateTime": "2024-10-01T04:57:23+00:00",
+        "validTimes": "2024-09-30T22:00:00+00:00/P7DT14H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-09-30T23:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-10-01T01:00:00-04:00",
                 "endTime": "2024-10-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -63,9 +63,9 @@
                 },
                 "windSpeed": "3 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Cloudy",
-                "detailedForecast": "Patchy fog before midnight. Mostly cloudy, with a low around 56. Southeast wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. Southeast wind around 3 mph."
             },
             {
                 "number": 2,
@@ -99,11 +99,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,40?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 56. Southeast wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,40?size=medium",
+                "shortForecast": "Partly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 2am. Partly cloudy, with a low around 56. South wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
