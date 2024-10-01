@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-01T15:06:27+00:00",
+        "generatedAt": "2024-10-01T17:00:51+00:00",
         "updateTime": "2024-10-01T13:28:25+00:00",
         "validTimes": "2024-10-01T07:00:00+00:00/P7DT18H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-10-01T11:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2024-10-01T13:00:00-04:00",
                 "endTime": "2024-10-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 74,
