@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-01T12:01:06+00:00",
-        "updateTime": "2024-10-01T10:14:29+00:00",
-        "validTimes": "2024-10-01T04:00:00+00:00/P7DT21H",
+        "generatedAt": "2024-10-01T15:06:27+00:00",
+        "updateTime": "2024-10-01T13:28:25+00:00",
+        "validTimes": "2024-10-01T07:00:00+00:00/P7DT18H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-10-01T08:00:00-04:00",
+                "startTime": "2024-10-01T11:00:00-04:00",
                 "endTime": "2024-10-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 74. Southeast wind 5 to 9 mph."
+                "detailedForecast": "Partly sunny, with a high near 74. Southeast wind around 9 mph."
             },
             {
                 "number": 2,
