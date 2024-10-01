@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-01T17:00:51+00:00",
-        "updateTime": "2024-10-01T13:28:25+00:00",
-        "validTimes": "2024-10-01T07:00:00+00:00/P7DT18H",
+        "generatedAt": "2024-10-01T20:00:03+00:00",
+        "updateTime": "2024-10-01T18:12:51+00:00",
+        "validTimes": "2024-10-01T12:00:00+00:00/P7DT13H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,21 +51,21 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-01T13:00:00-04:00",
+                "startTime": "2024-10-01T16:00:00-04:00",
                 "endTime": "2024-10-01T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 74,
+                "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "9 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 74. Southeast wind around 9 mph."
+                "windSpeed": "8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 73. South wind around 8 mph."
             },
             {
                 "number": 2,
@@ -78,13 +78,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 60
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,60?size=medium",
                 "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 56. South wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 56. South wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
@@ -92,7 +92,7 @@
                 "startTime": "2024-10-02T06:00:00-04:00",
                 "endTime": "2024-10-02T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 66,
+                "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -102,8 +102,8 @@
                 "windSpeed": "6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,50?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely before 5pm. Mostly cloudy, with a high near 66. Southwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a high near 64. Southwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 4,
@@ -111,7 +111,7 @@
                 "startTime": "2024-10-02T18:00:00-04:00",
                 "endTime": "2024-10-03T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 52,
+                "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -119,10 +119,10 @@
                     "value": null
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "W",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog between 2am and 4am. Mostly cloudy, with a low around 52. West wind around 3 mph. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Patchy fog between 1am and 4am. Mostly cloudy, with a low around 49. Southwest wind around 3 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 5,

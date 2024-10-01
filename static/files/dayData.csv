@@ -1,8 +1,8 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-10-01T11:00:00,True,74,,9 mph,SE,bkn,"Partly sunny, with a high near 74. Southeast wind around 9 mph."
-1,Tonight,2024-10-01T18:00:00,False,56,40.0,7 mph,S,rain_showers,"A chance of rain showers after 2am. Mostly cloudy, with a low around 56. South wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-2,Wednesday,2024-10-02T06:00:00,True,66,60.0,6 mph,SW,rain_showers,"Rain showers likely before 5pm. Mostly cloudy, with a high near 66. Southwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
-3,Wednesday Night,2024-10-02T18:00:00,False,52,,3 mph,W,fog,"Patchy fog between 2am and 4am. Mostly cloudy, with a low around 52. West wind around 3 mph. New rainfall amounts less than a tenth of an inch possible."
+0,This Afternoon,2024-10-01T16:00:00,True,73,,8 mph,S,sct,"Mostly sunny, with a high near 73. South wind around 8 mph."
+1,Tonight,2024-10-01T18:00:00,False,56,60.0,7 mph,S,rain_showers,"A chance of rain showers after 2am. Mostly cloudy, with a low around 56. South wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+2,Wednesday,2024-10-02T06:00:00,True,64,60.0,6 mph,SW,rain_showers,"A chance of rain showers. Cloudy, with a high near 64. Southwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+3,Wednesday Night,2024-10-02T18:00:00,False,49,,3 mph,SW,fog,"Patchy fog between 1am and 4am. Mostly cloudy, with a low around 49. Southwest wind around 3 mph. New rainfall amounts less than a tenth of an inch possible."
 4,Thursday,2024-10-03T06:00:00,True,74,,1 to 6 mph,S,few,"Sunny, with a high near 74. South wind 1 to 6 mph."
 5,Thursday Night,2024-10-03T18:00:00,False,52,,5 mph,S,sct,"Partly cloudy, with a low around 52."
 6,Friday,2024-10-04T06:00:00,True,77,,2 to 6 mph,S,bkn,"Partly sunny, with a high near 77."
