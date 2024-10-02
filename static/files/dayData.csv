@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-10-02T06:00:00,True,64,60.0,6 mph,SW,rain_showers,"Rain showers likely before 5pm. Cloudy, with a high near 64. Southwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+0,Today,2024-10-02T07:00:00,True,64,60.0,6 mph,SW,rain_showers,"Rain showers likely before 5pm. Cloudy, with a high near 64. Southwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
 1,Tonight,2024-10-02T18:00:00,False,49,,2 mph,W,fog,"Areas of fog after 11pm. Mostly cloudy, with a low around 49. West wind around 2 mph. New rainfall amounts less than a tenth of an inch possible."
 2,Thursday,2024-10-03T06:00:00,True,74,,1 to 6 mph,S,sct,"Areas of fog before 9am. Mostly sunny, with a high near 74. South wind 1 to 6 mph."
 3,Thursday Night,2024-10-03T18:00:00,False,52,,5 mph,S,sct,"Partly cloudy, with a low around 52. South wind around 5 mph."
