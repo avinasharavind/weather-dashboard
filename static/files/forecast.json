@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-03T00:00:03+00:00",
+        "generatedAt": "2024-10-03T01:00:03+00:00",
         "updateTime": "2024-10-02T22:54:24+00:00",
         "validTimes": "2024-10-02T16:00:00+00:00/P7DT20H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-02T20:00:00-04:00",
+                "startTime": "2024-10-02T21:00:00-04:00",
                 "endTime": "2024-10-03T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "2 mph",
-                "windDirection": "S",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 9pm. Mostly cloudy, with a low around 49. South wind around 2 mph."
+                "detailedForecast": "Patchy fog. Partly cloudy, with a low around 49. Southeast wind around 2 mph."
             },
             {
                 "number": 2,
