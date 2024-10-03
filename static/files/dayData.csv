@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-10-02T22:00:00,False,49,,2 mph,SE,fog,"Patchy fog. Partly cloudy, with a low around 49. Southeast wind around 2 mph."
+0,Tonight,2024-10-02T23:00:00,False,49,,2 mph,SE,fog,"Patchy fog. Partly cloudy, with a low around 49. Southeast wind around 2 mph."
 1,Thursday,2024-10-03T06:00:00,True,72,,2 to 6 mph,S,few,"Patchy fog before 10am. Sunny, with a high near 72. South wind 2 to 6 mph."
 2,Thursday Night,2024-10-03T18:00:00,False,51,,5 mph,S,fog,"Patchy fog after 5am. Partly cloudy, with a low around 51. South wind around 5 mph."
 3,Friday,2024-10-04T06:00:00,True,77,,5 mph,SW,sct,"Patchy fog before 9am. Mostly sunny, with a high near 77. Southwest wind around 5 mph."
