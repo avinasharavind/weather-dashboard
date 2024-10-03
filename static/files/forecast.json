@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-03T13:00:44+00:00",
+        "generatedAt": "2024-10-03T18:07:29+00:00",
         "updateTime": "2024-10-03T12:48:53+00:00",
         "validTimes": "2024-10-03T06:00:00+00:00/P7DT19H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-10-03T09:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2024-10-03T14:00:00-04:00",
                 "endTime": "2024-10-03T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
-                "shortForecast": "Areas Of Fog then Mostly Sunny",
-                "detailedForecast": "Areas of fog before 11am. Mostly sunny, with a high near 74. South wind 2 to 6 mph."
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 74. Southwest wind around 6 mph."
             },
             {
                 "number": 2,
