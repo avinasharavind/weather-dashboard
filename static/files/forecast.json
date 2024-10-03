@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-03T20:04:44+00:00",
+        "generatedAt": "2024-10-03T21:06:46+00:00",
         "updateTime": "2024-10-03T12:48:53+00:00",
         "validTimes": "2024-10-03T06:00:00+00:00/P7DT19H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-03T16:00:00-04:00",
+                "startTime": "2024-10-03T17:00:00-04:00",
                 "endTime": "2024-10-03T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SW",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 74. Southwest wind around 5 mph."
+                "detailedForecast": "Mostly sunny, with a high near 74. South wind around 5 mph."
             },
             {
                 "number": 2,
