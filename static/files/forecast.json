@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-04T10:37:08+00:00",
-        "updateTime": "2024-10-04T10:19:01+00:00",
-        "validTimes": "2024-10-04T04:00:00+00:00/P7DT21H",
+        "generatedAt": "2024-10-04T15:00:02+00:00",
+        "updateTime": "2024-10-04T13:27:36+00:00",
+        "validTimes": "2024-10-04T07:00:00+00:00/P7DT18H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-10-04T06:00:00-04:00",
+                "startTime": "2024-10-04T11:00:00-04:00",
                 "endTime": "2024-10-04T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 77,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "1 to 5 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 77. Southwest wind 1 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Mostly sunny, with a high near 77. Southwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -78,13 +78,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/bkn?size=medium",
                 "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A chance of rain showers before midnight. Mostly cloudy, with a low around 50. Northwest wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers between 7pm and 11pm. Mostly cloudy, with a low around 50. Northwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
@@ -99,11 +99,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 8 mph",
-                "windDirection": "NW",
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 69. Northwest wind 3 to 8 mph."
+                "detailedForecast": "Sunny, with a high near 69. North wind 3 to 7 mph."
             },
             {
                 "number": 4,
@@ -118,11 +118,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "1 to 6 mph",
+                "windSpeed": "1 to 5 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
                 "shortForecast": "Mostly Clear then Patchy Fog",
-                "detailedForecast": "Patchy fog after 5am. Mostly clear, with a low around 44. Northeast wind 1 to 6 mph."
+                "detailedForecast": "Patchy fog after 5am. Mostly clear, with a low around 44. Northeast wind 1 to 5 mph."
             },
             {
                 "number": 5,
