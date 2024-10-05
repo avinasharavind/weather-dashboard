@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-10-04T23:00:00,False,50,20.0,5 mph,NW,sct,"Isolated rain showers before midnight. Partly cloudy, with a low around 50. Northwest wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+0,Overnight,2024-10-05T01:00:00,False,50,,5 mph,NW,bkn,"Mostly cloudy, with a low around 50. Northwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
 1,Saturday,2024-10-05T06:00:00,True,68,,5 to 8 mph,N,few,"Sunny, with a high near 68. North wind 5 to 8 mph."
 2,Saturday Night,2024-10-05T18:00:00,False,43,,1 to 6 mph,E,skc,"Clear, with a low around 43. East wind 1 to 6 mph."
 3,Sunday,2024-10-06T06:00:00,True,74,40.0,3 to 12 mph,S,rain_showers,"A chance of rain showers after 2pm. Mostly sunny, with a high near 74. South wind 3 to 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."

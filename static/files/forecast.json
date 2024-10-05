@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-05T03:00:03+00:00",
-        "updateTime": "2024-10-05T01:38:39+00:00",
-        "validTimes": "2024-10-04T19:00:00+00:00/P7DT19H",
+        "generatedAt": "2024-10-05T05:00:06+00:00",
+        "updateTime": "2024-10-05T04:23:54+00:00",
+        "validTimes": "2024-10-04T22:00:00+00:00/P7DT16H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-10-04T23:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-10-05T01:00:00-04:00",
                 "endTime": "2024-10-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -59,13 +59,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
-                "shortForecast": "Isolated Rain Showers then Partly Cloudy",
-                "detailedForecast": "Isolated rain showers before midnight. Partly cloudy, with a low around 50. Northwest wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 50. Northwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
