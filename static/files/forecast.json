@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-05T22:00:03+00:00",
-        "updateTime": "2024-10-05T18:35:41+00:00",
-        "validTimes": "2024-10-05T12:00:00+00:00/P8DT1H",
+        "generatedAt": "2024-10-05T23:00:03+00:00",
+        "updateTime": "2024-10-05T22:37:12+00:00",
+        "validTimes": "2024-10-05T16:00:00+00:00/P7DT21H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-05T18:00:00-04:00",
+                "startTime": "2024-10-05T19:00:00-04:00",
                 "endTime": "2024-10-06T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "1 to 6 mph",
+                "windSpeed": "1 to 5 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 43. East wind 1 to 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 43. East wind 1 to 5 mph."
             },
             {
                 "number": 2,
@@ -103,7 +103,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/tsra_hi,100/tsra_hi,90?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers before 8pm, then showers and thunderstorms. Mostly cloudy, with a low around 51. Southwest wind 3 to 13 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "A chance of rain showers between 7pm and 8pm, then showers and thunderstorms. Mostly cloudy, with a low around 51. Southwest wind 3 to 13 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 4,
