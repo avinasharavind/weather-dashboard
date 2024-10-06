@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-06T21:00:03+00:00",
+        "generatedAt": "2024-10-06T22:01:08+00:00",
         "updateTime": "2024-10-06T18:41:14+00:00",
         "validTimes": "2024-10-06T12:00:00+00:00/P8DT1H",
         "elevation": {
@@ -50,25 +50,6 @@
         "periods": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-10-06T17:00:00-04:00",
-                "endTime": "2024-10-06T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 75,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 75. South wind around 14 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-10-06T18:00:00-04:00",
                 "endTime": "2024-10-07T06:00:00-04:00",
@@ -87,7 +68,7 @@
                 "detailedForecast": "A slight chance of rain showers between 7pm and 8pm, then showers and thunderstorms between 8pm and 2am. Mostly cloudy, with a low around 51. South wind 3 to 13 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
-                "number": 3,
+                "number": 2,
                 "name": "Monday",
                 "startTime": "2024-10-07T06:00:00-04:00",
                 "endTime": "2024-10-07T18:00:00-04:00",
@@ -106,7 +87,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 63. West wind 6 to 13 mph."
             },
             {
-                "number": 4,
+                "number": 3,
                 "name": "Monday Night",
                 "startTime": "2024-10-07T18:00:00-04:00",
                 "endTime": "2024-10-08T06:00:00-04:00",
@@ -125,7 +106,7 @@
                 "detailedForecast": "Partly cloudy, with a low around 44. West wind 2 to 9 mph."
             },
             {
-                "number": 5,
+                "number": 4,
                 "name": "Tuesday",
                 "startTime": "2024-10-08T06:00:00-04:00",
                 "endTime": "2024-10-08T18:00:00-04:00",
@@ -141,10 +122,10 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 8am. Mostly sunny, with a high near 63. West wind 3 to 10 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain showers after 8am. Mostly sunny, with a high near 63. West wind 3 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
-                "number": 6,
+                "number": 5,
                 "name": "Tuesday Night",
                 "startTime": "2024-10-08T18:00:00-04:00",
                 "endTime": "2024-10-09T06:00:00-04:00",
@@ -160,10 +141,10 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 41. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 41. West wind 2 to 7 mph. Chance of precipitation is 30%."
             },
             {
-                "number": 7,
+                "number": 6,
                 "name": "Wednesday",
                 "startTime": "2024-10-09T06:00:00-04:00",
                 "endTime": "2024-10-09T18:00:00-04:00",
@@ -177,12 +158,12 @@
                 },
                 "windSpeed": "3 to 12 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers/rain_showers,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
                 "detailedForecast": "A chance of rain showers. Mostly sunny, with a high near 61. Chance of precipitation is 30%."
             },
             {
-                "number": 8,
+                "number": 7,
                 "name": "Wednesday Night",
                 "startTime": "2024-10-09T18:00:00-04:00",
                 "endTime": "2024-10-10T06:00:00-04:00",
@@ -201,7 +182,7 @@
                 "detailedForecast": "A chance of rain showers before 2am. Mostly cloudy, with a low around 41. Chance of precipitation is 30%."
             },
             {
-                "number": 9,
+                "number": 8,
                 "name": "Thursday",
                 "startTime": "2024-10-10T06:00:00-04:00",
                 "endTime": "2024-10-10T18:00:00-04:00",
@@ -220,7 +201,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 58."
             },
             {
-                "number": 10,
+                "number": 9,
                 "name": "Thursday Night",
                 "startTime": "2024-10-10T18:00:00-04:00",
                 "endTime": "2024-10-11T06:00:00-04:00",
@@ -239,7 +220,7 @@
                 "detailedForecast": "Mostly clear, with a low around 40."
             },
             {
-                "number": 11,
+                "number": 10,
                 "name": "Friday",
                 "startTime": "2024-10-11T06:00:00-04:00",
                 "endTime": "2024-10-11T18:00:00-04:00",
@@ -258,7 +239,7 @@
                 "detailedForecast": "Sunny, with a high near 68."
             },
             {
-                "number": 12,
+                "number": 11,
                 "name": "Friday Night",
                 "startTime": "2024-10-11T18:00:00-04:00",
                 "endTime": "2024-10-12T06:00:00-04:00",
@@ -277,7 +258,7 @@
                 "detailedForecast": "Mostly clear, with a low around 49."
             },
             {
-                "number": 13,
+                "number": 12,
                 "name": "Saturday",
                 "startTime": "2024-10-12T06:00:00-04:00",
                 "endTime": "2024-10-12T18:00:00-04:00",
@@ -296,7 +277,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 74."
             },
             {
-                "number": 14,
+                "number": 13,
                 "name": "Saturday Night",
                 "startTime": "2024-10-12T18:00:00-04:00",
                 "endTime": "2024-10-13T06:00:00-04:00",
@@ -313,6 +294,25 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after 8pm. Partly cloudy, with a low around 49."
+            },
+            {
+                "number": 14,
+                "name": "Sunday",
+                "startTime": "2024-10-13T06:00:00-04:00",
+                "endTime": "2024-10-13T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 68."
             }
         ]
     }
