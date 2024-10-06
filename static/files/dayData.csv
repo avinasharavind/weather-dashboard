@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-10-05T19:00:00,False,43,,1 to 5 mph,E,few,"Mostly clear, with a low around 43. East wind 1 to 5 mph."
+0,Tonight,2024-10-05T20:00:00,False,43,,3 mph,E,few,"Mostly clear, with a low around 43. East wind around 3 mph."
 1,Sunday,2024-10-06T06:00:00,True,75,,3 to 13 mph,SE,few,"Sunny, with a high near 75. Southeast wind 3 to 13 mph. New rainfall amounts less than a tenth of an inch possible."
 2,Sunday Night,2024-10-06T18:00:00,False,51,100.0,3 to 13 mph,SW,tsra_hi,"A chance of rain showers between 7pm and 8pm, then showers and thunderstorms. Mostly cloudy, with a low around 51. Southwest wind 3 to 13 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
 3,Monday,2024-10-07T06:00:00,True,63,20.0,6 to 12 mph,NW,rain_showers,"A slight chance of rain showers. Mostly sunny, with a high near 63. Northwest wind 6 to 12 mph. Chance of precipitation is 20%."
