@@ -1,6 +1,6 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Overnight,2024-10-07T00:00:00,False,51,40.0,6 mph,SW,rain_showers,"A chance of rain showers before 2am. Partly cloudy, with a low around 51. Southwest wind around 6 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
-1,Monday,2024-10-07T06:00:00,True,63,,6 to 13 mph,W,sct,"Mostly sunny, with a high near 63. West wind 6 to 13 mph."
+0,Overnight,2024-10-07T03:00:00,False,53,,2 to 6 mph,W,sct,"Partly cloudy, with a low around 53. West wind 2 to 6 mph."
+1,Monday,2024-10-07T06:00:00,True,63,,3 to 13 mph,NW,sct,"Mostly sunny, with a high near 63. Northwest wind 3 to 13 mph."
 2,Monday Night,2024-10-07T18:00:00,False,44,,2 to 9 mph,W,sct,"Partly cloudy, with a low around 44. West wind 2 to 9 mph."
 3,Tuesday,2024-10-08T06:00:00,True,63,30.0,3 to 10 mph,W,rain_showers,"A chance of rain showers after 8am. Mostly sunny, with a high near 63. West wind 3 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
 4,Tuesday Night,2024-10-08T18:00:00,False,41,30.0,2 to 7 mph,W,rain_showers,"A chance of rain showers. Partly cloudy, with a low around 41. West wind 2 to 7 mph. Chance of precipitation is 30%."
