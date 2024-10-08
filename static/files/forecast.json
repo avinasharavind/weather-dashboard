@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-08T21:00:03+00:00",
+        "generatedAt": "2024-10-08T22:00:02+00:00",
         "updateTime": "2024-10-08T19:38:11+00:00",
         "validTimes": "2024-10-08T13:00:00+00:00/P8DT1H",
         "elevation": {
@@ -50,25 +50,6 @@
         "periods": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-10-08T17:00:00-04:00",
-                "endTime": "2024-10-08T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Partly sunny, with a high near 64. Northwest wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-10-08T18:00:00-04:00",
                 "endTime": "2024-10-09T06:00:00-04:00",
@@ -87,7 +68,7 @@
                 "detailedForecast": "A chance of rain showers before 2am. Mostly cloudy, with a low around 42. Southwest wind 2 to 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
-                "number": 3,
+                "number": 2,
                 "name": "Wednesday",
                 "startTime": "2024-10-09T06:00:00-04:00",
                 "endTime": "2024-10-09T18:00:00-04:00",
@@ -106,7 +87,7 @@
                 "detailedForecast": "A chance of rain showers after 10am. Partly sunny, with a high near 61. Southwest wind 2 to 12 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
-                "number": 4,
+                "number": 3,
                 "name": "Wednesday Night",
                 "startTime": "2024-10-09T18:00:00-04:00",
                 "endTime": "2024-10-10T06:00:00-04:00",
@@ -125,7 +106,7 @@
                 "detailedForecast": "Rain showers likely before 2am. Mostly cloudy, with a low around 42. Northwest wind 6 to 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
-                "number": 5,
+                "number": 4,
                 "name": "Thursday",
                 "startTime": "2024-10-10T06:00:00-04:00",
                 "endTime": "2024-10-10T18:00:00-04:00",
@@ -144,7 +125,7 @@
                 "detailedForecast": "A slight chance of rain showers before 2pm. Partly sunny, with a high near 54. Northwest wind 7 to 12 mph. Chance of precipitation is 20%."
             },
             {
-                "number": 6,
+                "number": 5,
                 "name": "Thursday Night",
                 "startTime": "2024-10-10T18:00:00-04:00",
                 "endTime": "2024-10-11T06:00:00-04:00",
@@ -160,10 +141,10 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 38."
+                "detailedForecast": "Mostly clear, with a low around 38. Northwest wind 2 to 8 mph."
             },
             {
-                "number": 7,
+                "number": 6,
                 "name": "Friday",
                 "startTime": "2024-10-11T06:00:00-04:00",
                 "endTime": "2024-10-11T18:00:00-04:00",
@@ -182,7 +163,7 @@
                 "detailedForecast": "Sunny, with a high near 67."
             },
             {
-                "number": 8,
+                "number": 7,
                 "name": "Friday Night",
                 "startTime": "2024-10-11T18:00:00-04:00",
                 "endTime": "2024-10-12T06:00:00-04:00",
@@ -201,7 +182,7 @@
                 "detailedForecast": "Partly cloudy, with a low around 50."
             },
             {
-                "number": 9,
+                "number": 8,
                 "name": "Saturday",
                 "startTime": "2024-10-12T06:00:00-04:00",
                 "endTime": "2024-10-12T18:00:00-04:00",
@@ -220,7 +201,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 65."
             },
             {
-                "number": 10,
+                "number": 9,
                 "name": "Saturday Night",
                 "startTime": "2024-10-12T18:00:00-04:00",
                 "endTime": "2024-10-13T06:00:00-04:00",
@@ -239,7 +220,7 @@
                 "detailedForecast": "A chance of rain showers after 2am. Mostly clear, with a low around 41. Chance of precipitation is 30%."
             },
             {
-                "number": 11,
+                "number": 10,
                 "name": "Sunday",
                 "startTime": "2024-10-13T06:00:00-04:00",
                 "endTime": "2024-10-13T18:00:00-04:00",
@@ -258,7 +239,7 @@
                 "detailedForecast": "Rain showers likely. Partly sunny, with a high near 65. Chance of precipitation is 60%."
             },
             {
-                "number": 12,
+                "number": 11,
                 "name": "Sunday Night",
                 "startTime": "2024-10-13T18:00:00-04:00",
                 "endTime": "2024-10-14T06:00:00-04:00",
@@ -277,7 +258,7 @@
                 "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 42. Chance of precipitation is 70%."
             },
             {
-                "number": 13,
+                "number": 12,
                 "name": "Columbus Day",
                 "startTime": "2024-10-14T06:00:00-04:00",
                 "endTime": "2024-10-14T18:00:00-04:00",
@@ -296,7 +277,7 @@
                 "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 56. Chance of precipitation is 50%."
             },
             {
-                "number": 14,
+                "number": 13,
                 "name": "Monday Night",
                 "startTime": "2024-10-14T18:00:00-04:00",
                 "endTime": "2024-10-15T06:00:00-04:00",
@@ -313,6 +294,25 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
                 "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 38. Chance of precipitation is 50%."
+            },
+            {
+                "number": 14,
+                "name": "Tuesday",
+                "startTime": "2024-10-15T06:00:00-04:00",
+                "endTime": "2024-10-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 53. Chance of precipitation is 40%."
             }
         ]
     }
