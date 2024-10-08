@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-08T22:00:02+00:00",
+        "generatedAt": "2024-10-08T22:10:57+00:00",
         "updateTime": "2024-10-08T19:38:11+00:00",
         "validTimes": "2024-10-08T13:00:00+00:00/P8DT1H",
         "elevation": {
