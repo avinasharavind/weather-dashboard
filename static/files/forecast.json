@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-08T16:02:04+00:00",
-        "updateTime": "2024-10-08T13:29:30+00:00",
-        "validTimes": "2024-10-08T07:00:00+00:00/P7DT17H",
+        "generatedAt": "2024-10-08T19:00:03+00:00",
+        "updateTime": "2024-10-08T16:39:31+00:00",
+        "validTimes": "2024-10-08T10:00:00+00:00/P7DT14H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-08T12:00:00-04:00",
+                "startTime": "2024-10-08T15:00:00-04:00",
                 "endTime": "2024-10-08T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 2pm. Partly sunny, with a high near 64. Northwest wind 8 to 12 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain showers. Partly sunny, with a high near 64. Northwest wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -84,7 +84,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 42. West wind 2 to 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 2am. Mostly cloudy, with a low around 42. West wind 2 to 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
@@ -103,7 +103,7 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 59. West wind 2 to 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers after 11am. Partly sunny, with a high near 59. West wind 2 to 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
