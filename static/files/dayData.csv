@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-10-09T10:00:00,True,61,50.0,7 to 13 mph,W,rain_showers,"Scattered rain showers after 1pm. Partly sunny, with a high near 61. West wind 7 to 13 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+0,Today,2024-10-09T11:00:00,True,61,50.0,9 to 13 mph,W,rain_showers,"Scattered rain showers after 1pm. Partly sunny, with a high near 61. West wind 9 to 13 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
 1,Tonight,2024-10-09T18:00:00,False,41,50.0,7 to 10 mph,NW,rain_showers,"Scattered rain showers. Mostly cloudy, with a low around 41. Northwest wind 7 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
 2,Thursday,2024-10-10T06:00:00,True,53,40.0,8 to 12 mph,NW,bkn,"Scattered rain showers before noon. Partly sunny, with a high near 53. Northwest wind 8 to 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
 3,Thursday Night,2024-10-10T18:00:00,False,38,,2 to 6 mph,NW,few,"Mostly clear, with a low around 38. Northwest wind 2 to 6 mph."
