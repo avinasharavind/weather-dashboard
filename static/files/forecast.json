@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-09T03:00:03+00:00",
-        "updateTime": "2024-10-09T01:26:25+00:00",
-        "validTimes": "2024-10-08T19:00:00+00:00/P7DT19H",
+        "generatedAt": "2024-10-09T04:00:03+00:00",
+        "updateTime": "2024-10-09T03:42:02+00:00",
+        "validTimes": "2024-10-08T21:00:00+00:00/P7DT17H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-10-08T23:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-10-09T00:00:00-04:00",
                 "endTime": "2024-10-09T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
