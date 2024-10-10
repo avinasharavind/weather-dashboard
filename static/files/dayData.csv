@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-10-10T12:00:00,True,54,,13 mph,NW,bkn,"Partly sunny, with a high near 54. Northwest wind around 13 mph."
+0,This Afternoon,2024-10-10T13:00:00,True,54,,13 mph,NW,bkn,"Partly sunny, with a high near 54. Northwest wind around 13 mph."
 1,Tonight,2024-10-10T18:00:00,False,40,,2 to 9 mph,NW,sct,"Partly cloudy, with a low around 40. Northwest wind 2 to 9 mph."
 2,Friday,2024-10-11T06:00:00,True,69,,2 to 6 mph,W,few,"Sunny, with a high near 69. West wind 2 to 6 mph."
 3,Friday Night,2024-10-11T18:00:00,False,53,,5 to 8 mph,SW,sct,"Partly cloudy, with a low around 53. Southwest wind 5 to 8 mph."
