@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-10T01:00:04+00:00",
-        "updateTime": "2024-10-09T22:25:44+00:00",
-        "validTimes": "2024-10-09T16:00:00+00:00/P7DT11H",
+        "generatedAt": "2024-10-10T02:00:04+00:00",
+        "updateTime": "2024-10-10T01:45:24+00:00",
+        "validTimes": "2024-10-09T19:00:00+00:00/P7DT8H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-09T21:00:00-04:00",
+                "startTime": "2024-10-09T22:00:00-04:00",
                 "endTime": "2024-10-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -84,7 +84,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,20?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 2pm. Mostly cloudy, with a high near 54. Northwest wind 7 to 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 2pm. Partly sunny, with a high near 54. Northwest wind 7 to 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
