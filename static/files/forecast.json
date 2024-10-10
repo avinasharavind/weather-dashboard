@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-10T20:00:03+00:00",
-        "updateTime": "2024-10-10T18:37:37+00:00",
-        "validTimes": "2024-10-10T12:00:00+00:00/P7DT16H",
+        "generatedAt": "2024-10-10T21:30:27+00:00",
+        "updateTime": "2024-10-10T21:00:47+00:00",
+        "validTimes": "2024-10-10T15:00:00+00:00/P7DT13H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-10T16:00:00-04:00",
+                "startTime": "2024-10-10T17:00:00-04:00",
                 "endTime": "2024-10-10T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 54. Northwest wind around 12 mph."
+                "detailedForecast": "Mostly sunny, with a high near 54. Northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -149,7 +149,7 @@
                 "startTime": "2024-10-12T18:00:00-04:00",
                 "endTime": "2024-10-13T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 40,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -160,7 +160,7 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 8pm. Partly cloudy, with a low around 40. Chance of precipitation is 40%."
+                "detailedForecast": "A chance of rain showers after 8pm. Partly cloudy, with a low around 43. Chance of precipitation is 40%."
             },
             {
                 "number": 7,
