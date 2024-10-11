@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Overnight,2024-10-11T02:00:00,False,40,,2 mph,W,few,"Mostly clear, with a low around 40. West wind around 2 mph."
+0,Overnight,2024-10-11T03:00:00,False,40,,2 mph,W,few,"Mostly clear, with a low around 40. West wind around 2 mph."
 1,Friday,2024-10-11T06:00:00,True,68,,2 to 6 mph,W,few,"Sunny, with a high near 68. West wind 2 to 6 mph."
 2,Friday Night,2024-10-11T18:00:00,False,53,,6 to 9 mph,SW,sct,"Partly cloudy, with a low around 53. Southwest wind 6 to 9 mph."
 3,Saturday,2024-10-12T06:00:00,True,65,,7 to 12 mph,NW,sct,"Mostly sunny, with a high near 65. Northwest wind 7 to 12 mph."
