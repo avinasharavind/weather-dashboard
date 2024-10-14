@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-14T18:00:03+00:00",
+        "generatedAt": "2024-10-14T19:00:03+00:00",
         "updateTime": "2024-10-14T13:31:22+00:00",
         "validTimes": "2024-10-14T07:00:00+00:00/P7DT7H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Columbus Day",
-                "startTime": "2024-10-14T14:00:00-04:00",
+                "startTime": "2024-10-14T15:00:00-04:00",
                 "endTime": "2024-10-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 47,
@@ -59,13 +59,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
                 "windSpeed": "15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a high near 47. Northwest wind around 15 mph, with gusts as high as 28 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers. Cloudy, with a high near 47. Northwest wind around 15 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
