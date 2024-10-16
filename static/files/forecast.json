@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-16T03:00:06+00:00",
+        "generatedAt": "2024-10-16T04:00:04+00:00",
         "updateTime": "2024-10-16T02:06:36+00:00",
         "validTimes": "2024-10-15T20:00:00+00:00/P7DT17H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-10-15T23:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-10-16T00:00:00-04:00",
                 "endTime": "2024-10-16T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 38,
@@ -63,9 +63,9 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/rain_showers,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 38. Northwest wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain showers likely. Cloudy, with a low around 38. Northwest wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
