@@ -1,8 +1,8 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-10-16T11:00:00,True,49,50.0,10 mph,NW,rain_showers,"A chance of rain showers. Mostly cloudy, with a high near 49. Northwest wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-1,Tonight,2024-10-16T18:00:00,False,33,20.0,2 to 7 mph,N,bkn,"A slight chance of rain showers before 7pm, then areas of frost. Mostly cloudy, with a low around 33. North wind 2 to 7 mph. Chance of precipitation is 20%."
-2,Thursday,2024-10-17T06:00:00,True,58,,2 to 8 mph,N,sct,"Areas of frost before 9am. Mostly sunny, with a high near 58. North wind 2 to 8 mph."
-3,Thursday Night,2024-10-17T18:00:00,False,36,,1 to 6 mph,NW,few,"Patchy frost after 3am. Mostly clear, with a low around 36. Northwest wind 1 to 6 mph."
+0,This Afternoon,2024-10-16T14:00:00,True,49,40.0,10 mph,NW,rain_showers,"A chance of rain showers. Mostly cloudy, with a high near 49. Northwest wind around 10 mph. Chance of precipitation is 40%."
+1,Tonight,2024-10-16T18:00:00,False,34,20.0,1 to 8 mph,NW,bkn,"A slight chance of rain showers before 7pm, then patchy frost. Mostly cloudy, with a low around 34. Northwest wind 1 to 8 mph. Chance of precipitation is 20%."
+2,Thursday,2024-10-17T06:00:00,True,56,,1 to 8 mph,N,sct,"Patchy frost before 9am. Mostly sunny, with a high near 56. North wind 1 to 8 mph."
+3,Thursday Night,2024-10-17T18:00:00,False,36,,1 to 7 mph,NW,few,"Patchy frost after 3am. Mostly clear, with a low around 36. Northwest wind 1 to 7 mph."
 4,Friday,2024-10-18T06:00:00,True,64,,1 to 6 mph,NW,few,"Patchy frost before 9am. Sunny, with a high near 64. Northwest wind 1 to 6 mph."
 5,Friday Night,2024-10-18T18:00:00,False,37,,3 mph,SE,few,"Mostly clear, with a low around 37."
 6,Saturday,2024-10-19T06:00:00,True,67,,3 mph,SW,few,"Sunny, with a high near 67."
