@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-10-16T22:00:00,False,34,,2 mph,NW,sct,"Patchy frost after 2am. Partly cloudy, with a low around 34. Northwest wind around 2 mph."
+0,Tonight,2024-10-16T23:00:00,False,34,,2 mph,NW,sct,"Patchy frost after 2am. Partly cloudy, with a low around 34. Northwest wind around 2 mph."
 1,Thursday,2024-10-17T06:00:00,True,56,,1 to 8 mph,N,sct,"Patchy frost before 9am. Mostly sunny, with a high near 56. North wind 1 to 8 mph."
 2,Thursday Night,2024-10-17T18:00:00,False,35,,1 to 7 mph,NW,few,"Patchy frost after 2am. Mostly clear, with a low around 35. Northwest wind 1 to 7 mph."
 3,Friday,2024-10-18T06:00:00,True,64,,1 to 6 mph,NW,few,"Patchy frost before 9am. Sunny, with a high near 64. Northwest wind 1 to 6 mph."
