@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-10-19T18:00:00,False,36,,2 mph,SE,skc,"Clear, with a low around 36. Southeast wind around 2 mph."
+0,Tonight,2024-10-19T20:00:00,False,36,,2 mph,SE,skc,"Clear, with a low around 36. Southeast wind around 2 mph."
 1,Sunday,2024-10-20T06:00:00,True,72,,5 mph,S,few,"Sunny, with a high near 72. South wind around 5 mph."
 2,Sunday Night,2024-10-20T18:00:00,False,48,,2 mph,S,skc,"Clear, with a low around 48. South wind around 2 mph."
 3,Monday,2024-10-21T06:00:00,True,77,,2 to 6 mph,SW,skc,"Sunny, with a high near 77. Southwest wind 2 to 6 mph."
