@@ -1,9 +1,9 @@
 ,pdNum,stTime,readTime,temp,PoPs,dewpt,relHum,wdSpd,wdDir,icon,shrtFcst,appTemp,cldCvr,wdGst
 0,1,2024-10-19T22:00:00,"10 PM, Sat Oct 19",48,0,41.0,77,1,S,skc,Clear,48,1,2
-1,2,2024-10-19T23:00:00,"11 PM, Sat Oct 19",47,0,40.0,76,2,SE,skc,Clear,46,1,3
-2,3,2024-10-20T00:00:00,"12 AM, Sun Oct 20",45,0,39.0,79,2,SE,skc,Clear,43,1,2
-3,4,2024-10-20T01:00:00,"01 AM, Sun Oct 20",43,0,39.0,86,2,SE,skc,Clear,40,2,2
-4,5,2024-10-20T02:00:00,"02 AM, Sun Oct 20",41,0,39.0,92,2,SE,skc,Clear,40,2,2
+1,2,2024-10-19T23:00:00,"11 PM, Sat Oct 19",47,0,40.0,76,2,SE,skc,Clear,47,1,2
+2,3,2024-10-20T00:00:00,"12 AM, Sun Oct 20",45,0,39.0,79,2,SE,skc,Clear,45,1,2
+3,4,2024-10-20T01:00:00,"01 AM, Sun Oct 20",43,0,39.0,86,2,SE,skc,Clear,43,2,2
+4,5,2024-10-20T02:00:00,"02 AM, Sun Oct 20",41,0,39.0,92,2,SE,skc,Clear,41,2,2
 5,6,2024-10-20T03:00:00,"03 AM, Sun Oct 20",39,0,39.0,100,2,SE,few,Mostly Clear,39,7,2
 6,7,2024-10-20T04:00:00,"04 AM, Sun Oct 20",38,0,38.0,100,2,SE,few,Mostly Clear,38,8,3
 7,8,2024-10-20T05:00:00,"05 AM, Sun Oct 20",36,0,36.0,100,2,SE,few,Patchy Frost,36,6,3
