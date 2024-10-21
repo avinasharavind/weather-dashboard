@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-21T03:00:02+00:00",
+        "generatedAt": "2024-10-21T04:00:03+00:00",
         "updateTime": "2024-10-21T01:17:16+00:00",
         "validTimes": "2024-10-20T19:00:00+00:00/P7DT21H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-10-20T23:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2024-10-21T00:00:00-04:00",
                 "endTime": "2024-10-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
