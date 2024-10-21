@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-21T11:00:03+00:00",
-        "updateTime": "2024-10-21T10:11:58+00:00",
-        "validTimes": "2024-10-21T04:00:00+00:00/P8DT6H",
+        "generatedAt": "2024-10-21T18:00:03+00:00",
+        "updateTime": "2024-10-21T17:16:15+00:00",
+        "validTimes": "2024-10-21T11:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,22 +50,22 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-10-21T07:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2024-10-21T14:00:00-04:00",
                 "endTime": "2024-10-21T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 79,
+                "temperature": 80,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 79. Southwest wind 3 to 8 mph."
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 80. West wind 5 to 8 mph."
             },
             {
                 "number": 2,
@@ -101,7 +101,7 @@
                 },
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 80. South wind 2 to 7 mph."
             },
