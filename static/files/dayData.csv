@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-10-21T14:00:00,True,80,,5 to 8 mph,W,skc,"Sunny, with a high near 80. West wind 5 to 8 mph."
+0,This Afternoon,2024-10-21T15:00:00,True,80,,5 to 8 mph,W,few,"Sunny, with a high near 80. West wind 5 to 8 mph."
 1,Tonight,2024-10-21T18:00:00,False,49,,3 mph,S,few,"Mostly clear, with a low around 49. South wind around 3 mph."
 2,Tuesday,2024-10-22T06:00:00,True,80,,2 to 7 mph,S,skc,"Sunny, with a high near 80. South wind 2 to 7 mph."
 3,Tuesday Night,2024-10-22T18:00:00,False,55,,7 mph,S,few,"Mostly clear, with a low around 55. South wind around 7 mph."

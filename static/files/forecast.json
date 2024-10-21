@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-21T18:00:03+00:00",
+        "generatedAt": "2024-10-21T19:00:03+00:00",
         "updateTime": "2024-10-21T17:16:15+00:00",
         "validTimes": "2024-10-21T11:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-21T14:00:00-04:00",
+                "startTime": "2024-10-21T15:00:00-04:00",
                 "endTime": "2024-10-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 80,
@@ -63,7 +63,7 @@
                 },
                 "windSpeed": "5 to 8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 80. West wind 5 to 8 mph."
             },
