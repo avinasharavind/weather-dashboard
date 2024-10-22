@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-22T04:00:03+00:00",
-        "updateTime": "2024-10-22T01:35:45+00:00",
-        "validTimes": "2024-10-21T19:00:00+00:00/P7DT21H",
+        "generatedAt": "2024-10-22T05:00:03+00:00",
+        "updateTime": "2024-10-22T04:42:58+00:00",
+        "validTimes": "2024-10-21T22:00:00+00:00/P7DT18H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,21 +51,21 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-10-22T00:00:00-04:00",
+                "startTime": "2024-10-22T01:00:00-04:00",
                 "endTime": "2024-10-22T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 50,
+                "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 mph",
+                "windSpeed": "1 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 50. Southeast wind around 2 mph."
+                "detailedForecast": "Clear, with a low around 51. Southeast wind around 1 mph."
             },
             {
                 "number": 2,
@@ -73,18 +73,18 @@
                 "startTime": "2024-10-22T06:00:00-04:00",
                 "endTime": "2024-10-22T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 79,
+                "temperature": 82,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "1 to 6 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 79. South wind 2 to 6 mph."
+                "detailedForecast": "Sunny, with a high near 82. South wind 1 to 6 mph."
             },
             {
                 "number": 3,
@@ -99,11 +99,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 55. South wind around 7 mph."
+                "detailedForecast": "Mostly clear, with a low around 55. South wind 5 to 9 mph."
             },
             {
                 "number": 4,
@@ -118,11 +118,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 2pm. Mostly sunny, with a high near 76. South wind 7 to 14 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/few/rain_showers,20?size=medium",
+                "shortForecast": "Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 2pm. Sunny, with a high near 76. South wind 8 to 14 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 5,
