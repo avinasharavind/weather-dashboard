@@ -1,157 +1,157 @@
 ,pdNum,stTime,readTime,temp,PoPs,dewpt,relHum,wdSpd,wdDir,icon,shrtFcst,appTemp,cldCvr,wdGst
-0,1,2024-10-22T14:00:00,"02 PM, Tue Oct 22",80,0,54.0,41,6,S,skc,Sunny,80,0,10
-1,2,2024-10-22T15:00:00,"03 PM, Tue Oct 22",81,1,54.0,39,6,S,skc,Sunny,81,0,10
-2,3,2024-10-22T16:00:00,"04 PM, Tue Oct 22",82,1,55.0,40,6,S,skc,Sunny,81,2,10
-3,4,2024-10-22T17:00:00,"05 PM, Tue Oct 22",80,1,56.0,44,6,S,skc,Sunny,80,0,10
-4,5,2024-10-22T18:00:00,"06 PM, Tue Oct 22",77,1,55.0,47,6,S,skc,Clear,77,1,10
-5,6,2024-10-22T19:00:00,"07 PM, Tue Oct 22",73,1,53.0,49,6,S,skc,Clear,73,0,10
-6,7,2024-10-22T20:00:00,"08 PM, Tue Oct 22",69,0,50.0,51,6,S,skc,Clear,69,0,10
-7,8,2024-10-22T21:00:00,"09 PM, Tue Oct 22",67,0,50.0,54,6,S,skc,Clear,67,0,10
-8,9,2024-10-22T22:00:00,"10 PM, Tue Oct 22",65,0,49.0,56,6,S,skc,Clear,65,0,12
-9,10,2024-10-22T23:00:00,"11 PM, Tue Oct 22",63,0,49.0,60,7,S,skc,Clear,63,0,12
-10,11,2024-10-23T00:00:00,"12 AM, Wed Oct 23",62,0,49.0,62,7,S,skc,Clear,62,2,12
-11,12,2024-10-23T01:00:00,"01 AM, Wed Oct 23",60,0,49.0,67,7,S,skc,Clear,60,4,13
-12,13,2024-10-23T02:00:00,"02 AM, Wed Oct 23",60,0,49.0,67,8,S,skc,Clear,60,5,13
-13,14,2024-10-23T03:00:00,"03 AM, Wed Oct 23",59,0,48.0,67,8,S,skc,Clear,59,5,13
-14,15,2024-10-23T04:00:00,"04 AM, Wed Oct 23",57,0,47.0,69,8,S,skc,Clear,57,5,14
-15,16,2024-10-23T05:00:00,"05 AM, Wed Oct 23",56,0,46.0,69,9,S,skc,Clear,56,5,14
-16,17,2024-10-23T06:00:00,"06 AM, Wed Oct 23",56,0,45.0,66,9,S,skc,Sunny,56,4,13
-17,18,2024-10-23T07:00:00,"07 AM, Wed Oct 23",55,0,44.0,66,8,S,skc,Sunny,55,2,13
-18,19,2024-10-23T08:00:00,"08 AM, Wed Oct 23",55,0,43.0,64,9,S,skc,Sunny,55,0,13
-19,20,2024-10-23T09:00:00,"09 AM, Wed Oct 23",59,0,45.0,60,10,S,skc,Sunny,59,2,15
-20,21,2024-10-23T10:00:00,"10 AM, Wed Oct 23",63,0,47.0,56,12,S,skc,Sunny,63,4,18
-21,22,2024-10-23T11:00:00,"11 AM, Wed Oct 23",67,0,49.0,52,12,S,few,Sunny,67,6,22
-22,23,2024-10-23T12:00:00,"12 PM, Wed Oct 23",71,2,50.0,47,13,S,few,Sunny,71,13,24
-23,24,2024-10-23T13:00:00,"01 PM, Wed Oct 23",74,5,50.0,43,13,S,few,Sunny,74,21,24
-24,25,2024-10-23T14:00:00,"02 PM, Wed Oct 23",76,8,50.0,40,13,S,sct,Mostly Sunny,76,29,24
-25,26,2024-10-23T15:00:00,"03 PM, Wed Oct 23",77,8,51.0,40,12,S,sct,Mostly Sunny,77,34,22
-26,27,2024-10-23T16:00:00,"04 PM, Wed Oct 23",77,9,51.0,40,12,SW,sct,Mostly Sunny,77,40,18
-27,28,2024-10-23T17:00:00,"05 PM, Wed Oct 23",76,13,51.0,42,10,SW,sct,Mostly Sunny,76,46,15
-28,29,2024-10-23T18:00:00,"06 PM, Wed Oct 23",71,28,51.0,49,9,SW,rain_showers,Chance Rain Showers,71,57,14
-29,30,2024-10-23T19:00:00,"07 PM, Wed Oct 23",65,44,51.0,60,9,W,rain_showers,Chance Rain Showers,65,68,14
-30,31,2024-10-23T20:00:00,"08 PM, Wed Oct 23",61,53,51.0,70,8,W,rain_showers,Chance Rain Showers,61,79,15
-31,32,2024-10-23T21:00:00,"09 PM, Wed Oct 23",58,47,51.0,77,8,W,rain_showers,Chance Rain Showers,58,76,16
-32,33,2024-10-23T22:00:00,"10 PM, Wed Oct 23",56,35,51.0,83,9,W,rain_showers,Chance Rain Showers,56,74,18
-33,34,2024-10-23T23:00:00,"11 PM, Wed Oct 23",53,23,50.0,89,9,NW,rain_showers,Slight Chance Rain Showers,53,71,20
-34,35,2024-10-24T00:00:00,"12 AM, Thu Oct 24",52,19,49.0,89,10,NW,rain_showers,Slight Chance Rain Showers,52,70,20
-35,36,2024-10-24T01:00:00,"01 AM, Thu Oct 24",50,17,48.0,93,10,NW,rain_showers,Slight Chance Rain Showers,46,69,20
-36,37,2024-10-24T02:00:00,"02 AM, Thu Oct 24",49,18,46.0,89,10,NW,rain_showers,Slight Chance Rain Showers,45,68,20
-37,38,2024-10-24T03:00:00,"03 AM, Thu Oct 24",47,19,45.0,93,10,NW,rain_showers,Slight Chance Rain Showers,42,70,20
-38,39,2024-10-24T04:00:00,"04 AM, Thu Oct 24",46,21,43.0,89,10,NW,rain_showers,Slight Chance Rain Showers,41,71,20
-39,40,2024-10-24T05:00:00,"05 AM, Thu Oct 24",45,21,42.0,89,12,NW,rain_showers,Slight Chance Rain Showers,39,73,20
-40,41,2024-10-24T06:00:00,"06 AM, Thu Oct 24",44,16,41.0,89,12,NW,rain_showers,Slight Chance Rain Showers,38,69,20
-41,42,2024-10-24T07:00:00,"07 AM, Thu Oct 24",43,8,41.0,93,10,NW,bkn,Partly Sunny,37,66,21
-42,43,2024-10-24T08:00:00,"08 AM, Thu Oct 24",44,15,38.0,79,10,NW,rain_showers,Slight Chance Rain Showers,38,67,18
-43,44,2024-10-24T09:00:00,"09 AM, Thu Oct 24",46,15,39.0,76,10,NW,rain_showers,Slight Chance Rain Showers,41,61,18
-44,45,2024-10-24T10:00:00,"10 AM, Thu Oct 24",48,15,40.0,74,12,NW,rain_showers,Slight Chance Rain Showers,43,56,20
-45,46,2024-10-24T11:00:00,"11 AM, Thu Oct 24",50,15,41.0,71,12,NW,rain_showers,Slight Chance Rain Showers,46,51,20
-46,47,2024-10-24T12:00:00,"12 PM, Thu Oct 24",51,15,41.0,68,12,NW,rain_showers,Slight Chance Rain Showers,51,46,20
-47,48,2024-10-24T13:00:00,"01 PM, Thu Oct 24",52,15,41.0,66,12,NW,rain_showers,Slight Chance Rain Showers,52,40,18
-48,49,2024-10-24T14:00:00,"02 PM, Thu Oct 24",53,1,40.0,61,12,NW,sct,Mostly Sunny,53,35,18
-49,50,2024-10-24T15:00:00,"03 PM, Thu Oct 24",53,1,39.0,59,12,NW,sct,Mostly Sunny,53,30,18
-50,51,2024-10-24T16:00:00,"04 PM, Thu Oct 24",53,1,39.0,59,12,NW,few,Sunny,53,25,18
-51,52,2024-10-24T17:00:00,"05 PM, Thu Oct 24",52,1,38.0,59,10,NW,few,Sunny,52,20,17
-52,53,2024-10-24T18:00:00,"06 PM, Thu Oct 24",50,1,37.0,61,8,N,few,Mostly Clear,47,17,15
-53,54,2024-10-24T19:00:00,"07 PM, Thu Oct 24",47,1,37.0,68,7,N,few,Mostly Clear,44,13,12
-54,55,2024-10-24T20:00:00,"08 PM, Thu Oct 24",44,0,36.0,73,5,N,few,Mostly Clear,41,10,8
-55,56,2024-10-24T21:00:00,"09 PM, Thu Oct 24",42,0,35.0,76,3,N,few,Mostly Clear,40,10,6
-56,57,2024-10-24T22:00:00,"10 PM, Thu Oct 24",41,0,34.0,76,3,N,few,Mostly Clear,39,10,6
-57,58,2024-10-24T23:00:00,"11 PM, Thu Oct 24",40,0,34.0,79,3,NW,few,Mostly Clear,38,11,5
-58,59,2024-10-25T00:00:00,"12 AM, Fri Oct 25",39,0,34.0,82,3,NW,few,Mostly Clear,37,11,3
-59,60,2024-10-25T01:00:00,"01 AM, Fri Oct 25",39,0,35.0,85,2,SW,few,Mostly Clear,39,11,3
-60,61,2024-10-25T02:00:00,"02 AM, Fri Oct 25",38,0,35.0,89,2,S,few,Mostly Clear,38,11,3
-61,62,2024-10-25T03:00:00,"03 AM, Fri Oct 25",37,0,35.0,92,2,S,few,Mostly Clear,37,12,3
-62,63,2024-10-25T04:00:00,"04 AM, Fri Oct 25",37,0,34.0,89,3,S,few,Mostly Clear,34,13,3
-63,64,2024-10-25T05:00:00,"05 AM, Fri Oct 25",36,0,34.0,92,3,S,few,Mostly Clear,33,15,5
-64,65,2024-10-25T06:00:00,"06 AM, Fri Oct 25",35,0,34.0,96,3,S,few,Sunny,32,18,5
-65,66,2024-10-25T07:00:00,"07 AM, Fri Oct 25",34,0,34.0,100,3,S,few,Sunny,31,21,6
-66,67,2024-10-25T08:00:00,"08 AM, Fri Oct 25",35,0,34.0,96,3,S,few,Sunny,32,24,7
-67,68,2024-10-25T09:00:00,"09 AM, Fri Oct 25",39,0,35.0,85,5,S,few,Sunny,36,24,8
-68,69,2024-10-25T10:00:00,"10 AM, Fri Oct 25",45,0,37.0,73,6,S,few,Sunny,42,23,10
-69,70,2024-10-25T11:00:00,"11 AM, Fri Oct 25",51,0,39.0,63,7,S,few,Sunny,51,23,12
-70,71,2024-10-25T12:00:00,"12 PM, Fri Oct 25",55,0,40.0,57,8,S,sct,Mostly Sunny,55,27,13
-71,72,2024-10-25T13:00:00,"01 PM, Fri Oct 25",59,0,41.0,51,8,S,sct,Mostly Sunny,59,30,14
-72,73,2024-10-25T14:00:00,"02 PM, Fri Oct 25",61,12,41.0,48,8,S,sct,Mostly Sunny,61,34,14
-73,74,2024-10-25T15:00:00,"03 PM, Fri Oct 25",62,12,41.0,46,8,S,sct,Mostly Sunny,62,40,14
-74,75,2024-10-25T16:00:00,"04 PM, Fri Oct 25",62,12,42.0,48,7,S,sct,Mostly Sunny,62,46,14
-75,76,2024-10-25T17:00:00,"05 PM, Fri Oct 25",61,12,42.0,49,7,S,bkn,Partly Sunny,61,52,14
-76,77,2024-10-25T18:00:00,"06 PM, Fri Oct 25",58,12,42.0,55,7,S,bkn,Mostly Cloudy,58,58,13
-77,78,2024-10-25T19:00:00,"07 PM, Fri Oct 25",55,12,42.0,61,6,S,bkn,Mostly Cloudy,55,63,13
-78,79,2024-10-25T20:00:00,"08 PM, Fri Oct 25",52,45,42.0,69,6,S,rain_showers,Chance Rain Showers,52,69,12
-79,80,2024-10-25T21:00:00,"09 PM, Fri Oct 25",50,45,42.0,74,6,S,rain_showers,Chance Rain Showers,48,71,10
-80,81,2024-10-25T22:00:00,"10 PM, Fri Oct 25",49,45,43.0,80,5,S,rain_showers,Chance Rain Showers,47,74,10
-81,82,2024-10-25T23:00:00,"11 PM, Fri Oct 25",49,45,43.0,80,5,S,rain_showers,Chance Rain Showers,47,77,9
-82,83,2024-10-26T00:00:00,"12 AM, Sat Oct 26",49,45,43.0,80,5,S,rain_showers,Chance Rain Showers,47,78,8
-83,84,2024-10-26T01:00:00,"01 AM, Sat Oct 26",50,45,44.0,80,5,SW,rain_showers,Chance Rain Showers,48,79,8
-84,85,2024-10-26T02:00:00,"02 AM, Sat Oct 26",50,50,44.0,80,5,SW,rain_showers,Chance Rain Showers,48,80,8
-85,86,2024-10-26T03:00:00,"03 AM, Sat Oct 26",50,50,44.0,80,5,SW,rain_showers,Chance Rain Showers,48,79,8
-86,87,2024-10-26T04:00:00,"04 AM, Sat Oct 26",49,50,45.0,86,6,W,rain_showers,Chance Rain Showers,47,79,9
-87,88,2024-10-26T05:00:00,"05 AM, Sat Oct 26",48,50,45.0,89,6,W,rain_showers,Chance Rain Showers,45,79,10
-88,89,2024-10-26T06:00:00,"06 AM, Sat Oct 26",47,50,45.0,93,6,W,rain_showers,Chance Rain Showers,44,78,12
-89,90,2024-10-26T07:00:00,"07 AM, Sat Oct 26",46,50,45.0,96,7,NW,rain_showers,Chance Rain Showers,42,76,12
-90,91,2024-10-26T08:00:00,"08 AM, Sat Oct 26",47,29,45.0,93,6,NW,rain_showers,Chance Rain Showers,44,75,12
-91,92,2024-10-26T09:00:00,"09 AM, Sat Oct 26",50,29,46.0,86,8,NW,rain_showers,Chance Rain Showers,47,71,14
-92,93,2024-10-26T10:00:00,"10 AM, Sat Oct 26",53,29,47.0,80,9,NW,rain_showers,Chance Rain Showers,53,67,16
-93,94,2024-10-26T11:00:00,"11 AM, Sat Oct 26",56,29,48.0,74,10,NW,rain_showers,Chance Rain Showers,56,63,17
-94,95,2024-10-26T12:00:00,"12 PM, Sat Oct 26",57,29,47.0,69,12,NW,rain_showers,Chance Rain Showers,57,59,18
-95,96,2024-10-26T13:00:00,"01 PM, Sat Oct 26",58,29,46.0,64,12,NW,rain_showers,Chance Rain Showers,58,54,20
-96,97,2024-10-26T14:00:00,"02 PM, Sat Oct 26",58,25,45.0,62,12,NW,rain_showers,Chance Rain Showers,58,50,20
-97,98,2024-10-26T15:00:00,"03 PM, Sat Oct 26",58,25,44.0,59,12,NW,rain_showers,Chance Rain Showers,58,43,20
-98,99,2024-10-26T16:00:00,"04 PM, Sat Oct 26",58,25,43.0,57,12,NW,rain_showers,Chance Rain Showers,58,36,20
-99,100,2024-10-26T17:00:00,"05 PM, Sat Oct 26",57,25,42.0,57,12,NW,rain_showers,Chance Rain Showers,57,29,18
-100,101,2024-10-26T18:00:00,"06 PM, Sat Oct 26",54,25,41.0,61,9,NW,rain_showers,Chance Rain Showers,54,26,17
-101,102,2024-10-26T19:00:00,"07 PM, Sat Oct 26",51,25,41.0,68,8,NW,rain_showers,Chance Rain Showers,51,23,15
-102,103,2024-10-26T20:00:00,"08 PM, Sat Oct 26",48,20,40.0,74,6,NW,rain_showers,Slight Chance Rain Showers,45,20,14
-103,104,2024-10-26T21:00:00,"09 PM, Sat Oct 26",46,20,39.0,76,6,NW,rain_showers,Slight Chance Rain Showers,43,23,13
-104,105,2024-10-26T22:00:00,"10 PM, Sat Oct 26",45,20,38.0,76,6,NW,rain_showers,Slight Chance Rain Showers,42,25,12
-105,106,2024-10-26T23:00:00,"11 PM, Sat Oct 26",44,20,37.0,76,6,NW,rain_showers,Slight Chance Rain Showers,41,28,12
-106,107,2024-10-27T00:00:00,"12 AM, Sun Oct 27",43,20,37.0,79,6,NW,rain_showers,Slight Chance Rain Showers,39,31,10
-107,108,2024-10-27T01:00:00,"01 AM, Sun Oct 27",43,20,36.0,76,5,NW,rain_showers,Slight Chance Rain Showers,40,33,10
-108,109,2024-10-27T02:00:00,"02 AM, Sun Oct 27",42,15,36.0,79,5,NW,rain_showers,Slight Chance Rain Showers,39,36,10
-109,110,2024-10-27T03:00:00,"03 AM, Sun Oct 27",41,15,35.0,79,5,NW,rain_showers,Slight Chance Rain Showers,38,33,12
-110,111,2024-10-27T04:00:00,"04 AM, Sun Oct 27",39,15,34.0,82,6,NW,rain_showers,Slight Chance Rain Showers,35,29,12
-111,112,2024-10-27T05:00:00,"05 AM, Sun Oct 27",38,15,33.0,82,6,NW,rain_showers,Slight Chance Rain Showers,34,26,13
-112,113,2024-10-27T06:00:00,"06 AM, Sun Oct 27",37,15,33.0,85,6,NW,rain_showers,Slight Chance Rain Showers,32,26,13
-113,114,2024-10-27T07:00:00,"07 AM, Sun Oct 27",36,15,33.0,89,6,NW,rain_showers,Slight Chance Rain Showers,31,27,13
-114,115,2024-10-27T08:00:00,"08 AM, Sun Oct 27",37,9,33.0,85,6,NW,sct,Mostly Sunny,32,27,13
-115,116,2024-10-27T09:00:00,"09 AM, Sun Oct 27",40,9,34.0,79,7,NW,few,Sunny,35,25,14
-116,117,2024-10-27T10:00:00,"10 AM, Sun Oct 27",44,9,35.0,70,9,NW,few,Sunny,39,24,16
-117,118,2024-10-27T11:00:00,"11 AM, Sun Oct 27",47,9,36.0,65,10,NW,few,Sunny,42,22,17
-118,119,2024-10-27T12:00:00,"12 PM, Sun Oct 27",49,9,36.0,61,12,NW,few,Sunny,44,22,18
-119,120,2024-10-27T13:00:00,"01 PM, Sun Oct 27",49,9,35.0,58,12,NW,few,Sunny,44,23,18
-120,121,2024-10-27T14:00:00,"02 PM, Sun Oct 27",50,5,34.0,54,12,NW,few,Sunny,46,23,18
-121,122,2024-10-27T15:00:00,"03 PM, Sun Oct 27",51,5,34.0,52,10,NW,few,Sunny,51,20,18
-122,123,2024-10-27T16:00:00,"04 PM, Sun Oct 27",52,5,33.0,48,9,NW,few,Sunny,52,17,17
-123,124,2024-10-27T17:00:00,"05 PM, Sun Oct 27",52,5,33.0,48,8,NW,few,Sunny,52,14,15
-124,125,2024-10-27T18:00:00,"06 PM, Sun Oct 27",50,5,33.0,52,7,NW,few,Mostly Clear,47,15,13
-125,126,2024-10-27T19:00:00,"07 PM, Sun Oct 27",46,5,32.0,58,5,N,few,Mostly Clear,44,15,9
-126,127,2024-10-27T20:00:00,"08 PM, Sun Oct 27",43,4,32.0,65,3,N,few,Mostly Clear,41,16,7
-127,128,2024-10-27T21:00:00,"09 PM, Sun Oct 27",40,4,32.0,73,2,NW,few,Mostly Clear,40,18,6
-128,129,2024-10-27T22:00:00,"10 PM, Sun Oct 27",38,4,31.0,76,2,W,few,Mostly Clear,38,19,5
-129,130,2024-10-27T23:00:00,"11 PM, Sun Oct 27",37,4,31.0,79,2,SW,few,Mostly Clear,37,21,5
-130,131,2024-10-28T00:00:00,"12 AM, Mon Oct 28",36,4,31.0,82,2,SW,few,Mostly Clear,36,22,5
-131,132,2024-10-28T01:00:00,"01 AM, Mon Oct 28",36,4,30.0,79,2,S,few,Mostly Clear,36,22,5
-132,133,2024-10-28T02:00:00,"02 AM, Mon Oct 28",36,4,30.0,79,2,S,few,Mostly Clear,36,23,5
-133,134,2024-10-28T03:00:00,"03 AM, Mon Oct 28",35,4,30.0,82,2,S,few,Mostly Clear,35,20,6
-134,135,2024-10-28T04:00:00,"04 AM, Mon Oct 28",34,4,30.0,85,3,S,few,Mostly Clear,31,18,6
-135,136,2024-10-28T05:00:00,"05 AM, Mon Oct 28",33,4,30.0,89,3,S,few,Mostly Clear,30,15,7
-136,137,2024-10-28T06:00:00,"06 AM, Mon Oct 28",32,4,30.0,92,5,S,few,Sunny,27,16,8
-137,138,2024-10-28T07:00:00,"07 AM, Mon Oct 28",30,4,30.0,100,5,SE,few,Sunny,25,16,8
-138,139,2024-10-28T08:00:00,"08 AM, Mon Oct 28",32,1,30.0,92,6,SE,few,Sunny,26,17,9
-139,140,2024-10-28T09:00:00,"09 AM, Mon Oct 28",36,1,31.0,82,7,S,few,Sunny,30,18,12
-140,141,2024-10-28T10:00:00,"10 AM, Mon Oct 28",42,1,33.0,70,7,S,few,Sunny,38,20,13
-141,142,2024-10-28T11:00:00,"11 AM, Mon Oct 28",48,1,35.0,60,8,S,few,Sunny,44,21,15
-142,143,2024-10-28T12:00:00,"12 PM, Mon Oct 28",51,1,36.0,56,9,S,few,Sunny,51,23,16
-143,144,2024-10-28T13:00:00,"01 PM, Mon Oct 28",54,1,37.0,52,9,S,few,Sunny,54,25,16
-144,145,2024-10-28T14:00:00,"02 PM, Mon Oct 28",55,3,37.0,51,10,S,sct,Mostly Sunny,55,27,17
-145,146,2024-10-28T15:00:00,"03 PM, Mon Oct 28",56,3,37.0,49,10,S,few,Sunny,56,25,18
-146,147,2024-10-28T16:00:00,"04 PM, Mon Oct 28",57,3,37.0,47,10,S,few,Sunny,57,24,20
-147,148,2024-10-28T17:00:00,"05 PM, Mon Oct 28",56,3,37.0,49,10,S,few,Sunny,56,22,20
-148,149,2024-10-28T18:00:00,"06 PM, Mon Oct 28",54,3,37.0,52,10,S,few,Mostly Clear,54,22,20
-149,150,2024-10-28T19:00:00,"07 PM, Mon Oct 28",51,3,36.0,56,9,S,few,Mostly Clear,51,22,18
-150,151,2024-10-28T20:00:00,"08 PM, Mon Oct 28",48,9,36.0,63,9,S,few,Mostly Clear,44,22,18
-151,152,2024-10-28T21:00:00,"09 PM, Mon Oct 28",46,9,36.0,68,9,S,few,Mostly Clear,41,25,18
-152,153,2024-10-28T22:00:00,"10 PM, Mon Oct 28",45,9,35.0,68,8,S,sct,Partly Cloudy,41,27,17
-153,154,2024-10-28T23:00:00,"11 PM, Mon Oct 28",44,9,35.0,70,8,S,sct,Partly Cloudy,39,30,17
-154,155,2024-10-29T00:00:00,"12 AM, Tue Oct 29",43,9,35.0,73,8,S,sct,Partly Cloudy,38,30,17
-155,156,2024-10-29T01:00:00,"01 AM, Tue Oct 29",43,9,35.0,73,7,S,sct,Partly Cloudy,39,29,16
+0,1,2024-10-22T16:00:00,"04 PM, Tue Oct 22",82,1,55.0,40,6,S,skc,Sunny,80,2,10
+1,2,2024-10-22T17:00:00,"05 PM, Tue Oct 22",80,1,56.0,44,6,S,skc,Sunny,80,0,10
+2,3,2024-10-22T18:00:00,"06 PM, Tue Oct 22",77,1,55.0,47,6,S,skc,Clear,77,1,10
+3,4,2024-10-22T19:00:00,"07 PM, Tue Oct 22",73,1,53.0,49,6,S,skc,Clear,73,0,10
+4,5,2024-10-22T20:00:00,"08 PM, Tue Oct 22",69,0,50.0,51,6,S,skc,Clear,69,0,10
+5,6,2024-10-22T21:00:00,"09 PM, Tue Oct 22",67,0,50.0,54,6,S,skc,Clear,67,0,10
+6,7,2024-10-22T22:00:00,"10 PM, Tue Oct 22",65,0,49.0,56,6,S,skc,Clear,65,0,12
+7,8,2024-10-22T23:00:00,"11 PM, Tue Oct 22",63,0,49.0,60,7,S,skc,Clear,63,0,12
+8,9,2024-10-23T00:00:00,"12 AM, Wed Oct 23",62,0,49.0,62,7,S,skc,Clear,62,2,12
+9,10,2024-10-23T01:00:00,"01 AM, Wed Oct 23",60,0,49.0,67,7,S,skc,Clear,60,4,13
+10,11,2024-10-23T02:00:00,"02 AM, Wed Oct 23",60,0,49.0,67,8,S,skc,Clear,60,5,13
+11,12,2024-10-23T03:00:00,"03 AM, Wed Oct 23",59,0,48.0,67,8,S,skc,Clear,59,5,13
+12,13,2024-10-23T04:00:00,"04 AM, Wed Oct 23",57,0,47.0,69,8,S,skc,Clear,57,5,14
+13,14,2024-10-23T05:00:00,"05 AM, Wed Oct 23",56,0,46.0,69,9,S,skc,Clear,56,5,14
+14,15,2024-10-23T06:00:00,"06 AM, Wed Oct 23",56,0,45.0,66,9,S,skc,Sunny,56,4,13
+15,16,2024-10-23T07:00:00,"07 AM, Wed Oct 23",55,0,44.0,66,8,S,skc,Sunny,55,2,13
+16,17,2024-10-23T08:00:00,"08 AM, Wed Oct 23",55,0,43.0,64,9,S,skc,Sunny,55,0,13
+17,18,2024-10-23T09:00:00,"09 AM, Wed Oct 23",59,0,45.0,60,10,S,skc,Sunny,59,2,15
+18,19,2024-10-23T10:00:00,"10 AM, Wed Oct 23",63,0,47.0,56,12,S,skc,Sunny,63,4,18
+19,20,2024-10-23T11:00:00,"11 AM, Wed Oct 23",67,0,46.0,47,12,S,few,Sunny,67,6,22
+20,21,2024-10-23T12:00:00,"12 PM, Wed Oct 23",71,2,46.0,41,13,S,few,Sunny,71,13,24
+21,22,2024-10-23T13:00:00,"01 PM, Wed Oct 23",74,5,47.0,38,13,S,few,Sunny,74,21,24
+22,23,2024-10-23T14:00:00,"02 PM, Wed Oct 23",76,8,47.0,36,13,S,sct,Mostly Sunny,76,29,24
+23,24,2024-10-23T15:00:00,"03 PM, Wed Oct 23",77,8,48.0,36,12,S,sct,Mostly Sunny,77,34,22
+24,25,2024-10-23T16:00:00,"04 PM, Wed Oct 23",77,9,48.0,36,12,SW,sct,Mostly Sunny,77,40,18
+25,26,2024-10-23T17:00:00,"05 PM, Wed Oct 23",76,13,49.0,39,10,SW,sct,Mostly Sunny,76,46,15
+26,27,2024-10-23T18:00:00,"06 PM, Wed Oct 23",71,28,49.0,46,9,SW,rain_showers,Chance Rain Showers,71,57,14
+27,28,2024-10-23T19:00:00,"07 PM, Wed Oct 23",65,44,49.0,56,9,W,rain_showers,Chance Rain Showers,65,68,14
+28,29,2024-10-23T20:00:00,"08 PM, Wed Oct 23",61,53,49.0,65,8,W,rain_showers,Chance Rain Showers,61,79,15
+29,30,2024-10-23T21:00:00,"09 PM, Wed Oct 23",58,47,50.0,75,8,W,rain_showers,Chance Rain Showers,58,76,16
+30,31,2024-10-23T22:00:00,"10 PM, Wed Oct 23",56,35,52.0,86,9,W,rain_showers,Chance Rain Showers,56,74,18
+31,32,2024-10-23T23:00:00,"11 PM, Wed Oct 23",53,23,52.0,96,9,NW,rain_showers,Slight Chance Rain Showers,53,71,20
+32,33,2024-10-24T00:00:00,"12 AM, Thu Oct 24",52,19,50.0,93,10,NW,rain_showers,Slight Chance Rain Showers,52,70,20
+33,34,2024-10-24T01:00:00,"01 AM, Thu Oct 24",50,17,48.0,93,10,NW,rain_showers,Slight Chance Rain Showers,46,69,20
+34,35,2024-10-24T02:00:00,"02 AM, Thu Oct 24",49,18,46.0,89,10,NW,rain_showers,Slight Chance Rain Showers,45,68,20
+35,36,2024-10-24T03:00:00,"03 AM, Thu Oct 24",47,19,45.0,93,10,NW,rain_showers,Slight Chance Rain Showers,42,70,20
+36,37,2024-10-24T04:00:00,"04 AM, Thu Oct 24",46,21,43.0,89,10,NW,rain_showers,Slight Chance Rain Showers,41,71,20
+37,38,2024-10-24T05:00:00,"05 AM, Thu Oct 24",45,21,42.0,89,12,NW,rain_showers,Slight Chance Rain Showers,39,73,20
+38,39,2024-10-24T06:00:00,"06 AM, Thu Oct 24",44,16,41.0,89,12,NW,rain_showers,Slight Chance Rain Showers,38,69,20
+39,40,2024-10-24T07:00:00,"07 AM, Thu Oct 24",43,8,41.0,93,10,NW,bkn,Partly Sunny,37,66,21
+40,41,2024-10-24T08:00:00,"08 AM, Thu Oct 24",43,10,40.0,89,10,NW,bkn,Partly Sunny,37,62,18
+41,42,2024-10-24T09:00:00,"09 AM, Thu Oct 24",46,10,41.0,83,10,NW,bkn,Partly Sunny,41,59,18
+42,43,2024-10-24T10:00:00,"10 AM, Thu Oct 24",49,10,42.0,77,12,NW,bkn,Partly Sunny,44,57,20
+43,44,2024-10-24T11:00:00,"11 AM, Thu Oct 24",50,10,43.0,77,12,NW,bkn,Partly Sunny,46,55,20
+44,45,2024-10-24T12:00:00,"12 PM, Thu Oct 24",52,10,42.0,69,12,NW,bkn,Partly Sunny,52,51,20
+45,46,2024-10-24T13:00:00,"01 PM, Thu Oct 24",53,10,42.0,66,12,NW,sct,Mostly Sunny,53,47,18
+46,47,2024-10-24T14:00:00,"02 PM, Thu Oct 24",54,0,41.0,61,12,NW,sct,Mostly Sunny,54,44,18
+47,48,2024-10-24T15:00:00,"03 PM, Thu Oct 24",55,0,40.0,57,12,NW,sct,Mostly Sunny,55,38,18
+48,49,2024-10-24T16:00:00,"04 PM, Thu Oct 24",54,0,40.0,59,10,NW,sct,Mostly Sunny,54,31,17
+49,50,2024-10-24T17:00:00,"05 PM, Thu Oct 24",53,0,39.0,59,10,NW,few,Sunny,53,25,17
+50,51,2024-10-24T18:00:00,"06 PM, Thu Oct 24",51,0,38.0,61,8,NW,few,Mostly Clear,51,22,15
+51,52,2024-10-24T19:00:00,"07 PM, Thu Oct 24",48,0,37.0,65,7,N,few,Mostly Clear,45,18,12
+52,53,2024-10-24T20:00:00,"08 PM, Thu Oct 24",45,0,36.0,70,5,N,few,Mostly Clear,43,15,9
+53,54,2024-10-24T21:00:00,"09 PM, Thu Oct 24",44,0,36.0,73,3,N,few,Mostly Clear,42,13,7
+54,55,2024-10-24T22:00:00,"10 PM, Thu Oct 24",42,0,36.0,79,3,NW,few,Mostly Clear,40,10,6
+55,56,2024-10-24T23:00:00,"11 PM, Thu Oct 24",41,0,36.0,82,2,NW,few,Mostly Clear,41,8,3
+56,57,2024-10-25T00:00:00,"12 AM, Fri Oct 25",40,0,36.0,85,2,NW,few,Mostly Clear,40,8,3
+57,58,2024-10-25T01:00:00,"01 AM, Fri Oct 25",40,0,35.0,82,1,NW,few,Mostly Clear,40,8,2
+58,59,2024-10-25T02:00:00,"02 AM, Fri Oct 25",39,0,35.0,85,1,W,few,Mostly Clear,39,9,2
+59,60,2024-10-25T03:00:00,"03 AM, Fri Oct 25",38,0,35.0,89,1,W,few,Mostly Clear,38,10,2
+60,61,2024-10-25T04:00:00,"04 AM, Fri Oct 25",38,0,34.0,85,1,SW,few,Mostly Clear,38,10,2
+61,62,2024-10-25T05:00:00,"05 AM, Fri Oct 25",36,0,34.0,92,1,SW,few,Mostly Clear,36,10,2
+62,63,2024-10-25T06:00:00,"06 AM, Fri Oct 25",36,0,34.0,92,1,SW,few,Sunny,36,13,3
+63,64,2024-10-25T07:00:00,"07 AM, Fri Oct 25",36,0,35.0,96,2,S,few,Sunny,36,16,3
+64,65,2024-10-25T08:00:00,"08 AM, Fri Oct 25",35,0,35.0,100,2,S,few,Sunny,35,19,5
+65,66,2024-10-25T09:00:00,"09 AM, Fri Oct 25",40,0,37.0,89,2,S,few,Sunny,40,22,6
+66,67,2024-10-25T10:00:00,"10 AM, Fri Oct 25",46,0,38.0,73,3,S,few,Sunny,45,24,7
+67,68,2024-10-25T11:00:00,"11 AM, Fri Oct 25",51,0,40.0,66,3,S,sct,Mostly Sunny,51,27,8
+68,69,2024-10-25T12:00:00,"12 PM, Fri Oct 25",54,0,40.0,59,5,S,sct,Mostly Sunny,54,34,9
+69,70,2024-10-25T13:00:00,"01 PM, Fri Oct 25",56,0,40.0,55,5,S,sct,Mostly Sunny,56,40,10
+70,71,2024-10-25T14:00:00,"02 PM, Fri Oct 25",59,6,40.0,49,6,S,sct,Mostly Sunny,59,46,12
+71,72,2024-10-25T15:00:00,"03 PM, Fri Oct 25",59,6,40.0,49,6,S,bkn,Partly Sunny,59,53,12
+72,73,2024-10-25T16:00:00,"04 PM, Fri Oct 25",59,6,41.0,51,6,S,bkn,Partly Sunny,59,59,10
+73,74,2024-10-25T17:00:00,"05 PM, Fri Oct 25",60,6,41.0,49,6,S,bkn,Partly Sunny,60,65,10
+74,75,2024-10-25T18:00:00,"06 PM, Fri Oct 25",58,6,41.0,53,5,S,bkn,Mostly Cloudy,58,71,9
+75,76,2024-10-25T19:00:00,"07 PM, Fri Oct 25",56,6,41.0,57,5,S,bkn,Mostly Cloudy,56,77,8
+76,77,2024-10-25T20:00:00,"08 PM, Fri Oct 25",54,42,41.0,61,3,S,rain_showers,Chance Rain Showers,54,83,7
+77,78,2024-10-25T21:00:00,"09 PM, Fri Oct 25",51,42,42.0,71,3,S,rain_showers,Chance Rain Showers,51,83,7
+78,79,2024-10-25T22:00:00,"10 PM, Fri Oct 25",51,42,42.0,71,3,S,rain_showers,Chance Rain Showers,51,83,6
+79,80,2024-10-25T23:00:00,"11 PM, Fri Oct 25",50,42,43.0,77,3,S,rain_showers,Chance Rain Showers,49,83,6
+80,81,2024-10-26T00:00:00,"12 AM, Sat Oct 26",50,42,43.0,77,3,S,rain_showers,Chance Rain Showers,49,82,6
+81,82,2024-10-26T01:00:00,"01 AM, Sat Oct 26",50,42,44.0,80,3,SW,rain_showers,Chance Rain Showers,49,80,7
+82,83,2024-10-26T02:00:00,"02 AM, Sat Oct 26",50,43,44.0,80,3,SW,rain_showers,Chance Rain Showers,49,79,7
+83,84,2024-10-26T03:00:00,"03 AM, Sat Oct 26",50,43,44.0,80,3,SW,rain_showers,Chance Rain Showers,49,78,8
+84,85,2024-10-26T04:00:00,"04 AM, Sat Oct 26",48,43,44.0,86,5,W,rain_showers,Chance Rain Showers,46,77,8
+85,86,2024-10-26T05:00:00,"05 AM, Sat Oct 26",48,43,44.0,86,5,W,rain_showers,Chance Rain Showers,46,76,9
+86,87,2024-10-26T06:00:00,"06 AM, Sat Oct 26",47,43,44.0,89,5,W,rain_showers,Chance Rain Showers,45,75,10
+87,88,2024-10-26T07:00:00,"07 AM, Sat Oct 26",45,43,45.0,100,6,W,rain_showers,Chance Rain Showers,42,75,10
+88,89,2024-10-26T08:00:00,"08 AM, Sat Oct 26",46,39,45.0,96,6,W,rain_showers,Chance Rain Showers,43,70,12
+89,90,2024-10-26T09:00:00,"09 AM, Sat Oct 26",48,39,46.0,93,7,W,rain_showers,Chance Rain Showers,45,69,14
+90,91,2024-10-26T10:00:00,"10 AM, Sat Oct 26",52,39,47.0,83,9,NW,rain_showers,Chance Rain Showers,52,69,16
+91,92,2024-10-26T11:00:00,"11 AM, Sat Oct 26",55,39,48.0,77,10,NW,rain_showers,Chance Rain Showers,55,69,18
+92,93,2024-10-26T12:00:00,"12 PM, Sat Oct 26",56,39,47.0,72,12,NW,rain_showers,Chance Rain Showers,56,69,20
+93,94,2024-10-26T13:00:00,"01 PM, Sat Oct 26",57,39,45.0,64,12,NW,rain_showers,Chance Rain Showers,57,69,20
+94,95,2024-10-26T14:00:00,"02 PM, Sat Oct 26",58,39,44.0,59,13,NW,rain_showers,Chance Rain Showers,58,68,21
+95,96,2024-10-26T15:00:00,"03 PM, Sat Oct 26",57,39,43.0,59,13,NW,rain_showers,Chance Rain Showers,57,68,21
+96,97,2024-10-26T16:00:00,"04 PM, Sat Oct 26",56,39,42.0,59,13,NW,rain_showers,Chance Rain Showers,56,68,21
+97,98,2024-10-26T17:00:00,"05 PM, Sat Oct 26",56,39,41.0,57,13,NW,rain_showers,Chance Rain Showers,56,68,21
+98,99,2024-10-26T18:00:00,"06 PM, Sat Oct 26",53,39,40.0,61,10,NW,rain_showers,Chance Rain Showers,53,68,20
+99,100,2024-10-26T19:00:00,"07 PM, Sat Oct 26",50,39,39.0,66,9,NW,rain_showers,Chance Rain Showers,46,68,17
+100,101,2024-10-26T20:00:00,"08 PM, Sat Oct 26",48,25,38.0,68,7,NW,rain_showers,Chance Rain Showers,45,65,16
+101,102,2024-10-26T21:00:00,"09 PM, Sat Oct 26",47,25,37.0,68,7,NW,rain_showers,Chance Rain Showers,44,65,15
+102,103,2024-10-26T22:00:00,"10 PM, Sat Oct 26",45,25,37.0,73,6,NW,rain_showers,Chance Rain Showers,42,65,14
+103,104,2024-10-26T23:00:00,"11 PM, Sat Oct 26",44,25,36.0,73,6,NW,rain_showers,Chance Rain Showers,41,65,13
+104,105,2024-10-27T00:00:00,"12 AM, Sun Oct 27",43,25,35.0,73,6,NW,rain_showers,Chance Rain Showers,39,65,12
+105,106,2024-10-27T01:00:00,"01 AM, Sun Oct 27",42,25,35.0,76,6,NW,rain_showers,Chance Rain Showers,38,65,12
+106,107,2024-10-27T02:00:00,"02 AM, Sun Oct 27",41,17,34.0,76,6,NW,rain_showers,Slight Chance Rain Showers,37,56,10
+107,108,2024-10-27T03:00:00,"03 AM, Sun Oct 27",40,17,34.0,79,6,NW,rain_showers,Slight Chance Rain Showers,36,56,10
+108,109,2024-10-27T04:00:00,"04 AM, Sun Oct 27",39,17,33.0,79,6,NW,rain_showers,Slight Chance Rain Showers,35,56,12
+109,110,2024-10-27T05:00:00,"05 AM, Sun Oct 27",37,17,33.0,85,6,NW,rain_showers,Slight Chance Rain Showers,32,56,12
+110,111,2024-10-27T06:00:00,"06 AM, Sun Oct 27",37,17,33.0,85,6,NW,rain_showers,Slight Chance Rain Showers,32,56,12
+111,112,2024-10-27T07:00:00,"07 AM, Sun Oct 27",37,17,33.0,85,6,NW,rain_showers,Slight Chance Rain Showers,32,56,12
+112,113,2024-10-27T08:00:00,"08 AM, Sun Oct 27",36,9,33.0,89,6,NW,few,Sunny,31,22,12
+113,114,2024-10-27T09:00:00,"09 AM, Sun Oct 27",39,9,34.0,82,7,NW,few,Sunny,34,21,13
+114,115,2024-10-27T10:00:00,"10 AM, Sun Oct 27",44,9,35.0,70,9,NW,few,Sunny,39,21,15
+115,116,2024-10-27T11:00:00,"11 AM, Sun Oct 27",47,9,36.0,65,10,NW,few,Sunny,42,20,16
+116,117,2024-10-27T12:00:00,"12 PM, Sun Oct 27",49,9,35.0,58,10,NW,few,Sunny,45,21,17
+117,118,2024-10-27T13:00:00,"01 PM, Sun Oct 27",50,9,34.0,54,12,NW,few,Sunny,46,21,17
+118,119,2024-10-27T14:00:00,"02 PM, Sun Oct 27",51,8,33.0,50,12,NW,few,Sunny,51,22,18
+119,120,2024-10-27T15:00:00,"03 PM, Sun Oct 27",52,8,33.0,48,10,NW,few,Sunny,52,19,17
+120,121,2024-10-27T16:00:00,"04 PM, Sun Oct 27",51,8,33.0,50,9,NW,few,Sunny,51,17,16
+121,122,2024-10-27T17:00:00,"05 PM, Sun Oct 27",50,8,33.0,52,8,NW,few,Sunny,47,14,15
+122,123,2024-10-27T18:00:00,"06 PM, Sun Oct 27",48,8,33.0,56,6,NW,few,Mostly Clear,45,15,13
+123,124,2024-10-27T19:00:00,"07 PM, Sun Oct 27",43,8,33.0,67,5,NW,few,Mostly Clear,40,15,9
+124,125,2024-10-27T20:00:00,"08 PM, Sun Oct 27",40,2,33.0,76,2,N,few,Mostly Clear,40,16,7
+125,126,2024-10-27T21:00:00,"09 PM, Sun Oct 27",39,2,32.0,76,2,NW,few,Mostly Clear,39,14,6
+126,127,2024-10-27T22:00:00,"10 PM, Sun Oct 27",38,2,32.0,79,2,SW,few,Mostly Clear,38,11,6
+127,128,2024-10-27T23:00:00,"11 PM, Sun Oct 27",37,2,31.0,79,2,S,few,Mostly Clear,37,9,5
+128,129,2024-10-28T00:00:00,"12 AM, Mon Oct 28",37,2,31.0,79,2,S,few,Mostly Clear,37,10,5
+129,130,2024-10-28T01:00:00,"01 AM, Mon Oct 28",36,2,30.0,79,2,S,few,Mostly Clear,36,10,5
+130,131,2024-10-28T02:00:00,"02 AM, Mon Oct 28",36,1,30.0,79,2,S,few,Mostly Clear,36,11,5
+131,132,2024-10-28T03:00:00,"03 AM, Mon Oct 28",35,1,30.0,82,2,S,few,Mostly Clear,35,10,6
+132,133,2024-10-28T04:00:00,"04 AM, Mon Oct 28",35,1,29.0,78,3,S,few,Mostly Clear,32,10,6
+133,134,2024-10-28T05:00:00,"05 AM, Mon Oct 28",34,1,29.0,82,3,S,few,Mostly Clear,31,9,7
+134,135,2024-10-28T06:00:00,"06 AM, Mon Oct 28",34,1,29.0,82,3,S,few,Sunny,31,9,7
+135,136,2024-10-28T07:00:00,"07 AM, Mon Oct 28",34,1,29.0,82,5,S,few,Sunny,30,10,8
+136,137,2024-10-28T08:00:00,"08 AM, Mon Oct 28",33,2,29.0,85,5,S,few,Sunny,29,10,8
+137,138,2024-10-28T09:00:00,"09 AM, Mon Oct 28",37,2,31.0,79,6,S,few,Sunny,32,11,10
+138,139,2024-10-28T10:00:00,"10 AM, Mon Oct 28",43,2,33.0,67,7,S,few,Sunny,39,13,13
+139,140,2024-10-28T11:00:00,"11 AM, Mon Oct 28",48,2,35.0,60,8,S,few,Sunny,44,14,15
+140,141,2024-10-28T12:00:00,"12 PM, Mon Oct 28",52,2,35.0,52,9,S,few,Sunny,52,14,16
+141,142,2024-10-28T13:00:00,"01 PM, Mon Oct 28",54,2,36.0,50,9,S,few,Sunny,54,15,16
+142,143,2024-10-28T14:00:00,"02 PM, Mon Oct 28",56,2,36.0,47,10,S,few,Sunny,56,15,17
+143,144,2024-10-28T15:00:00,"03 PM, Mon Oct 28",57,2,36.0,45,10,S,few,Sunny,57,14,17
+144,145,2024-10-28T16:00:00,"04 PM, Mon Oct 28",56,2,37.0,49,12,S,few,Sunny,56,13,18
+145,146,2024-10-28T17:00:00,"05 PM, Mon Oct 28",56,2,37.0,49,12,S,few,Sunny,56,12,18
+146,147,2024-10-28T18:00:00,"06 PM, Mon Oct 28",53,2,36.0,52,10,S,few,Mostly Clear,53,16,18
+147,148,2024-10-28T19:00:00,"07 PM, Mon Oct 28",50,2,36.0,58,10,S,few,Mostly Clear,46,20,20
+148,149,2024-10-28T20:00:00,"08 PM, Mon Oct 28",47,9,35.0,63,9,S,few,Mostly Clear,43,23,20
+149,150,2024-10-28T21:00:00,"09 PM, Mon Oct 28",46,9,35.0,65,9,S,few,Mostly Clear,41,24,20
+150,151,2024-10-28T22:00:00,"10 PM, Mon Oct 28",46,9,34.0,63,9,S,few,Mostly Clear,41,24,18
+151,152,2024-10-28T23:00:00,"11 PM, Mon Oct 28",45,9,34.0,65,9,S,few,Mostly Clear,40,24,18
+152,153,2024-10-29T00:00:00,"12 AM, Tue Oct 29",45,9,34.0,65,9,S,sct,Partly Cloudy,40,26,17
+153,154,2024-10-29T01:00:00,"01 AM, Tue Oct 29",44,9,34.0,68,8,S,sct,Partly Cloudy,39,28,17
+154,155,2024-10-29T02:00:00,"02 AM, Tue Oct 29",44,13,34.0,68,8,S,sct,Partly Cloudy,39,30,16
+155,156,2024-10-29T03:00:00,"03 AM, Tue Oct 29",43,13,35.0,73,9,S,sct,Partly Cloudy,38,32,17
