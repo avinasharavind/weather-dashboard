@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-22T00:00:03+00:00",
-        "updateTime": "2024-10-21T22:55:48+00:00",
-        "validTimes": "2024-10-21T16:00:00+00:00/P8D",
+        "generatedAt": "2024-10-22T02:00:03+00:00",
+        "updateTime": "2024-10-22T01:35:45+00:00",
+        "validTimes": "2024-10-21T19:00:00+00:00/P7DT21H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-21T20:00:00-04:00",
+                "startTime": "2024-10-21T22:00:00-04:00",
                 "endTime": "2024-10-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -63,9 +63,9 @@
                 },
                 "windSpeed": "2 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 50. Southeast wind around 2 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 50. Southeast wind around 2 mph."
             },
             {
                 "number": 2,
