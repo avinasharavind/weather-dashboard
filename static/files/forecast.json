@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-24T00:00:04+00:00",
-        "updateTime": "2024-10-23T23:13:48+00:00",
-        "validTimes": "2024-10-23T17:00:00+00:00/P7DT23H",
+        "generatedAt": "2024-10-24T02:00:03+00:00",
+        "updateTime": "2024-10-24T01:32:56+00:00",
+        "validTimes": "2024-10-23T19:00:00+00:00/P7DT21H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-23T20:00:00-04:00",
+                "startTime": "2024-10-23T22:00:00-04:00",
                 "endTime": "2024-10-24T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -59,13 +59,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 40
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers,30?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 44. Northwest wind 5 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 44. Northwest wind 6 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
