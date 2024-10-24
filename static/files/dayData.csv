@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-10-23T22:00:00,False,44,40.0,6 to 9 mph,NW,rain_showers,"A chance of rain showers. Mostly cloudy, with a low around 44. Northwest wind 6 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+0,Overnight,2024-10-24T00:00:00,False,44,30.0,9 mph,NW,rain_showers,"A slight chance of rain showers. Mostly cloudy, with a low around 44. Northwest wind around 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
 1,Thursday,2024-10-24T06:00:00,True,55,20.0,12 mph,NW,bkn,"A slight chance of rain showers before 10am. Partly sunny, with a high near 55. Northwest wind around 12 mph. Chance of precipitation is 20%."
 2,Thursday Night,2024-10-24T18:00:00,False,34,,1 to 9 mph,NW,few,"Mostly clear, with a low around 34. Northwest wind 1 to 9 mph."
 3,Friday,2024-10-25T06:00:00,True,62,,1 to 5 mph,S,sct,"Mostly sunny, with a high near 62. South wind 1 to 5 mph."
