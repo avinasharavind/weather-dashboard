@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-10-24T23:00:00,False,33,,2 mph,S,fog,"Patchy fog after 5am. Clear, with a low around 33. South wind around 2 mph."
+0,Overnight,2024-10-25T00:00:00,False,33,,2 mph,S,fog,"Patchy fog after 5am. Clear, with a low around 33. South wind around 2 mph."
 1,Friday,2024-10-25T06:00:00,True,61,,1 to 5 mph,S,few,"Patchy fog before 8am. Sunny, with a high near 61. South wind 1 to 5 mph."
 2,Friday Night,2024-10-25T18:00:00,False,46,40.0,2 to 6 mph,SW,rain_showers,"A chance of rain showers after 8pm. Mostly cloudy, with a low around 46. Southwest wind 2 to 6 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
 3,Saturday,2024-10-26T06:00:00,True,57,30.0,7 to 15 mph,NW,rain_showers,"A chance of rain showers. Partly sunny, with a high near 57. Northwest wind 7 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
