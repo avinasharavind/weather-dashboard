@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-25T20:00:04+00:00",
-        "updateTime": "2024-10-25T19:03:26+00:00",
-        "validTimes": "2024-10-25T13:00:00+00:00/P8D",
+        "generatedAt": "2024-10-25T21:00:05+00:00",
+        "updateTime": "2024-10-25T20:54:43+00:00",
+        "validTimes": "2024-10-25T14:00:00+00:00/P7DT23H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-25T16:00:00-04:00",
+                "startTime": "2024-10-25T17:00:00-04:00",
                 "endTime": "2024-10-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 62. South wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a high near 62. South wind around 2 mph."
             },
             {
                 "number": 2,
