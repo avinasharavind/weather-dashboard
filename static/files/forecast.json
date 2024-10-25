@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-25T00:00:03+00:00",
-        "updateTime": "2024-10-24T22:12:36+00:00",
-        "validTimes": "2024-10-24T16:00:00+00:00/P8D",
+        "generatedAt": "2024-10-25T03:00:03+00:00",
+        "updateTime": "2024-10-25T02:34:14+00:00",
+        "validTimes": "2024-10-24T20:00:00+00:00/P7DT20H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-24T20:00:00-04:00",
+                "startTime": "2024-10-24T23:00:00-04:00",
                 "endTime": "2024-10-25T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "1 to 5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 33. North wind 1 to 5 mph."
+                "windSpeed": "2 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/skc/fog?size=medium",
+                "shortForecast": "Clear then Patchy Fog",
+                "detailedForecast": "Patchy fog after 5am. Clear, with a low around 33. South wind around 2 mph."
             },
             {
                 "number": 2,
@@ -84,7 +84,7 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
                 "shortForecast": "Patchy Fog then Sunny",
-                "detailedForecast": "Patchy fog between 7am and 8am. Sunny, with a high near 61. South wind 1 to 5 mph."
+                "detailedForecast": "Patchy fog before 8am. Sunny, with a high near 61. South wind 1 to 5 mph."
             },
             {
                 "number": 3,
@@ -122,7 +122,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly sunny, with a high near 57. Northwest wind 7 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 57. Northwest wind 7 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 5,
@@ -139,9 +139,9 @@
                 },
                 "windSpeed": "5 to 12 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/few?size=medium",
-                "shortForecast": "Chance Rain Showers then Mostly Clear",
-                "detailedForecast": "A chance of rain showers before 8pm. Mostly clear, with a low around 35. Northwest wind 5 to 12 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/sct?size=medium",
+                "shortForecast": "Chance Rain Showers then Partly Cloudy",
+                "detailedForecast": "A chance of rain showers before 8pm. Partly cloudy, with a low around 35. Northwest wind 5 to 12 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 6,
