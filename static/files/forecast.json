@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-28T22:00:03+00:00",
-        "updateTime": "2024-10-28T19:30:38+00:00",
-        "validTimes": "2024-10-28T13:00:00+00:00/P8DT3H",
+        "generatedAt": "2024-10-28T23:00:03+00:00",
+        "updateTime": "2024-10-28T22:36:14+00:00",
+        "validTimes": "2024-10-28T16:00:00+00:00/P8D",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-28T18:00:00-04:00",
+                "startTime": "2024-10-28T19:00:00-04:00",
                 "endTime": "2024-10-29T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -84,7 +84,7 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,40?size=medium",
                 "shortForecast": "Partly Sunny then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 2pm. Partly sunny, with a high near 62. Southeast wind 9 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers after 2pm. Partly sunny, with a high near 62. Southeast wind 9 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
@@ -97,13 +97,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "7 to 14 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-                "detailedForecast": "A slight chance of rain showers before 7pm. Partly cloudy, with a low around 51. South wind 7 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/sct?size=medium",
+                "shortForecast": "Chance Rain Showers then Partly Cloudy",
+                "detailedForecast": "A chance of rain showers before 7pm. Partly cloudy, with a low around 51. South wind 7 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
