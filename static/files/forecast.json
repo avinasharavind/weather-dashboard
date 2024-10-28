@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-28T19:00:04+00:00",
-        "updateTime": "2024-10-28T18:37:46+00:00",
-        "validTimes": "2024-10-28T12:00:00+00:00/P8DT4H",
+        "generatedAt": "2024-10-28T21:00:39+00:00",
+        "updateTime": "2024-10-28T19:30:38+00:00",
+        "validTimes": "2024-10-28T13:00:00+00:00/P8DT3H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-10-28T15:00:00-04:00",
+                "startTime": "2024-10-28T17:00:00-04:00",
                 "endTime": "2024-10-28T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 59,
