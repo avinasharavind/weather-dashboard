@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-10-31T23:00:04+00:00",
-        "updateTime": "2024-10-31T18:52:30+00:00",
-        "validTimes": "2024-10-31T12:00:00+00:00/P8DT1H",
+        "generatedAt": "2024-11-01T01:00:04+00:00",
+        "updateTime": "2024-10-31T23:17:37+00:00",
+        "validTimes": "2024-10-31T17:00:00+00:00/P7DT20H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-10-31T19:00:00-04:00",
+                "startTime": "2024-10-31T21:00:00-04:00",
                 "endTime": "2024-11-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -59,13 +59,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 50
                 },
-                "windSpeed": "7 to 10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely after 11pm. Mostly cloudy. Low around 56, with temperatures rising to around 64 overnight. South wind 7 to 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "1 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 11pm. Mostly cloudy. Low around 56, with temperatures rising to around 64 overnight. Southwest wind 1 to 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -80,11 +80,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "7 to 14 mph",
-                "windDirection": "W",
+                "windSpeed": "3 to 16 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/sct?size=medium",
                 "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
-                "detailedForecast": "A slight chance of rain showers before 7am. Mostly sunny. High near 64, with temperatures falling to around 55 in the afternoon. West wind 7 to 14 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain showers before 7am. Mostly sunny. High near 64, with temperatures falling to around 55 in the afternoon. Southwest wind 3 to 16 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
@@ -103,7 +103,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 8pm and 2am. Mostly cloudy, with a low around 37. Northwest wind 6 to 13 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain showers between 7pm and 2am. Mostly cloudy, with a low around 37. Northwest wind 6 to 13 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 4,

@@ -1,7 +1,7 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-10-31T19:00:00,False,56,70.0,7 to 10 mph,S,rain_showers,"Rain showers likely after 11pm. Mostly cloudy. Low around 56, with temperatures rising to around 64 overnight. South wind 7 to 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-1,Friday,2024-11-01T06:00:00,True,64,20.0,7 to 14 mph,W,sct,"A slight chance of rain showers before 7am. Mostly sunny. High near 64, with temperatures falling to around 55 in the afternoon. West wind 7 to 14 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-2,Friday Night,2024-11-01T18:00:00,False,37,20.0,6 to 13 mph,NW,rain_showers,"A slight chance of rain showers between 8pm and 2am. Mostly cloudy, with a low around 37. Northwest wind 6 to 13 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+0,Tonight,2024-10-31T21:00:00,False,56,50.0,1 to 9 mph,SW,rain_showers,"A chance of rain showers after 11pm. Mostly cloudy. Low around 56, with temperatures rising to around 64 overnight. Southwest wind 1 to 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+1,Friday,2024-11-01T06:00:00,True,64,20.0,3 to 16 mph,SW,sct,"A slight chance of rain showers before 7am. Mostly sunny. High near 64, with temperatures falling to around 55 in the afternoon. Southwest wind 3 to 16 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+2,Friday Night,2024-11-01T18:00:00,False,37,20.0,6 to 13 mph,NW,rain_showers,"A slight chance of rain showers between 7pm and 2am. Mostly cloudy, with a low around 37. Northwest wind 6 to 13 mph. Chance of precipitation is 20%."
 3,Saturday,2024-11-02T06:00:00,True,51,,8 mph,NW,bkn,"Partly sunny, with a high near 51. Northwest wind around 8 mph."
 4,Saturday Night,2024-11-02T18:00:00,False,31,,1 to 5 mph,NE,few,"Mostly clear, with a low around 31. Northeast wind 1 to 5 mph."
 5,Sunday,2024-11-03T06:00:00,True,56,,3 mph,SE,sct,"Mostly sunny, with a high near 56."
