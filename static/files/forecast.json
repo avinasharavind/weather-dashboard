@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-01T14:03:42+00:00",
+        "generatedAt": "2024-11-01T18:00:03+00:00",
         "updateTime": "2024-11-01T13:56:53+00:00",
         "validTimes": "2024-11-01T07:00:00+00:00/P7DT18H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-01T10:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-01T14:00:00-04:00",
                 "endTime": "2024-11-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 63,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "12 to 15 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 55 in the afternoon. West wind 12 to 15 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 63, with temperatures falling to around 55 in the afternoon. West wind around 13 mph."
             },
             {
                 "number": 2,
