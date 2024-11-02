@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-11-01T19:00:00,False,40,,7 to 12 mph,NW,bkn,"Mostly cloudy, with a low around 40. Northwest wind 7 to 12 mph."
+0,Tonight,2024-11-01T21:00:00,False,40,,8 mph,NW,ovc,"Cloudy, with a low around 40. Northwest wind around 8 mph."
 1,Saturday,2024-11-02T06:00:00,True,51,,9 mph,NW,bkn,"Partly sunny, with a high near 51. Northwest wind around 9 mph."
 2,Saturday Night,2024-11-02T18:00:00,False,31,,1 to 6 mph,NW,few,"Mostly clear, with a low around 31. Northwest wind 1 to 6 mph."
 3,Sunday,2024-11-03T06:00:00,True,56,,2 mph,N,few,"Sunny, with a high near 56. North wind around 2 mph."
