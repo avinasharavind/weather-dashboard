@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-04T03:00:13+00:00",
-        "updateTime": "2024-11-03T23:45:38+00:00",
-        "validTimes": "2024-11-03T17:00:00+00:00/P7DT20H",
+        "generatedAt": "2024-11-04T05:00:04+00:00",
+        "updateTime": "2024-11-04T03:05:49+00:00",
+        "validTimes": "2024-11-03T21:00:00+00:00/P7DT16H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,22 +50,22 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-03T22:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-11-04T00:00:00-05:00",
                 "endTime": "2024-11-04T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 35,
+                "temperature": 36,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 35. Southeast wind 2 to 7 mph."
+                "detailedForecast": "Partly cloudy, with a low around 36. Southeast wind 3 to 7 mph."
             },
             {
                 "number": 2,
