@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-11-04T06:00:00,True,60,,8 to 15 mph,SE,bkn,"Mostly cloudy, with a high near 60. Southeast wind 8 to 15 mph."
+0,Today,2024-11-04T08:00:00,True,60,,12 to 15 mph,S,bkn,"Mostly cloudy, with a high near 60. South wind 12 to 15 mph."
 1,Tonight,2024-11-04T18:00:00,False,49,,9 to 14 mph,S,sct,"Partly cloudy, with a low around 49. South wind 9 to 14 mph, with gusts as high as 24 mph."
 2,Tuesday,2024-11-05T06:00:00,True,73,,9 to 13 mph,S,few,"Sunny, with a high near 73. South wind 9 to 13 mph."
 3,Tuesday Night,2024-11-05T18:00:00,False,59,30.0,10 mph,S,rain_showers,"A chance of rain showers after 1am. Partly cloudy, with a low around 59. South wind around 10 mph. Chance of precipitation is 30%."
