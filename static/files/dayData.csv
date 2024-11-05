@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-11-05T11:00:00,True,77,,12 mph,S,sct,"Mostly sunny. High near 77, with temperatures falling to around 71 in the afternoon. South wind around 12 mph, with gusts as high as 22 mph."
+0,This Afternoon,2024-11-05T12:00:00,True,77,,12 mph,S,sct,"Mostly sunny. High near 77, with temperatures falling to around 71 in the afternoon. South wind around 12 mph, with gusts as high as 22 mph."
 1,Tonight,2024-11-05T18:00:00,False,60,,12 mph,S,sct,"Partly cloudy, with a low around 60. South wind around 12 mph."
 2,Wednesday,2024-11-06T06:00:00,True,75,50.0,7 to 12 mph,SW,rain_showers,"A chance of rain showers. Mostly cloudy. High near 75, with temperatures falling to around 69 in the afternoon. Southwest wind 7 to 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
 3,Wednesday Night,2024-11-06T18:00:00,False,48,20.0,2 to 6 mph,W,rain_showers,"A slight chance of rain showers before 1am. Partly cloudy, with a low around 48. West wind 2 to 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
