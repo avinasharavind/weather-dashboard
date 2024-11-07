@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-07T17:03:24+00:00",
+        "generatedAt": "2024-11-07T18:04:37+00:00",
         "updateTime": "2024-11-07T15:22:29+00:00",
         "validTimes": "2024-11-07T09:00:00+00:00/P8DT5H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-07T12:00:00-05:00",
+                "startTime": "2024-11-07T13:00:00-05:00",
                 "endTime": "2024-11-07T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
