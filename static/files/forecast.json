@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-09T05:00:04+00:00",
+        "generatedAt": "2024-11-09T06:02:52+00:00",
         "updateTime": "2024-11-09T03:11:35+00:00",
         "validTimes": "2024-11-08T21:00:00+00:00/P8DT4H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-09T00:00:00-05:00",
+                "startTime": "2024-11-09T01:00:00-05:00",
                 "endTime": "2024-11-09T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 34,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 to 12 mph",
-                "windDirection": "NW",
+                "windSpeed": "10 mph",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 34. Northwest wind 8 to 12 mph. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Mostly clear, with a low around 34. North wind around 10 mph."
             },
             {
                 "number": 2,
