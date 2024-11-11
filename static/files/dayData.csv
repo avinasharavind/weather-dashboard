@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Veterans Day,2024-11-11T07:00:00,True,60,30.0,6 to 13 mph,SW,rain_showers,"A chance of rain showers after 5pm. Partly sunny, with a high near 60. Southwest wind 6 to 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+0,Veterans Day,2024-11-11T08:00:00,True,60,30.0,6 to 13 mph,SW,rain_showers,"A chance of rain showers after 5pm. Partly sunny, with a high near 60. Southwest wind 6 to 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
 1,Tonight,2024-11-11T18:00:00,False,37,60.0,9 to 21 mph,W,rain_showers,"Rain showers likely. Cloudy, with a low around 37. West wind 9 to 21 mph, with gusts as high as 32 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
 2,Tuesday,2024-11-12T06:00:00,True,45,30.0,12 to 20 mph,N,bkn,"A chance of rain showers before 7am, then a chance of rain and snow showers between 7am and 11am. Mostly cloudy, with a high near 45. North wind 12 to 20 mph, with gusts as high as 32 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
 3,Tuesday Night,2024-11-12T18:00:00,False,25,,2 to 8 mph,N,few,"Mostly clear, with a low around 25. North wind 2 to 8 mph."
