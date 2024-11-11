@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-11T03:00:03+00:00",
+        "generatedAt": "2024-11-11T05:00:59+00:00",
         "updateTime": "2024-11-11T02:55:05+00:00",
         "validTimes": "2024-11-10T20:00:00+00:00/P7DT20H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-10T22:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-11-11T00:00:00-05:00",
                 "endTime": "2024-11-11T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -59,13 +59,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 20
                 },
-                "windSpeed": "3 to 9 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,20?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before 1am, then a slight chance of rain showers between 1am and 5am. Mostly cloudy. Low around 45, with temperatures rising to around 51 overnight. South wind 3 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 1am, then a slight chance of rain showers between 1am and 5am. Mostly cloudy. Low around 45, with temperatures rising to around 51 overnight. South wind around 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
