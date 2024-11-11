@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-10T23:00:04+00:00",
+        "generatedAt": "2024-11-11T00:00:04+00:00",
         "updateTime": "2024-11-10T22:34:40+00:00",
         "validTimes": "2024-11-10T16:00:00+00:00/P8D",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-10T18:00:00-05:00",
+                "startTime": "2024-11-10T19:00:00-05:00",
                 "endTime": "2024-11-11T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/rain,80/rain_showers,30?size=medium",
                 "shortForecast": "Light Rain then Chance Rain Showers",
-                "detailedForecast": "Rain before 10pm, then a chance of rain showers between 10pm and 5am. Mostly cloudy. Low around 45, with temperatures rising to around 51 overnight. South wind 6 to 12 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain before 10pm, then a chance of rain showers between 10pm and 5am. Mostly cloudy. Low around 45, with temperatures rising to around 51 overnight. South wind 8 to 12 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
