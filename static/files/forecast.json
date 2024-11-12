@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-12T14:01:00+00:00",
-        "updateTime": "2024-11-12T11:13:22+00:00",
-        "validTimes": "2024-11-12T05:00:00+00:00/P8DT6H",
+        "generatedAt": "2024-11-12T18:00:03+00:00",
+        "updateTime": "2024-11-12T16:48:40+00:00",
+        "validTimes": "2024-11-12T10:00:00+00:00/P8DT6H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-12T09:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-12T13:00:00-05:00",
                 "endTime": "2024-11-12T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -59,13 +59,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
-                "windSpeed": "12 to 17 mph",
+                "windSpeed": "12 to 16 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/bkn?size=medium",
-                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A chance of rain showers before 11am. Mostly cloudy, with a high near 45. North wind 12 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers before 2pm. Partly sunny, with a high near 45. North wind 12 to 16 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -82,9 +82,9 @@
                 },
                 "windSpeed": "3 to 9 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 25. North wind 3 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 25. North wind 3 to 9 mph."
             },
             {
                 "number": 3,
