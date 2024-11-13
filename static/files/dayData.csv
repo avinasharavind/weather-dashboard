@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-11-12T22:00:00,False,25,,5 mph,NW,few,"Mostly clear, with a low around 25. Northwest wind around 5 mph."
+0,Overnight,2024-11-13T00:00:00,False,25,,2 mph,NW,few,"Mostly clear, with a low around 25. Northwest wind around 2 mph."
 1,Wednesday,2024-11-13T06:00:00,True,50,,3 mph,E,skc,"Sunny. High near 50, with temperatures falling to around 44 in the afternoon. East wind around 3 mph."
 2,Wednesday Night,2024-11-13T18:00:00,False,27,,2 to 6 mph,SE,sct,"Partly cloudy, with a low around 27. Southeast wind 2 to 6 mph."
 3,Thursday,2024-11-14T06:00:00,True,47,30.0,7 to 10 mph,SE,rain_showers,"A chance of rain showers after 1pm. Mostly cloudy, with a high near 47. Southeast wind 7 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
