@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-13T21:08:03+00:00",
+        "generatedAt": "2024-11-13T22:10:51+00:00",
         "updateTime": "2024-11-13T19:27:41+00:00",
         "validTimes": "2024-11-13T13:00:00+00:00/P7DT15H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-13T16:00:00-05:00",
+                "startTime": "2024-11-13T17:00:00-05:00",
                 "endTime": "2024-11-13T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "SE",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 51, with temperatures falling to around 45 in the afternoon. Southeast wind around 3 mph."
+                "detailedForecast": "Sunny. High near 51, with temperatures falling to around 45 in the afternoon. East wind around 3 mph."
             },
             {
                 "number": 2,
