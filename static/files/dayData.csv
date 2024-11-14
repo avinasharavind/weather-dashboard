@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-11-13T22:00:00,False,28,,5 to 8 mph,SE,sct,"Partly cloudy, with a low around 28. Southeast wind 5 to 8 mph."
+0,Overnight,2024-11-14T00:00:00,False,28,,8 mph,SE,sct,"Partly cloudy, with a low around 28. Southeast wind around 8 mph."
 1,Thursday,2024-11-14T06:00:00,True,49,,8 to 12 mph,SE,bkn,"Mostly cloudy, with a high near 49. Southeast wind 8 to 12 mph."
 2,Thursday Night,2024-11-14T18:00:00,False,33,20.0,2 to 7 mph,SE,rain_showers,"A slight chance of rain showers after 1am. Mostly cloudy, with a low around 33. Southeast wind 2 to 7 mph. Chance of precipitation is 20%."
 3,Friday,2024-11-15T06:00:00,True,53,20.0,2 to 10 mph,N,sct,"A slight chance of rain showers before 7am. Mostly sunny, with a high near 53. North wind 2 to 10 mph. Chance of precipitation is 20%."
