@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-11-14T10:00:00,True,49,,6 to 12 mph,SE,bkn,"Mostly cloudy, with a high near 49. Southeast wind 6 to 12 mph, with gusts as high as 23 mph."
+0,This Afternoon,2024-11-14T12:00:00,True,49,,6 to 12 mph,SE,bkn,"Mostly cloudy, with a high near 49. Southeast wind 6 to 12 mph, with gusts as high as 23 mph."
 1,Tonight,2024-11-14T18:00:00,False,33,,2 to 6 mph,SE,ovc,"Cloudy, with a low around 33. Southeast wind 2 to 6 mph."
 2,Friday,2024-11-15T06:00:00,True,54,,1 to 10 mph,E,sct,"Mostly sunny. High near 54, with temperatures falling to around 47 in the afternoon. East wind 1 to 10 mph."
 3,Friday Night,2024-11-15T18:00:00,False,34,,7 mph,NW,few,"Mostly clear, with a low around 34. Northwest wind around 7 mph."
