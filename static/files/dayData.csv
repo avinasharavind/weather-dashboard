@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-11-16T16:00:00,True,55,,9 mph,NW,skc,"Sunny. High near 55, with temperatures falling to around 46 in the afternoon. Northwest wind around 9 mph."
+0,This Afternoon,2024-11-16T17:00:00,True,55,,7 mph,NW,skc,"Sunny. High near 55, with temperatures falling to around 46 in the afternoon. Northwest wind around 7 mph."
 1,Tonight,2024-11-16T18:00:00,False,33,,1 to 6 mph,NW,fog,"Patchy fog after 5am. Partly cloudy, with a low around 33. Northwest wind 1 to 6 mph."
 2,Sunday,2024-11-17T06:00:00,True,54,,2 mph,SW,bkn,"Patchy fog before 9am. Partly sunny, with a high near 54. Southwest wind around 2 mph."
 3,Sunday Night,2024-11-17T18:00:00,False,41,50.0,3 mph,S,rain_showers,"A chance of rain showers after 1am. Mostly cloudy, with a low around 41. South wind around 3 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
