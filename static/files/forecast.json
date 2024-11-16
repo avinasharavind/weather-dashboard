@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-16T03:00:03+00:00",
+        "generatedAt": "2024-11-16T04:00:24+00:00",
         "updateTime": "2024-11-16T02:47:39+00:00",
         "validTimes": "2024-11-15T20:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-15T22:00:00-05:00",
+                "startTime": "2024-11-15T23:00:00-05:00",
                 "endTime": "2024-11-16T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 38,
