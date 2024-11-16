@@ -1,6 +1,6 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Today,2024-11-16T08:00:00,True,53,,9 to 14 mph,NW,few,"Sunny, with a high near 53. Northwest wind 9 to 14 mph."
-1,Tonight,2024-11-16T18:00:00,False,33,,2 to 7 mph,NW,sct,"Partly cloudy, with a low around 33. Northwest wind 2 to 7 mph."
+0,Today,2024-11-16T10:00:00,True,53,,9 to 15 mph,NW,few,"Sunny, with a high near 53. Northwest wind 9 to 15 mph, with gusts as high as 26 mph."
+1,Tonight,2024-11-16T18:00:00,False,33,,2 to 8 mph,NW,sct,"Partly cloudy, with a low around 33. Northwest wind 2 to 8 mph."
 2,Sunday,2024-11-17T06:00:00,True,56,,2 mph,SW,bkn,"Partly sunny, with a high near 56. Southwest wind around 2 mph."
 3,Sunday Night,2024-11-17T18:00:00,False,42,40.0,3 mph,SW,rain_showers,"A chance of rain showers after 1am. Mostly cloudy, with a low around 42. Southwest wind around 3 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
 4,Monday,2024-11-18T06:00:00,True,58,40.0,3 to 12 mph,W,rain_showers,"A chance of rain showers before 1pm. Partly sunny, with a high near 58. West wind 3 to 12 mph. Chance of precipitation is 40%."
