@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-18T13:00:11+00:00",
-        "updateTime": "2024-11-18T10:29:37+00:00",
-        "validTimes": "2024-11-18T04:00:00+00:00/P8DT6H",
+        "generatedAt": "2024-11-18T18:00:03+00:00",
+        "updateTime": "2024-11-18T17:22:34+00:00",
+        "validTimes": "2024-11-18T11:00:00+00:00/P8DT2H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-18T08:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-18T13:00:00-05:00",
                 "endTime": "2024-11-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 58, with temperatures falling to around 50 in the afternoon. Northwest wind 3 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 50 in the afternoon. Northwest wind 7 to 10 mph."
             },
             {
                 "number": 2,
@@ -82,9 +82,9 @@
                 },
                 "windSpeed": "1 to 6 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 35. Northwest wind 1 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 35. Northwest wind 1 to 6 mph."
             },
             {
                 "number": 3,
