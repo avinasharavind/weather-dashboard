@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-11-18T16:00:00,True,60,,9 mph,NW,sct,"Mostly sunny. High near 60, with temperatures falling to around 51 in the afternoon. Northwest wind around 9 mph."
+0,This Afternoon,2024-11-18T17:00:00,True,60,,8 mph,NW,sct,"Mostly sunny. High near 60, with temperatures falling to around 51 in the afternoon. Northwest wind around 8 mph."
 1,Tonight,2024-11-18T18:00:00,False,35,,1 to 6 mph,NW,sct,"Partly cloudy, with a low around 35. Northwest wind 1 to 6 mph."
 2,Tuesday,2024-11-19T06:00:00,True,53,,3 mph,E,bkn,"Partly sunny, with a high near 53. East wind around 3 mph."
 3,Tuesday Night,2024-11-19T18:00:00,False,44,20.0,2 mph,SE,rain_showers,"A slight chance of rain showers after 10pm. Mostly cloudy, with a low around 44. Southeast wind around 2 mph. Chance of precipitation is 20%."
