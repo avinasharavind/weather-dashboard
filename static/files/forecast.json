@@ -40,8 +40,8 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-18T18:00:03+00:00",
-        "updateTime": "2024-11-18T17:22:34+00:00",
+        "generatedAt": "2024-11-18T19:00:03+00:00",
+        "updateTime": "2024-11-18T17:59:38+00:00",
         "validTimes": "2024-11-18T11:00:00+00:00/P8DT2H",
         "elevation": {
             "unitCode": "wmoUnit:m",
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-18T13:00:00-05:00",
+                "startTime": "2024-11-18T14:00:00-05:00",
                 "endTime": "2024-11-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 50 in the afternoon. Northwest wind 7 to 10 mph."
+                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 50 in the afternoon. Northwest wind around 9 mph."
             },
             {
                 "number": 2,
