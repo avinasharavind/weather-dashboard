@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-19T04:00:03+00:00",
+        "generatedAt": "2024-11-19T05:00:03+00:00",
         "updateTime": "2024-11-19T02:26:04+00:00",
         "validTimes": "2024-11-18T20:00:00+00:00/P7DT17H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-18T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-11-19T00:00:00-05:00",
                 "endTime": "2024-11-19T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "2 mph",
-                "windDirection": "NW",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 35. Northwest wind around 2 mph."
+                "detailedForecast": "Partly cloudy, with a low around 35. North wind around 2 mph."
             },
             {
                 "number": 2,
