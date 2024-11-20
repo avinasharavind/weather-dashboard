@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-20T00:00:03+00:00",
-        "updateTime": "2024-11-19T22:38:18+00:00",
-        "validTimes": "2024-11-19T16:00:00+00:00/P7DT22H",
+        "generatedAt": "2024-11-20T03:00:06+00:00",
+        "updateTime": "2024-11-20T02:38:58+00:00",
+        "validTimes": "2024-11-19T20:00:00+00:00/P7DT18H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-19T19:00:00-05:00",
+                "startTime": "2024-11-19T22:00:00-05:00",
                 "endTime": "2024-11-20T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -64,8 +64,8 @@
                 "windSpeed": "2 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 3am. Cloudy, with a low around 45. Southeast wind around 2 mph. Chance of precipitation is 20%."
+                "shortForecast": "Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers before 2am. Cloudy, with a low around 45. Southeast wind around 2 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -101,9 +101,9 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,100?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 38. South wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 38. South wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             },
             {
                 "number": 4,
@@ -120,9 +120,9 @@
                 },
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,90?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Mostly cloudy, with a high near 46. Northwest wind 2 to 7 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a high near 46. Northwest wind 2 to 7 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 5,
@@ -139,9 +139,9 @@
                 },
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,90?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 34. Northwest wind 6 to 9 mph. Chance of precipitation is 90%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 34. Northwest wind 6 to 9 mph. Chance of precipitation is 90%."
             },
             {
                 "number": 6,
@@ -158,9 +158,9 @@
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,90?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a high near 44. Chance of precipitation is 90%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 44. Chance of precipitation is 90%."
             },
             {
                 "number": 7,
@@ -177,9 +177,9 @@
                 },
                 "windSpeed": "8 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Mostly cloudy, with a low around 35. Chance of precipitation is 80%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,80/rain_showers,70?size=medium",
+                "shortForecast": "Light Rain then Rain Showers Likely",
+                "detailedForecast": "Rain before 7pm, then rain showers likely. Mostly cloudy, with a low around 35. Chance of precipitation is 80%."
             },
             {
                 "number": 8,
