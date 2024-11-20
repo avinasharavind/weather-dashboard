@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-11-19T22:00:00,False,45,20.0,2 mph,SE,rain_showers,"Isolated rain showers before 2am. Cloudy, with a low around 45. Southeast wind around 2 mph. Chance of precipitation is 20%."
+0,Tonight,2024-11-19T23:00:00,False,45,20.0,2 mph,SE,rain_showers,"Isolated rain showers before 2am. Cloudy, with a low around 45. Southeast wind around 2 mph. Chance of precipitation is 20%."
 1,Wednesday,2024-11-20T06:00:00,True,60,20.0,2 to 7 mph,SE,rain_showers,"A slight chance of rain showers after 1pm. Mostly cloudy, with a high near 60. Southeast wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
 2,Wednesday Night,2024-11-20T18:00:00,False,38,100.0,7 mph,S,rain,"Rain. Cloudy, with a low around 38. South wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
 3,Thursday,2024-11-21T06:00:00,True,46,90.0,2 to 7 mph,NW,rain,"Rain. Mostly cloudy, with a high near 46. Northwest wind 2 to 7 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
