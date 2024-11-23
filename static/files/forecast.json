@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-23T00:00:04+00:00",
+        "generatedAt": "2024-11-23T01:01:12+00:00",
         "updateTime": "2024-11-22T23:14:28+00:00",
         "validTimes": "2024-11-22T17:00:00+00:00/P7DT20H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-22T19:00:00-05:00",
+                "startTime": "2024-11-22T20:00:00-05:00",
                 "endTime": "2024-11-23T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -65,7 +65,7 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
                 "shortForecast": "Slight Chance Rain And Snow",
-                "detailedForecast": "A slight chance of rain and snow after 8pm. Mostly cloudy, with a low around 32. North wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain and snow. Mostly cloudy, with a low around 32. North wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
