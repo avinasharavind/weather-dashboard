@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-23T03:00:04+00:00",
-        "updateTime": "2024-11-22T23:14:28+00:00",
-        "validTimes": "2024-11-22T17:00:00+00:00/P7DT20H",
+        "generatedAt": "2024-11-23T06:03:55+00:00",
+        "updateTime": "2024-11-23T05:37:43+00:00",
+        "validTimes": "2024-11-22T23:00:00+00:00/P7DT14H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,22 +50,22 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-22T22:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-11-23T01:00:00-05:00",
                 "endTime": "2024-11-23T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 32,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
-                "shortForecast": "Slight Chance Rain And Snow",
-                "detailedForecast": "A slight chance of rain and snow. Mostly cloudy, with a low around 32. Northwest wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog between 2am and 5am, then patchy fog and a slight chance of rain and snow showers. Mostly cloudy, with a low around 34. West wind 1 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -80,11 +80,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 50
                 },
-                "windSpeed": "9 to 17 mph",
+                "windSpeed": "6 to 17 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,40?size=medium",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow before 7am, then a chance of rain and snow between 7am and 1pm, then a chance of rain showers. Mostly cloudy, with a high near 47. Northwest wind 9 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Chance Rain And Snow",
+                "detailedForecast": "A chance of rain showers and patchy fog before 7am, then a chance of rain and snow between 7am and 1pm, then a chance of rain showers. Mostly cloudy, with a high near 47. Northwest wind 6 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 3,
