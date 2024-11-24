@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-11-24T16:00:00,True,48,20.0,14 mph,NW,rain_showers,"A slight chance of rain showers after 5pm. Mostly cloudy, with a high near 48. Northwest wind around 14 mph. Chance of precipitation is 20%."
+0,This Afternoon,2024-11-24T17:00:00,True,48,20.0,13 mph,NW,rain_showers,"A slight chance of rain showers. Mostly cloudy, with a high near 48. Northwest wind around 13 mph. Chance of precipitation is 20%."
 1,Tonight,2024-11-24T18:00:00,False,32,20.0,2 to 10 mph,W,bkn,"A slight chance of rain showers before 7pm. Mostly cloudy, with a low around 32. West wind 2 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
 2,Monday,2024-11-25T06:00:00,True,49,,1 to 6 mph,S,bkn,"Partly sunny, with a high near 49. South wind 1 to 6 mph."
 3,Monday Night,2024-11-25T18:00:00,False,43,90.0,7 mph,S,rain,"Rain. Cloudy, with a low around 43. South wind around 7 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."

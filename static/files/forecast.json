@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-24T21:00:03+00:00",
+        "generatedAt": "2024-11-24T22:03:12+00:00",
         "updateTime": "2024-11-24T19:41:39+00:00",
         "validTimes": "2024-11-24T13:00:00+00:00/P8DT3H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-24T16:00:00-05:00",
+                "startTime": "2024-11-24T17:00:00-05:00",
                 "endTime": "2024-11-24T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 48,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "14 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly cloudy, with a high near 48. Northwest wind around 14 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 48. Northwest wind around 13 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
