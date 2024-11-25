@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-25T04:00:03+00:00",
-        "updateTime": "2024-11-24T22:55:16+00:00",
-        "validTimes": "2024-11-24T16:00:00+00:00/P8D",
+        "generatedAt": "2024-11-25T05:00:41+00:00",
+        "updateTime": "2024-11-25T04:44:16+00:00",
+        "validTimes": "2024-11-24T22:00:00+00:00/P7DT18H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-24T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-11-25T00:00:00-05:00",
                 "endTime": "2024-11-25T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -62,10 +62,10 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "W",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 32. West wind around 5 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 32. Northwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -80,11 +80,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "1 to 6 mph",
+                "windSpeed": "1 to 5 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 49. South wind 1 to 6 mph."
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 49. South wind 1 to 5 mph."
             },
             {
                 "number": 3,
@@ -99,11 +99,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,90?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 43. South wind around 7 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain. Cloudy, with a low around 43. South wind 5 to 8 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 4,
