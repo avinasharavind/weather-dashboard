@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-11-26T23:00:00,False,32,,3 to 7 mph,SW,bkn,"Mostly cloudy, with a low around 32. Southwest wind 3 to 7 mph."
+0,Overnight,2024-11-27T00:00:00,False,32,,3 to 7 mph,SW,bkn,"Mostly cloudy, with a low around 32. Southwest wind 3 to 7 mph."
 1,Wednesday,2024-11-27T06:00:00,True,46,,3 to 8 mph,SW,bkn,"Partly sunny, with a high near 46. Southwest wind 3 to 8 mph."
 2,Wednesday Night,2024-11-27T18:00:00,False,34,90.0,3 mph,S,snow,"Rain between 11pm and 2am, then rain and snow. Mostly cloudy, with a low around 34. South wind around 3 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
 3,Thanksgiving Day,2024-11-28T06:00:00,True,42,90.0,3 to 7 mph,NE,snow,"Rain and snow. Cloudy, with a high near 42. Northeast wind 3 to 7 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
