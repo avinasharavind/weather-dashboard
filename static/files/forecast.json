@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-27T02:53:44+00:00",
+        "generatedAt": "2024-11-27T03:55:42+00:00",
         "updateTime": "2024-11-26T23:51:43+00:00",
         "validTimes": "2024-11-26T17:00:00+00:00/P7DT20H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-26T21:00:00-05:00",
+                "startTime": "2024-11-26T22:00:00-05:00",
                 "endTime": "2024-11-27T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
