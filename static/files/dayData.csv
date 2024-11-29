@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-11-29T12:00:00,True,40,60.0,6 to 9 mph,W,snow,"Snow showers likely. Mostly cloudy. High near 40, with temperatures falling to around 34 in the afternoon. West wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+0,This Afternoon,2024-11-29T13:00:00,True,40,60.0,9 mph,W,snow,"Snow showers likely. Mostly cloudy. High near 40, with temperatures falling to around 34 in the afternoon. West wind around 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
 1,Tonight,2024-11-29T18:00:00,False,23,20.0,7 mph,SW,sct,"A slight chance of rain and snow showers before 7pm. Partly cloudy, with a low around 23. Southwest wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
 2,Saturday,2024-11-30T06:00:00,True,35,,6 to 12 mph,SW,bkn,"Partly sunny, with a high near 35. Southwest wind 6 to 12 mph."
 3,Saturday Night,2024-11-30T18:00:00,False,21,,8 mph,SW,bkn,"Mostly cloudy, with a low around 21. Southwest wind around 8 mph."

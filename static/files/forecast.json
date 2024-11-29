@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-29T17:23:09+00:00",
+        "generatedAt": "2024-11-29T18:54:12+00:00",
         "updateTime": "2024-11-29T16:45:52+00:00",
         "validTimes": "2024-11-29T10:00:00+00:00/P7DT15H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-29T12:00:00-05:00",
+                "startTime": "2024-11-29T13:00:00-05:00",
                 "endTime": "2024-11-29T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
                 "shortForecast": "Snow Showers Likely",
-                "detailedForecast": "Snow showers likely. Mostly cloudy. High near 40, with temperatures falling to around 34 in the afternoon. West wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Snow showers likely. Mostly cloudy. High near 40, with temperatures falling to around 34 in the afternoon. West wind around 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
