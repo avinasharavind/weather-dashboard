@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-11-30T21:00:03+00:00",
+        "generatedAt": "2024-11-30T22:00:03+00:00",
         "updateTime": "2024-11-30T19:14:15+00:00",
         "validTimes": "2024-11-30T13:00:00+00:00/P8DT6H",
         "elevation": {
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-11-30T16:00:00-05:00",
+                "startTime": "2024-11-30T17:00:00-05:00",
                 "endTime": "2024-11-30T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -65,7 +65,7 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 35. Southwest wind around 10 mph."
+                "detailedForecast": "A chance of snow showers. Partly sunny, with a high near 35. Southwest wind around 10 mph."
             },
             {
                 "number": 2,

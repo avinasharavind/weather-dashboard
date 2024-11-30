@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,This Afternoon,2024-11-30T16:00:00,True,35,,10 mph,SW,snow,"A chance of snow showers. Mostly cloudy, with a high near 35. Southwest wind around 10 mph."
+0,This Afternoon,2024-11-30T17:00:00,True,35,,10 mph,SW,snow,"A chance of snow showers. Partly sunny, with a high near 35. Southwest wind around 10 mph."
 1,Tonight,2024-11-30T18:00:00,False,21,,8 mph,SW,snow,"A chance of snow showers before 5am. Mostly cloudy, with a low around 21. Southwest wind around 8 mph."
 2,Sunday,2024-12-01T06:00:00,True,35,,6 to 10 mph,SW,snow,"A chance of snow showers between 1pm and 3pm. Partly sunny, with a high near 35. Southwest wind 6 to 10 mph."
 3,Sunday Night,2024-12-01T18:00:00,False,22,,6 mph,SW,sct,"Partly cloudy, with a low around 22. Southwest wind around 6 mph."
