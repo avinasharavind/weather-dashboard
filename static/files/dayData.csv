@@ -1,5 +1,5 @@
 ,name,stTime,isDay,Temp,PoPs,wdSpd,wdDir,icon,longFcst
-0,Tonight,2024-12-01T23:00:00,False,23,30,5 mph,S,snow,"A chance of snow showers after 2am. Mostly cloudy, with a low around 23. South wind around 5 mph. Chance of precipitation is 30%."
+0,Overnight,2024-12-02T00:00:00,False,23,30,3 mph,S,snow,"A chance of snow showers after 2am. Mostly cloudy, with a low around 23. South wind around 3 mph. Chance of precipitation is 30%."
 1,Monday,2024-12-02T06:00:00,True,37,30,3 to 7 mph,W,snow,"A chance of snow showers. Partly sunny, with a high near 37. West wind 3 to 7 mph. Chance of precipitation is 30%."
 2,Monday Night,2024-12-02T18:00:00,False,24,40,3 mph,W,snow,"A chance of snow showers. Mostly cloudy, with a low around 24. West wind around 3 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
 3,Tuesday,2024-12-03T06:00:00,True,36,60,5 to 9 mph,W,snow,"Snow showers likely. Mostly cloudy, with a high near 36. West wind 5 to 9 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."

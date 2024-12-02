@@ -40,7 +40,7 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-12-02T04:00:03+00:00",
+        "generatedAt": "2024-12-02T05:00:04+00:00",
         "updateTime": "2024-12-02T03:05:10+00:00",
         "validTimes": "2024-12-01T21:00:00+00:00/P8DT4H",
         "elevation": {
@@ -50,8 +50,8 @@
         "periods": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-01T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-12-02T00:00:00-05:00",
                 "endTime": "2024-12-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -61,11 +61,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers after 2am. Mostly cloudy, with a low around 23. South wind around 5 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers after 2am. Mostly cloudy, with a low around 23. South wind around 3 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
