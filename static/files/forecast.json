@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2024-12-02T20:01:14+00:00",
-        "updateTime": "2024-12-02T17:39:40+00:00",
-        "validTimes": "2024-12-02T11:00:00+00:00/P7DT19H",
+        "generatedAt": "2024-12-02T21:30:00+00:00",
+        "updateTime": "2024-12-02T20:48:38+00:00",
+        "validTimes": "2024-12-02T14:00:00+00:00/P8DT2H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 120.0912
@@ -51,7 +51,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-02T15:00:00-05:00",
+                "startTime": "2024-12-02T16:00:00-05:00",
                 "endTime": "2024-12-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -65,7 +65,7 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
                 "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers after 5pm. Partly sunny, with a high near 34. Northwest wind around 5 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of snow showers. Partly sunny, with a high near 34. Northwest wind around 5 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -78,13 +78,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 23. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 23. West wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 3,
@@ -92,18 +92,18 @@
                 "startTime": "2024-12-03T06:00:00-05:00",
                 "endTime": "2024-12-03T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 36,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 30
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,60?size=medium",
-                "shortForecast": "Snow Showers Likely",
-                "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 36. Northwest wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 35. West wind 5 to 12 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
             },
             {
                 "number": 4,
@@ -111,7 +111,7 @@
                 "startTime": "2024-12-03T18:00:00-05:00",
                 "endTime": "2024-12-04T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 23,
+                "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -120,9 +120,9 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,20?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers before 1am. Mostly cloudy, with a low around 23. West wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/bkn?size=medium",
+                "shortForecast": "Chance Snow Showers then Mostly Cloudy",
+                "detailedForecast": "A chance of snow showers before midnight. Mostly cloudy, with a low around 21. West wind around 5 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 5,
@@ -130,18 +130,18 @@
                 "startTime": "2024-12-04T06:00:00-05:00",
                 "endTime": "2024-12-04T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 36,
+                "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 60
                 },
-                "windSpeed": "6 to 13 mph",
+                "windSpeed": "6 to 16 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,60?size=medium",
                 "shortForecast": "Snow Showers Likely",
-                "detailedForecast": "Snow showers likely after 7am. Mostly cloudy, with a high near 36. South wind 6 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible. Little or no ice accumulation expected."
+                "detailedForecast": "Snow showers likely. Cloudy, with a high near 37. South wind 6 to 16 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 6,
@@ -156,11 +156,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "13 mph",
+                "windSpeed": "9 to 17 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/snow,70/snow,90?size=medium",
                 "shortForecast": "Rain And Snow Showers",
-                "detailedForecast": "Snow showers likely before 10pm, then rain and snow showers. Mostly cloudy, with a low around 26. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible. Little or no ice accumulation expected."
+                "detailedForecast": "Snow showers likely before 10pm, then rain and snow showers. Cloudy, with a low around 26. Chance of precipitation is 90%. New snow accumulation of around one inch possible."
             },
             {
                 "number": 7,
@@ -168,18 +168,18 @@
                 "startTime": "2024-12-05T06:00:00-05:00",
                 "endTime": "2024-12-05T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 36,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "13 to 21 mph",
+                "windSpeed": "12 to 21 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/snow,90/snow,80?size=medium",
-                "shortForecast": "Rain And Snow Showers",
-                "detailedForecast": "Rain and snow showers. Mostly cloudy, with a high near 36. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
+                "shortForecast": "Snow Showers",
+                "detailedForecast": "Snow showers. Cloudy, with a high near 34. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
             },
             {
                 "number": 8,
@@ -194,9 +194,9 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "14 to 18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,60?size=medium",
+                "windSpeed": "14 to 20 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,70?size=medium",
                 "shortForecast": "Snow Showers",
                 "detailedForecast": "Snow showers. Mostly cloudy, with a low around 21. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
             },
@@ -213,11 +213,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 50
                 },
-                "windSpeed": "12 to 17 mph",
+                "windSpeed": "10 to 17 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,30?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Partly sunny, with a high near 30. Chance of precipitation is 50%."
+                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 30. Chance of precipitation is 50%."
             },
             {
                 "number": 10,
@@ -225,7 +225,7 @@
                 "startTime": "2024-12-06T18:00:00-05:00",
                 "endTime": "2024-12-07T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 18,
+                "temperature": 19,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -234,9 +234,9 @@
                 },
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow/snow,30?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 18. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 19. Chance of precipitation is 30%."
             },
             {
                 "number": 11,
@@ -244,18 +244,18 @@
                 "startTime": "2024-12-07T06:00:00-05:00",
                 "endTime": "2024-12-07T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 33,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 40
                 },
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,50?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,40?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 33. Chance of precipitation is 50%."
+                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 34. Chance of precipitation is 40%."
             },
             {
                 "number": 12,
@@ -268,13 +268,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 40
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,40?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,40/snow,30?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 21. Chance of precipitation is 50%."
+                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 21. Chance of precipitation is 40%."
             },
             {
                 "number": 13,
@@ -287,13 +287,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
                 "windSpeed": "8 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow?size=medium",
                 "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Partly sunny, with a high near 36. Chance of precipitation is 40%."
+                "detailedForecast": "A chance of snow showers before 7am, then a slight chance of rain and snow showers. Partly sunny, with a high near 36. Chance of precipitation is 30%."
             },
             {
                 "number": 14,
@@ -308,11 +308,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 25. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/snow/snow,30?size=medium",
+                "shortForecast": "Chance Rain And Snow Showers",
+                "detailedForecast": "A chance of rain and snow showers. Mostly cloudy, with a low around 25. Chance of precipitation is 30%."
             }
         ]
     }

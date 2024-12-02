@@ -3,7 +3,8 @@
 <link rel="stylesheet" href="static/styles/style.css"/>
 <script type="module">
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-//Shoutout to the d3.js documentation and adjacent resources.
+// Created by Avinash Aravind for fun :)		24.2
+// Shoutout to the d3.js documentation and adjacent resources.
 
 // Part 0: SVG & Data Setup
 	//0.1: Define SVG dimensions
@@ -13,7 +14,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	//0.2: Create SVG
 	const svg = d3.create("svg")
 		.attr("id", "mainSVG")
-		.attr("viewBox", [0, 0, width, height])
+		.attr("viewBox", [0, 0, width, height+25])
 		.style("color", "rgb(200, 200, 200)")
 
 	//0.3: Create visible viewbox for scaling [testing purposes only]
@@ -187,7 +188,7 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 	const iconLabel = graphic.append("text")
 			.text(hours[0]["shrtFcst"])
 			.attr("x", "1150")
-			.attr("y", "800")
+			.attr("y", "775")
 			.attr("font-size", "40px")
 			.attr("font-weight", "bold")
 			.attr("text-anchor", "middle")
@@ -363,6 +364,43 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 			.attr("fill", "rgb(200, 200, 200)")
 			.attr("x", "420")
 			.attr("y", "840");
+		//3.2.15: Info
+		const infoText = graphic.append("text")
+			.attr("id", "infoText")
+			.text("This page was designed to display NWS forecast information.")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "1150")
+			.attr("y", "840");
+		const infoTextThree = graphic.append("text")
+			.attr("id", "infoTextThree")
+			.text("All of the pieces work, but since GitHub Sites displays static sites")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "1150")
+			.attr("y", "865");
+		const infoTextTwo = graphic.append("text")
+			.attr("id", "infoTextTwo")
+			.text("it doesn't update on here, only on my locally hosted server.")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "1150")
+			.attr("y", "890");
+		const infoTextFour = graphic.append("text")
+			.attr("id", "infoTextFour")
+			.text("I think it's cool, though, and I hope you do too!")
+			.attr("font-size", "20px")
+			.attr("font-weight", "lighter")
+			.attr("text-anchor", "middle")
+			.attr("fill", "rgb(200, 200, 200)")
+			.attr("x", "1150")
+			.attr("y", "915");
 
 	//3.3: Fade Elements In
 	const gaugeFade = d3.timeout(function() {
