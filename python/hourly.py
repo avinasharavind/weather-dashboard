@@ -26,7 +26,7 @@ def get_hours():
 
         tdc = ts["dewpoint"]["value"]
         tdf = ((tdc*9)/5)+32
-        info.append(round(tdf, 2))
+        info.append(int(tdf))
 
         info.append(ts["relativeHumidity"]["value"])
         info.append(ts["windSpeed"][:-4])
