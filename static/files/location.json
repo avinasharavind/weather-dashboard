@@ -47,8 +47,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -76.495000000000005,
-            42.439999999999998
+            -76.495,
+            42.44
         ]
     },
     "properties": {
@@ -68,8 +68,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.503055000000003,
-                    42.443936999999998
+                    -76.503055,
+                    42.443937
                 ]
             },
             "properties": {
@@ -77,7 +77,7 @@
                 "state": "NY",
                 "distance": {
                     "unitCode": "wmoUnit:m",
-                    "value": 792.80149769778996
+                    "value": 792.80149769779
                 },
                 "bearing": {
                     "unitCode": "wmoUnit:degree_(angle)",

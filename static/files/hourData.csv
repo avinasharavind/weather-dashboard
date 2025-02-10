@@ -1,157 +1,157 @@
 ,pdNum,stTime,readTime,temp,PoPs,dewpt,relHum,wdSpd,wdDir,icon,shrtFcst,appTemp,cldCvr,wdGst
-0,1,2024-12-04T18:00:00,"06 PM, Wed Dec 04",31,33,23,72,14,S,snow,Chance Snow Showers,21,85,21
-1,2,2024-12-04T19:00:00,"07 PM, Wed Dec 04",31,46,23,72,13,S,snow,Chance Snow Showers,21,94,21
-2,3,2024-12-04T20:00:00,"08 PM, Wed Dec 04",31,54,24,75,12,S,snow,Chance Snow Showers,22,92,18
-3,4,2024-12-04T21:00:00,"09 PM, Wed Dec 04",31,54,25,78,10,S,snow,Chance Snow Showers,22,95,17
-4,5,2024-12-04T22:00:00,"10 PM, Wed Dec 04",31,47,26,81,10,S,snow,Chance Snow Showers,22,94,16
-5,6,2024-12-04T23:00:00,"11 PM, Wed Dec 04",32,44,26,78,10,S,snow,Chance Snow Showers,24,94,16
-6,7,2024-12-05T00:00:00,"12 AM, Thu Dec 05",32,45,27,81,9,S,snow,Chance Snow Showers,24,93,15
-7,8,2024-12-05T01:00:00,"01 AM, Thu Dec 05",32,48,28,85,9,S,snow,Chance Snow Showers,24,93,15
-8,9,2024-12-05T02:00:00,"02 AM, Thu Dec 05",32,60,29,88,9,S,snow,Snow Showers Likely,24,89,14
-9,10,2024-12-05T03:00:00,"03 AM, Thu Dec 05",30,70,29,96,9,S,snow,Snow Showers Likely,22,86,14
-10,11,2024-12-05T04:00:00,"04 AM, Thu Dec 05",32,71,30,92,9,S,snow,Snow Showers Likely,24,86,15
-11,12,2024-12-05T05:00:00,"05 AM, Thu Dec 05",31,76,28,88,10,SW,snow,Snow Showers,22,78,17
-12,13,2024-12-05T06:00:00,"06 AM, Thu Dec 05",31,71,27,85,13,SW,snow,Snow Showers Likely,21,85,21
-13,14,2024-12-05T07:00:00,"07 AM, Thu Dec 05",31,66,25,78,15,W,snow,Snow Showers Likely,20,84,25
-14,15,2024-12-05T08:00:00,"08 AM, Thu Dec 05",29,61,25,85,18,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,17,74,29
-15,16,2024-12-05T09:00:00,"09 AM, Thu Dec 05",31,52,25,78,20,W,blizzard,Chance Snow Showers And Patchy Blowing Snow,19,72,32
-16,17,2024-12-05T10:00:00,"10 AM, Thu Dec 05",31,50,25,78,22,W,blizzard,Chance Snow Showers And Patchy Blowing Snow,18,69,35
-17,18,2024-12-05T11:00:00,"11 AM, Thu Dec 05",32,59,26,78,23,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,19,83,39
-18,19,2024-12-05T12:00:00,"12 PM, Thu Dec 05",33,60,26,75,24,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,20,82,40
-19,20,2024-12-05T13:00:00,"01 PM, Thu Dec 05",33,57,26,75,24,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,20,82,44
-20,21,2024-12-05T14:00:00,"02 PM, Thu Dec 05",34,59,26,72,24,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,22,82,44
-21,22,2024-12-05T15:00:00,"03 PM, Thu Dec 05",33,61,26,75,24,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,20,77,44
-22,23,2024-12-05T16:00:00,"04 PM, Thu Dec 05",33,63,26,75,24,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,20,85,41
-23,24,2024-12-05T17:00:00,"05 PM, Thu Dec 05",33,65,26,75,24,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,20,88,38
-24,25,2024-12-05T18:00:00,"06 PM, Thu Dec 05",31,68,26,81,23,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,18,87,37
-25,26,2024-12-05T19:00:00,"07 PM, Thu Dec 05",30,62,26,85,22,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,17,89,36
-26,27,2024-12-05T20:00:00,"08 PM, Thu Dec 05",29,63,25,85,21,W,blizzard,Snow Showers Likely And Patchy Blowing Snow,16,92,33
-27,28,2024-12-05T21:00:00,"09 PM, Thu Dec 05",28,63,24,85,20,NW,blizzard,Snow Showers Likely And Patchy Blowing Snow,15,94,32
-28,29,2024-12-05T22:00:00,"10 PM, Thu Dec 05",27,60,23,85,18,NW,blizzard,Snow Showers Likely And Patchy Blowing Snow,14,94,30
-29,30,2024-12-05T23:00:00,"11 PM, Thu Dec 05",28,56,22,78,18,NW,blizzard,Snow Showers Likely And Patchy Blowing Snow,15,93,30
-30,31,2024-12-06T00:00:00,"12 AM, Fri Dec 06",27,54,21,78,18,NW,blizzard,Chance Snow Showers And Patchy Blowing Snow,14,91,30
-31,32,2024-12-06T01:00:00,"01 AM, Fri Dec 06",26,50,20,78,18,NW,blizzard,Chance Snow Showers And Patchy Blowing Snow,13,88,30
-32,33,2024-12-06T02:00:00,"02 AM, Fri Dec 06",25,48,19,78,17,NW,snow,Chance Snow Showers,12,87,28
-33,34,2024-12-06T03:00:00,"03 AM, Fri Dec 06",24,48,18,77,16,NW,snow,Chance Snow Showers,11,87,26
-34,35,2024-12-06T04:00:00,"04 AM, Fri Dec 06",23,47,17,77,16,NW,snow,Chance Snow Showers,10,87,25
-35,36,2024-12-06T05:00:00,"05 AM, Fri Dec 06",23,43,16,74,15,NW,snow,Chance Snow Showers,10,83,24
-36,37,2024-12-06T06:00:00,"06 AM, Fri Dec 06",23,37,16,74,15,NW,snow,Chance Snow Showers,10,80,24
-37,38,2024-12-06T07:00:00,"07 AM, Fri Dec 06",22,34,16,77,13,NW,snow,Chance Snow Showers,10,78,24
-38,39,2024-12-06T08:00:00,"08 AM, Fri Dec 06",24,34,17,74,13,NW,snow,Chance Snow Showers,12,75,24
-39,40,2024-12-06T09:00:00,"09 AM, Fri Dec 06",25,34,18,74,14,NW,snow,Chance Snow Showers,13,71,23
-40,41,2024-12-06T10:00:00,"10 AM, Fri Dec 06",27,34,19,71,14,NW,snow,Chance Snow Showers,16,68,23
-41,42,2024-12-06T11:00:00,"11 AM, Fri Dec 06",28,34,19,68,14,NW,snow,Chance Snow Showers,17,69,22
-42,43,2024-12-06T12:00:00,"12 PM, Fri Dec 06",29,34,19,66,13,NW,snow,Chance Snow Showers,19,70,22
-43,44,2024-12-06T13:00:00,"01 PM, Fri Dec 06",29,50,19,66,13,NW,snow,Chance Snow Showers,19,71,21
-44,45,2024-12-06T14:00:00,"02 PM, Fri Dec 06",29,50,19,66,12,NW,snow,Chance Snow Showers,19,65,20
-45,46,2024-12-06T15:00:00,"03 PM, Fri Dec 06",30,50,18,60,12,W,snow,Chance Snow Showers,20,60,18
-46,47,2024-12-06T16:00:00,"04 PM, Fri Dec 06",29,50,18,63,10,W,snow,Chance Snow Showers,20,54,17
-47,48,2024-12-06T17:00:00,"05 PM, Fri Dec 06",28,50,18,66,9,W,snow,Chance Snow Showers,19,54,16
-48,49,2024-12-06T18:00:00,"06 PM, Fri Dec 06",28,50,18,66,7,W,snow,Chance Snow Showers,21,55,14
-49,50,2024-12-06T19:00:00,"07 PM, Fri Dec 06",26,46,18,71,6,W,snow,Chance Snow Showers,19,55,13
-50,51,2024-12-06T20:00:00,"08 PM, Fri Dec 06",26,46,18,71,6,W,snow,Chance Snow Showers,19,56,13
-51,52,2024-12-06T21:00:00,"09 PM, Fri Dec 06",25,46,18,74,6,W,snow,Chance Snow Showers,18,56,14
-52,53,2024-12-06T22:00:00,"10 PM, Fri Dec 06",25,46,18,74,6,W,snow,Chance Snow Showers,18,57,14
-53,54,2024-12-06T23:00:00,"11 PM, Fri Dec 06",25,46,18,74,6,W,snow,Chance Snow Showers,18,56,14
-54,55,2024-12-07T00:00:00,"12 AM, Sat Dec 07",25,46,18,74,6,W,snow,Chance Snow Showers,18,54,13
-55,56,2024-12-07T01:00:00,"01 AM, Sat Dec 07",25,54,18,74,6,W,snow,Chance Snow Showers,18,53,13
-56,57,2024-12-07T02:00:00,"02 AM, Sat Dec 07",25,54,18,74,6,W,snow,Chance Snow Showers,18,56,14
-57,58,2024-12-07T03:00:00,"03 AM, Sat Dec 07",24,54,18,77,7,W,snow,Chance Snow Showers,16,59,14
-58,59,2024-12-07T04:00:00,"04 AM, Sat Dec 07",23,54,18,81,7,W,snow,Chance Snow Showers,15,62,15
-59,60,2024-12-07T05:00:00,"05 AM, Sat Dec 07",23,54,18,81,7,W,snow,Chance Snow Showers,15,64,15
-60,61,2024-12-07T06:00:00,"06 AM, Sat Dec 07",22,54,19,88,7,W,snow,Chance Snow Showers,14,66,15
-61,62,2024-12-07T07:00:00,"07 AM, Sat Dec 07",23,48,19,84,7,W,snow,Chance Snow Showers,15,68,15
-62,63,2024-12-07T08:00:00,"08 AM, Sat Dec 07",25,48,20,81,8,W,snow,Chance Snow Showers,16,68,16
-63,64,2024-12-07T09:00:00,"09 AM, Sat Dec 07",27,48,22,81,8,W,snow,Chance Snow Showers,19,67,16
-64,65,2024-12-07T10:00:00,"10 AM, Sat Dec 07",29,48,23,78,9,W,snow,Chance Snow Showers,20,67,17
-65,66,2024-12-07T11:00:00,"11 AM, Sat Dec 07",30,48,23,75,9,W,snow,Chance Snow Showers,22,73,17
-66,67,2024-12-07T12:00:00,"12 PM, Sat Dec 07",31,48,24,75,9,W,snow,Chance Snow Showers,23,78,16
-67,68,2024-12-07T13:00:00,"01 PM, Sat Dec 07",32,39,24,72,9,W,snow,Chance Snow Showers,24,84,16
-68,69,2024-12-07T14:00:00,"02 PM, Sat Dec 07",32,39,24,72,8,W,snow,Chance Snow Showers,25,81,15
-69,70,2024-12-07T15:00:00,"03 PM, Sat Dec 07",32,39,24,72,7,W,snow,Chance Snow Showers,26,79,14
-70,71,2024-12-07T16:00:00,"04 PM, Sat Dec 07",31,39,24,75,6,W,snow,Chance Snow Showers,25,76,13
-71,72,2024-12-07T17:00:00,"05 PM, Sat Dec 07",31,39,24,75,5,W,snow,Chance Snow Showers,26,76,12
-72,73,2024-12-07T18:00:00,"06 PM, Sat Dec 07",29,39,23,78,5,W,snow,Chance Snow Showers,24,76,9
-73,74,2024-12-07T19:00:00,"07 PM, Sat Dec 07",28,26,23,81,3,SW,snow,Chance Snow Showers,24,76,8
-74,75,2024-12-07T20:00:00,"08 PM, Sat Dec 07",27,26,22,81,3,SW,snow,Chance Snow Showers,23,76,8
-75,76,2024-12-07T21:00:00,"09 PM, Sat Dec 07",27,26,22,81,5,SW,snow,Chance Snow Showers,22,76,9
-76,77,2024-12-07T22:00:00,"10 PM, Sat Dec 07",26,26,21,81,5,SW,snow,Chance Snow Showers,20,76,9
-77,78,2024-12-07T23:00:00,"11 PM, Sat Dec 07",25,26,21,84,5,SW,snow,Chance Snow Showers,19,75,9
-78,79,2024-12-08T00:00:00,"12 AM, Sun Dec 08",26,26,21,81,5,S,snow,Chance Snow Showers,20,75,10
-79,80,2024-12-08T01:00:00,"01 AM, Sun Dec 08",26,33,21,81,5,S,snow,Chance Snow Showers,20,74,10
-80,81,2024-12-08T02:00:00,"02 AM, Sun Dec 08",27,33,21,78,5,S,snow,Chance Snow Showers,22,75,12
-81,82,2024-12-08T03:00:00,"03 AM, Sun Dec 08",28,33,22,78,6,S,snow,Chance Snow Showers,22,76,12
-82,83,2024-12-08T04:00:00,"04 AM, Sun Dec 08",28,33,22,78,6,S,snow,Chance Snow Showers,22,77,13
-83,84,2024-12-08T05:00:00,"05 AM, Sun Dec 08",29,33,22,75,6,S,snow,Chance Snow Showers,23,74,13
-84,85,2024-12-08T06:00:00,"06 AM, Sun Dec 08",29,33,23,78,6,S,snow,Chance Snow Showers,23,72,14
-85,86,2024-12-08T07:00:00,"07 AM, Sun Dec 08",30,12,23,75,6,S,bkn,Partly Sunny,24,69,14
-86,87,2024-12-08T08:00:00,"08 AM, Sun Dec 08",32,12,25,75,7,S,bkn,Partly Sunny,26,69,14
-87,88,2024-12-08T09:00:00,"09 AM, Sun Dec 08",35,12,27,72,7,SW,bkn,Mostly Cloudy,29,70,15
-88,89,2024-12-08T10:00:00,"10 AM, Sun Dec 08",37,12,29,72,8,SW,bkn,Mostly Cloudy,31,70,15
-89,90,2024-12-08T11:00:00,"11 AM, Sun Dec 08",39,12,30,70,8,SW,bkn,Partly Sunny,33,67,15
-90,91,2024-12-08T12:00:00,"12 PM, Sun Dec 08",41,12,32,70,8,SW,bkn,Partly Sunny,36,64,16
-91,92,2024-12-08T13:00:00,"01 PM, Sun Dec 08",43,5,33,67,8,SW,bkn,Partly Sunny,38,61,16
-92,93,2024-12-08T14:00:00,"02 PM, Sun Dec 08",43,5,33,67,8,SW,bkn,Partly Sunny,38,56,16
-93,94,2024-12-08T15:00:00,"03 PM, Sun Dec 08",43,5,33,67,7,SW,bkn,Partly Sunny,39,52,15
-94,95,2024-12-08T16:00:00,"04 PM, Sun Dec 08",44,5,33,65,7,SW,sct,Mostly Sunny,40,47,15
-95,96,2024-12-08T17:00:00,"05 PM, Sun Dec 08",42,5,32,67,7,SW,sct,Mostly Sunny,38,48,14
-96,97,2024-12-08T18:00:00,"06 PM, Sun Dec 08",41,5,32,70,6,S,sct,Partly Cloudy,37,50,14
-97,98,2024-12-08T19:00:00,"07 PM, Sun Dec 08",40,7,31,70,6,S,bkn,Mostly Cloudy,36,51,13
-98,99,2024-12-08T20:00:00,"08 PM, Sun Dec 08",38,7,31,76,6,S,bkn,Mostly Cloudy,34,55,12
-99,100,2024-12-08T21:00:00,"09 PM, Sun Dec 08",38,7,31,76,5,S,bkn,Mostly Cloudy,34,58,12
-100,101,2024-12-08T22:00:00,"10 PM, Sun Dec 08",37,7,31,79,5,S,bkn,Mostly Cloudy,33,62,10
-101,102,2024-12-08T23:00:00,"11 PM, Sun Dec 08",37,7,32,82,5,S,bkn,Mostly Cloudy,33,64,10
-102,103,2024-12-09T00:00:00,"12 AM, Mon Dec 09",37,7,32,82,5,S,bkn,Mostly Cloudy,33,67,9
-103,104,2024-12-09T01:00:00,"01 AM, Mon Dec 09",37,34,33,85,5,S,snow,Chance Rain And Snow Showers,33,69,9
-104,105,2024-12-09T02:00:00,"02 AM, Mon Dec 09",36,34,33,89,5,S,snow,Chance Rain And Snow Showers,32,74,9
-105,106,2024-12-09T03:00:00,"03 AM, Mon Dec 09",36,34,33,89,6,S,snow,Chance Rain And Snow Showers,31,78,10
-106,107,2024-12-09T04:00:00,"04 AM, Mon Dec 09",36,34,33,89,6,S,snow,Chance Rain And Snow Showers,31,83,10
-107,108,2024-12-09T05:00:00,"05 AM, Mon Dec 09",35,34,33,92,6,S,snow,Chance Rain And Snow Showers,30,84,12
-108,109,2024-12-09T06:00:00,"06 AM, Mon Dec 09",36,34,34,92,6,S,snow,Chance Rain And Snow Showers,31,86,12
-109,110,2024-12-09T07:00:00,"07 AM, Mon Dec 09",36,65,34,92,6,S,rain_showers,Rain Showers Likely,31,87,13
-110,111,2024-12-09T08:00:00,"08 AM, Mon Dec 09",38,65,36,92,6,S,rain_showers,Rain Showers Likely,34,86,14
-111,112,2024-12-09T09:00:00,"09 AM, Mon Dec 09",41,65,38,89,7,S,rain_showers,Rain Showers Likely,36,85,14
-112,113,2024-12-09T10:00:00,"10 AM, Mon Dec 09",43,65,40,89,7,S,rain_showers,Rain Showers Likely,39,84,15
-113,114,2024-12-09T11:00:00,"11 AM, Mon Dec 09",44,65,41,89,8,S,rain_showers,Rain Showers Likely,39,86,16
-114,115,2024-12-09T12:00:00,"12 PM, Mon Dec 09",45,65,41,86,8,S,rain_showers,Rain Showers Likely,41,87,16
-115,116,2024-12-09T13:00:00,"01 PM, Mon Dec 09",46,78,42,86,9,S,rain_showers,Rain Showers,41,89,17
-116,117,2024-12-09T14:00:00,"02 PM, Mon Dec 09",47,78,42,83,9,S,rain_showers,Rain Showers,43,88,17
-117,118,2024-12-09T15:00:00,"03 PM, Mon Dec 09",47,78,42,83,9,S,rain_showers,Rain Showers,43,86,17
-118,119,2024-12-09T16:00:00,"04 PM, Mon Dec 09",48,78,42,80,9,S,rain_showers,Rain Showers,44,85,17
-119,120,2024-12-09T17:00:00,"05 PM, Mon Dec 09",46,78,42,86,8,S,rain_showers,Rain Showers,42,85,17
-120,121,2024-12-09T18:00:00,"06 PM, Mon Dec 09",46,78,41,83,8,S,rain_showers,Rain Showers,42,86,16
-121,122,2024-12-09T19:00:00,"07 PM, Mon Dec 09",45,60,41,86,7,S,rain_showers,Rain Showers Likely,41,86,16
-122,123,2024-12-09T20:00:00,"08 PM, Mon Dec 09",44,60,41,89,7,S,rain_showers,Rain Showers Likely,40,84,15
-123,124,2024-12-09T21:00:00,"09 PM, Mon Dec 09",43,60,40,89,6,S,rain_showers,Rain Showers Likely,39,83,15
-124,125,2024-12-09T22:00:00,"10 PM, Mon Dec 09",43,60,40,89,6,S,rain_showers,Rain Showers Likely,39,81,14
-125,126,2024-12-09T23:00:00,"11 PM, Mon Dec 09",43,60,40,89,6,S,rain_showers,Rain Showers Likely,39,80,14
-126,127,2024-12-10T00:00:00,"12 AM, Tue Dec 10",42,60,39,89,6,S,rain_showers,Rain Showers Likely,38,79,13
-127,128,2024-12-10T01:00:00,"01 AM, Tue Dec 10",42,43,39,89,6,S,rain_showers,Chance Rain Showers,38,78,13
-128,129,2024-12-10T02:00:00,"02 AM, Tue Dec 10",42,43,39,89,6,S,rain_showers,Chance Rain Showers,38,78,13
-129,130,2024-12-10T03:00:00,"03 AM, Tue Dec 10",42,43,39,89,6,S,rain_showers,Chance Rain Showers,38,79,13
-130,131,2024-12-10T04:00:00,"04 AM, Tue Dec 10",42,43,39,89,6,S,rain_showers,Chance Rain Showers,38,79,13
-131,132,2024-12-10T05:00:00,"05 AM, Tue Dec 10",41,43,39,92,6,S,rain_showers,Chance Rain Showers,37,79,13
-132,133,2024-12-10T06:00:00,"06 AM, Tue Dec 10",42,43,39,89,6,S,rain_showers,Chance Rain Showers,38,78,14
-133,134,2024-12-10T07:00:00,"07 AM, Tue Dec 10",42,39,39,89,6,S,rain_showers,Chance Rain Showers,38,78,14
-134,135,2024-12-10T08:00:00,"08 AM, Tue Dec 10",43,39,41,93,7,S,rain_showers,Chance Rain Showers,39,77,15
-135,136,2024-12-10T09:00:00,"09 AM, Tue Dec 10",45,39,43,93,7,S,rain_showers,Chance Rain Showers,41,77,15
-136,137,2024-12-10T10:00:00,"10 AM, Tue Dec 10",48,39,45,89,8,S,rain_showers,Chance Rain Showers,44,76,16
-137,138,2024-12-10T11:00:00,"11 AM, Tue Dec 10",50,39,45,83,9,S,rain_showers,Chance Rain Showers,46,78,16
-138,139,2024-12-10T12:00:00,"12 PM, Tue Dec 10",51,39,46,83,9,S,rain_showers,Chance Rain Showers,51,79,17
-139,140,2024-12-10T13:00:00,"01 PM, Tue Dec 10",53,61,46,77,10,S,rain_showers,Rain Showers Likely,53,81,17
-140,141,2024-12-10T14:00:00,"02 PM, Tue Dec 10",52,61,46,80,10,S,rain_showers,Rain Showers Likely,52,80,17
-141,142,2024-12-10T15:00:00,"03 PM, Tue Dec 10",51,61,45,80,9,S,rain_showers,Rain Showers Likely,51,78,16
-142,143,2024-12-10T16:00:00,"04 PM, Tue Dec 10",51,61,45,80,9,S,rain_showers,Rain Showers Likely,51,77,16
-143,144,2024-12-10T17:00:00,"05 PM, Tue Dec 10",49,61,44,83,8,S,rain_showers,Rain Showers Likely,46,78,16
-144,145,2024-12-10T18:00:00,"06 PM, Tue Dec 10",47,61,44,89,7,SW,rain_showers,Rain Showers Likely,44,78,15
-145,146,2024-12-10T19:00:00,"07 PM, Tue Dec 10",46,58,43,89,6,SW,rain_showers,Rain Showers Likely,43,79,15
-146,147,2024-12-10T20:00:00,"08 PM, Tue Dec 10",45,58,42,89,6,SW,rain_showers,Rain Showers Likely,42,77,14
-147,148,2024-12-10T21:00:00,"09 PM, Tue Dec 10",45,58,41,86,6,SW,rain_showers,Rain Showers Likely,42,74,14
-148,149,2024-12-10T22:00:00,"10 PM, Tue Dec 10",44,58,40,86,6,SW,rain_showers,Rain Showers Likely,41,72,13
-149,150,2024-12-10T23:00:00,"11 PM, Tue Dec 10",43,58,39,86,6,SW,rain_showers,Rain Showers Likely,39,70,13
-150,151,2024-12-11T00:00:00,"12 AM, Wed Dec 11",42,58,38,86,6,SW,rain_showers,Rain Showers Likely,38,69,12
-151,152,2024-12-11T01:00:00,"01 AM, Wed Dec 11",41,45,37,85,6,SW,rain_showers,Chance Rain Showers,37,67,12
-152,153,2024-12-11T02:00:00,"02 AM, Wed Dec 11",40,45,36,85,6,SW,rain_showers,Chance Rain Showers,36,69,12
-153,154,2024-12-11T03:00:00,"03 AM, Wed Dec 11",40,45,36,85,6,SW,rain_showers,Chance Rain Showers,36,72,12
-154,155,2024-12-11T04:00:00,"04 AM, Wed Dec 11",38,45,35,89,6,SW,rain_showers,Chance Rain Showers,34,74,12
-155,156,2024-12-11T05:00:00,"05 AM, Wed Dec 11",38,45,34,85,6,SW,rain_showers,Chance Rain Showers,34,76,12
+0,1,2025-02-10T01:00:00,"01 AM, Mon Feb 10",22,1,16,77,6,W,bkn,Mostly Cloudy,15,69,10
+1,2,2025-02-10T02:00:00,"02 AM, Mon Feb 10",21,1,15,77,6,W,bkn,Mostly Cloudy,13,63,10
+2,3,2025-02-10T03:00:00,"03 AM, Mon Feb 10",20,2,14,77,6,W,bkn,Mostly Cloudy,12,62,10
+3,4,2025-02-10T04:00:00,"04 AM, Mon Feb 10",19,3,14,80,6,W,bkn,Mostly Cloudy,11,59,10
+4,5,2025-02-10T05:00:00,"05 AM, Mon Feb 10",17,4,14,88,5,W,bkn,Mostly Cloudy,10,54,9
+5,6,2025-02-10T06:00:00,"06 AM, Mon Feb 10",17,6,13,84,5,W,sct,Mostly Sunny,10,50,10
+6,7,2025-02-10T07:00:00,"07 AM, Mon Feb 10",17,6,13,84,5,W,sct,Mostly Sunny,10,45,10
+7,8,2025-02-10T08:00:00,"08 AM, Mon Feb 10",19,7,14,80,6,W,sct,Mostly Sunny,11,44,13
+8,9,2025-02-10T09:00:00,"09 AM, Mon Feb 10",21,7,15,77,6,W,sct,Mostly Sunny,13,31,14
+9,10,2025-02-10T10:00:00,"10 AM, Mon Feb 10",24,6,17,74,7,W,sct,Mostly Sunny,16,41,14
+10,11,2025-02-10T11:00:00,"11 AM, Mon Feb 10",26,5,17,68,8,W,sct,Mostly Sunny,18,43,15
+11,12,2025-02-10T12:00:00,"12 PM, Mon Feb 10",28,3,17,63,8,W,bkn,Partly Sunny,20,55,15
+12,13,2025-02-10T13:00:00,"01 PM, Mon Feb 10",29,2,18,63,8,W,bkn,Partly Sunny,21,62,16
+13,14,2025-02-10T14:00:00,"02 PM, Mon Feb 10",28,2,17,63,8,W,bkn,Partly Sunny,20,62,15
+14,15,2025-02-10T15:00:00,"03 PM, Mon Feb 10",29,2,17,60,7,W,bkn,Partly Sunny,22,59,14
+15,16,2025-02-10T16:00:00,"04 PM, Mon Feb 10",28,2,17,63,6,W,bkn,Partly Sunny,22,58,12
+16,17,2025-02-10T17:00:00,"05 PM, Mon Feb 10",27,1,17,65,5,W,sct,Mostly Sunny,22,50,10
+17,18,2025-02-10T18:00:00,"06 PM, Mon Feb 10",24,1,15,68,3,W,sct,Partly Cloudy,20,37,7
+18,19,2025-02-10T19:00:00,"07 PM, Mon Feb 10",21,0,14,74,2,W,sct,Partly Cloudy,21,32,6
+19,20,2025-02-10T20:00:00,"08 PM, Mon Feb 10",19,0,13,77,2,W,few,Mostly Clear,19,24,6
+20,21,2025-02-10T21:00:00,"09 PM, Mon Feb 10",18,0,13,80,2,W,few,Mostly Clear,18,24,6
+21,22,2025-02-10T22:00:00,"10 PM, Mon Feb 10",18,0,12,77,2,W,few,Mostly Clear,18,25,5
+22,23,2025-02-10T23:00:00,"11 PM, Mon Feb 10",17,0,11,77,2,W,sct,Partly Cloudy,17,41,5
+23,24,2025-02-11T00:00:00,"12 AM, Tue Feb 11",16,0,11,80,2,SW,sct,Partly Cloudy,16,49,5
+24,25,2025-02-11T01:00:00,"01 AM, Tue Feb 11",16,1,11,80,2,SW,bkn,Mostly Cloudy,16,56,5
+25,26,2025-02-11T02:00:00,"02 AM, Tue Feb 11",15,1,11,84,2,SW,bkn,Mostly Cloudy,15,58,5
+26,27,2025-02-11T03:00:00,"03 AM, Tue Feb 11",15,1,12,88,2,SW,bkn,Mostly Cloudy,15,60,3
+27,28,2025-02-11T04:00:00,"04 AM, Tue Feb 11",15,3,12,88,2,SW,bkn,Mostly Cloudy,15,62,3
+28,29,2025-02-11T05:00:00,"05 AM, Tue Feb 11",14,3,12,92,2,SW,bkn,Mostly Cloudy,14,67,5
+29,30,2025-02-11T06:00:00,"06 AM, Tue Feb 11",16,3,13,88,2,S,bkn,Mostly Cloudy,16,73,6
+30,31,2025-02-11T07:00:00,"07 AM, Tue Feb 11",16,7,13,88,2,S,bkn,Mostly Cloudy,16,77,3
+31,32,2025-02-11T08:00:00,"08 AM, Tue Feb 11",19,7,14,80,3,S,bkn,Mostly Cloudy,14,78,5
+32,33,2025-02-11T09:00:00,"09 AM, Tue Feb 11",22,7,16,77,3,SW,bkn,Mostly Cloudy,17,80,6
+33,34,2025-02-11T10:00:00,"10 AM, Tue Feb 11",25,7,17,71,5,SW,bkn,Mostly Cloudy,19,82,7
+34,35,2025-02-11T11:00:00,"11 AM, Tue Feb 11",28,7,19,68,6,SW,bkn,Mostly Cloudy,22,83,8
+35,36,2025-02-11T12:00:00,"12 PM, Tue Feb 11",30,7,20,66,6,SW,bkn,Mostly Cloudy,24,85,8
+36,37,2025-02-11T13:00:00,"01 PM, Tue Feb 11",31,9,21,66,6,SW,bkn,Mostly Cloudy,25,86,8
+37,38,2025-02-11T14:00:00,"02 PM, Tue Feb 11",32,9,21,63,6,SW,bkn,Mostly Cloudy,26,86,8
+38,39,2025-02-11T15:00:00,"03 PM, Tue Feb 11",33,9,21,61,5,W,bkn,Mostly Cloudy,29,86,7
+39,40,2025-02-11T16:00:00,"04 PM, Tue Feb 11",32,9,21,63,3,W,bkn,Mostly Cloudy,29,86,6
+40,41,2025-02-11T17:00:00,"05 PM, Tue Feb 11",31,9,21,66,3,W,bkn,Mostly Cloudy,28,86,5
+41,42,2025-02-11T18:00:00,"06 PM, Tue Feb 11",28,9,20,71,2,W,bkn,Mostly Cloudy,28,85,3
+42,43,2025-02-11T19:00:00,"07 PM, Tue Feb 11",25,17,20,81,1,W,snow,Slight Chance Light Snow,25,85,2
+43,44,2025-02-11T20:00:00,"08 PM, Tue Feb 11",23,17,19,84,1,W,snow,Slight Chance Light Snow,23,84,2
+44,45,2025-02-11T21:00:00,"09 PM, Tue Feb 11",22,17,18,84,1,W,snow,Slight Chance Light Snow,22,83,2
+45,46,2025-02-11T22:00:00,"10 PM, Tue Feb 11",20,17,18,92,1,NW,snow,Slight Chance Light Snow,20,82,2
+46,47,2025-02-11T23:00:00,"11 PM, Tue Feb 11",19,17,17,92,1,NW,snow,Slight Chance Light Snow,19,81,2
+47,48,2025-02-12T00:00:00,"12 AM, Wed Feb 12",19,17,16,88,2,N,snow,Slight Chance Light Snow,19,79,2
+48,49,2025-02-12T01:00:00,"01 AM, Wed Feb 12",18,11,16,92,2,N,bkn,Mostly Cloudy,18,78,3
+49,50,2025-02-12T02:00:00,"02 AM, Wed Feb 12",17,11,14,88,2,N,bkn,Mostly Cloudy,17,78,3
+50,51,2025-02-12T03:00:00,"03 AM, Wed Feb 12",17,11,13,84,2,N,bkn,Mostly Cloudy,17,78,2
+51,52,2025-02-12T04:00:00,"04 AM, Wed Feb 12",16,11,12,84,2,N,bkn,Mostly Cloudy,16,78,2
+52,53,2025-02-12T05:00:00,"05 AM, Wed Feb 12",14,11,12,92,1,N,bkn,Mostly Cloudy,14,78,2
+53,54,2025-02-12T06:00:00,"06 AM, Wed Feb 12",13,11,11,91,1,N,bkn,Mostly Cloudy,13,78,2
+54,55,2025-02-12T07:00:00,"07 AM, Wed Feb 12",13,11,11,91,1,NE,bkn,Mostly Cloudy,13,78,2
+55,56,2025-02-12T08:00:00,"08 AM, Wed Feb 12",15,11,12,88,2,NE,bkn,Mostly Cloudy,15,78,2
+56,57,2025-02-12T09:00:00,"09 AM, Wed Feb 12",18,11,14,84,2,NE,bkn,Mostly Cloudy,18,78,3
+57,58,2025-02-12T10:00:00,"10 AM, Wed Feb 12",21,11,15,77,2,NE,bkn,Mostly Cloudy,21,78,3
+58,59,2025-02-12T11:00:00,"11 AM, Wed Feb 12",24,11,17,74,2,NE,bkn,Mostly Cloudy,24,78,5
+59,60,2025-02-12T12:00:00,"12 PM, Wed Feb 12",27,11,19,71,3,E,bkn,Mostly Cloudy,23,79,5
+60,61,2025-02-12T13:00:00,"01 PM, Wed Feb 12",29,23,20,69,3,E,snow,Slight Chance Light Snow,25,79,5
+61,62,2025-02-12T14:00:00,"02 PM, Wed Feb 12",30,23,21,69,3,E,snow,Slight Chance Light Snow,26,80,5
+62,63,2025-02-12T15:00:00,"03 PM, Wed Feb 12",30,23,21,69,3,E,snow,Slight Chance Light Snow,26,82,5
+63,64,2025-02-12T16:00:00,"04 PM, Wed Feb 12",30,23,21,69,3,E,snow,Slight Chance Light Snow,26,84,5
+64,65,2025-02-12T17:00:00,"05 PM, Wed Feb 12",28,23,21,75,3,E,snow,Slight Chance Light Snow,24,86,5
+65,66,2025-02-12T18:00:00,"06 PM, Wed Feb 12",27,23,21,78,3,E,snow,Slight Chance Light Snow,23,87,5
+66,67,2025-02-12T19:00:00,"07 PM, Wed Feb 12",26,87,21,81,3,E,snow,Light Snow,22,89,5
+67,68,2025-02-12T20:00:00,"08 PM, Wed Feb 12",25,87,21,84,5,SE,snow,Light Snow,19,89,6
+68,69,2025-02-12T21:00:00,"09 PM, Wed Feb 12",24,87,22,92,6,SE,snow,Light Snow,17,90,8
+69,70,2025-02-12T22:00:00,"10 PM, Wed Feb 12",24,87,22,92,7,SE,snow,Light Snow,16,90,9
+70,71,2025-02-12T23:00:00,"11 PM, Wed Feb 12",25,87,22,88,8,SE,snow,Light Snow,16,90,12
+71,72,2025-02-13T00:00:00,"12 AM, Thu Feb 13",26,87,23,88,9,SE,snow,Light Snow,17,90,13
+72,73,2025-02-13T01:00:00,"01 AM, Thu Feb 13",27,94,24,88,10,SE,snow,Light Snow,17,91,15
+73,74,2025-02-13T02:00:00,"02 AM, Thu Feb 13",28,94,24,85,10,SE,snow,Light Snow,19,91,16
+74,75,2025-02-13T03:00:00,"03 AM, Thu Feb 13",29,94,25,85,12,SE,snow,Light Snow,19,91,17
+75,76,2025-02-13T04:00:00,"04 AM, Thu Feb 13",30,94,26,85,13,SE,sleet,Light Snow,20,91,18
+76,77,2025-02-13T05:00:00,"05 AM, Thu Feb 13",31,94,27,85,13,SE,sleet,Light Snow,21,91,20
+77,78,2025-02-13T06:00:00,"06 AM, Thu Feb 13",32,94,28,85,13,SE,sleet,Light Snow,23,91,20
+78,79,2025-02-13T07:00:00,"07 AM, Thu Feb 13",33,41,29,85,13,SE,rain_fzra,Chance Freezing Rain,24,91,20
+79,80,2025-02-13T08:00:00,"08 AM, Thu Feb 13",35,41,31,85,13,S,rain_fzra,Chance Freezing Rain,26,90,20
+80,81,2025-02-13T09:00:00,"09 AM, Thu Feb 13",37,41,32,82,13,S,rain_fzra,Chance Freezing Rain,29,89,20
+81,82,2025-02-13T10:00:00,"10 AM, Thu Feb 13",39,41,34,82,13,S,rain,Chance Light Rain,31,88,18
+82,83,2025-02-13T11:00:00,"11 AM, Thu Feb 13",41,41,35,79,12,S,rain,Chance Light Rain,34,87,17
+83,84,2025-02-13T12:00:00,"12 PM, Thu Feb 13",42,41,36,79,12,SW,rain,Chance Light Rain,36,87,16
+84,85,2025-02-13T13:00:00,"01 PM, Thu Feb 13",42,23,37,82,10,SW,rain,Slight Chance Light Rain,36,86,16
+85,86,2025-02-13T14:00:00,"02 PM, Thu Feb 13",42,23,35,76,10,SW,rain,Slight Chance Light Rain,36,86,15
+86,87,2025-02-13T15:00:00,"03 PM, Thu Feb 13",40,23,34,79,9,SW,rain,Slight Chance Light Rain,34,85,15
+87,88,2025-02-13T16:00:00,"04 PM, Thu Feb 13",38,23,31,76,9,W,rain,Slight Chance Light Rain,32,85,14
+88,89,2025-02-13T17:00:00,"05 PM, Thu Feb 13",35,23,29,78,9,W,rain_showers,Slight Chance Rain Showers,28,85,14
+89,90,2025-02-13T18:00:00,"06 PM, Thu Feb 13",32,23,26,78,9,W,snow,Slight Chance Snow Showers,24,85,13
+90,91,2025-02-13T19:00:00,"07 PM, Thu Feb 13",28,19,24,85,8,W,snow,Slight Chance Snow Showers,20,84,13
+91,92,2025-02-13T20:00:00,"08 PM, Thu Feb 13",26,19,22,85,8,W,snow,Slight Chance Snow Showers,18,83,13
+92,93,2025-02-13T21:00:00,"09 PM, Thu Feb 13",24,19,21,88,9,W,snow,Slight Chance Snow Showers,14,81,13
+93,94,2025-02-13T22:00:00,"10 PM, Thu Feb 13",23,19,19,84,9,W,snow,Slight Chance Snow Showers,13,80,13
+94,95,2025-02-13T23:00:00,"11 PM, Thu Feb 13",23,19,18,81,9,W,snow,Slight Chance Snow Showers,13,78,14
+95,96,2025-02-14T00:00:00,"12 AM, Fri Feb 14",22,19,17,81,9,W,snow,Slight Chance Snow Showers,12,77,14
+96,97,2025-02-14T01:00:00,"01 AM, Fri Feb 14",22,20,16,77,9,W,snow,Slight Chance Snow Showers,12,75,14
+97,98,2025-02-14T02:00:00,"02 AM, Fri Feb 14",21,20,15,77,9,W,snow,Slight Chance Snow Showers,11,75,14
+98,99,2025-02-14T03:00:00,"03 AM, Fri Feb 14",21,20,14,74,9,W,snow,Slight Chance Snow Showers,11,74,14
+99,100,2025-02-14T04:00:00,"04 AM, Fri Feb 14",20,20,14,77,9,W,snow,Slight Chance Snow Showers,9,74,14
+100,101,2025-02-14T05:00:00,"05 AM, Fri Feb 14",18,20,13,80,9,W,snow,Slight Chance Snow Showers,7,73,13
+101,102,2025-02-14T06:00:00,"06 AM, Fri Feb 14",17,20,13,84,8,W,snow,Slight Chance Snow Showers,7,73,13
+102,103,2025-02-14T07:00:00,"07 AM, Fri Feb 14",17,13,13,84,9,W,bkn,Mostly Cloudy,6,72,13
+103,104,2025-02-14T08:00:00,"08 AM, Fri Feb 14",18,13,13,80,9,W,bkn,Mostly Cloudy,7,72,14
+104,105,2025-02-14T09:00:00,"09 AM, Fri Feb 14",20,13,13,74,9,W,bkn,Mostly Cloudy,9,72,14
+105,106,2025-02-14T10:00:00,"10 AM, Fri Feb 14",23,13,13,65,10,NW,bkn,Mostly Cloudy,12,72,15
+106,107,2025-02-14T11:00:00,"11 AM, Fri Feb 14",25,13,14,62,10,NW,bkn,Mostly Cloudy,15,72,15
+107,108,2025-02-14T12:00:00,"12 PM, Fri Feb 14",26,13,14,60,10,NW,bkn,Mostly Cloudy,16,72,16
+108,109,2025-02-14T13:00:00,"01 PM, Fri Feb 14",27,8,15,60,10,NW,bkn,Mostly Cloudy,17,72,16
+109,110,2025-02-14T14:00:00,"02 PM, Fri Feb 14",27,8,14,57,9,NW,bkn,Mostly Cloudy,18,72,14
+110,111,2025-02-14T15:00:00,"03 PM, Fri Feb 14",26,8,14,60,8,NW,bkn,Mostly Cloudy,18,72,13
+111,112,2025-02-14T16:00:00,"04 PM, Fri Feb 14",25,8,14,62,7,NW,bkn,Mostly Cloudy,17,71,10
+112,113,2025-02-14T17:00:00,"05 PM, Fri Feb 14",23,8,13,65,6,NW,bkn,Mostly Cloudy,16,71,8
+113,114,2025-02-14T18:00:00,"06 PM, Fri Feb 14",20,8,13,74,5,NW,bkn,Mostly Cloudy,13,71,7
+114,115,2025-02-14T19:00:00,"07 PM, Fri Feb 14",18,11,13,80,3,NW,bkn,Mostly Cloudy,13,70,6
+115,116,2025-02-14T20:00:00,"08 PM, Fri Feb 14",17,11,12,80,3,W,bkn,Mostly Cloudy,12,71,5
+116,117,2025-02-14T21:00:00,"09 PM, Fri Feb 14",16,11,12,84,2,W,bkn,Mostly Cloudy,16,72,3
+117,118,2025-02-14T22:00:00,"10 PM, Fri Feb 14",15,11,11,84,2,W,bkn,Mostly Cloudy,15,72,3
+118,119,2025-02-14T23:00:00,"11 PM, Fri Feb 14",14,11,11,88,2,SW,bkn,Mostly Cloudy,14,73,3
+119,120,2025-02-15T00:00:00,"12 AM, Sat Feb 15",13,11,11,91,2,SW,bkn,Mostly Cloudy,13,74,3
+120,121,2025-02-15T01:00:00,"01 AM, Sat Feb 15",13,13,11,91,2,SW,bkn,Mostly Cloudy,13,74,3
+121,122,2025-02-15T02:00:00,"02 AM, Sat Feb 15",13,13,11,91,2,SW,bkn,Mostly Cloudy,13,76,5
+122,123,2025-02-15T03:00:00,"03 AM, Sat Feb 15",14,13,11,88,3,S,bkn,Mostly Cloudy,8,78,5
+123,124,2025-02-15T04:00:00,"04 AM, Sat Feb 15",14,13,11,88,3,S,bkn,Mostly Cloudy,8,80,6
+124,125,2025-02-15T05:00:00,"05 AM, Sat Feb 15",15,13,11,84,5,S,bkn,Mostly Cloudy,8,82,6
+125,126,2025-02-15T06:00:00,"06 AM, Sat Feb 15",15,13,12,88,5,S,bkn,Mostly Cloudy,8,83,7
+126,127,2025-02-15T07:00:00,"07 AM, Sat Feb 15",16,33,13,88,5,S,snow,Chance Light Snow,9,85,8
+127,128,2025-02-15T08:00:00,"08 AM, Sat Feb 15",18,33,14,84,6,S,snow,Chance Light Snow,10,86,9
+128,129,2025-02-15T09:00:00,"09 AM, Sat Feb 15",22,33,15,74,7,S,snow,Chance Light Snow,14,86,10
+129,130,2025-02-15T10:00:00,"10 AM, Sat Feb 15",25,33,17,71,7,S,snow,Chance Light Snow,17,86,12
+130,131,2025-02-15T11:00:00,"11 AM, Sat Feb 15",28,33,18,66,8,S,snow,Chance Light Snow,20,87,12
+131,132,2025-02-15T12:00:00,"12 PM, Sat Feb 15",30,33,20,66,8,S,snow,Chance Light Snow,22,87,13
+132,133,2025-02-15T13:00:00,"01 PM, Sat Feb 15",32,49,21,63,9,S,snow,Chance Light Snow,24,88,13
+133,134,2025-02-15T14:00:00,"02 PM, Sat Feb 15",34,49,22,61,8,S,snow,Chance Light Snow,27,88,13
+134,135,2025-02-15T15:00:00,"03 PM, Sat Feb 15",34,49,22,61,8,S,snow,Chance Light Snow,27,88,12
+135,136,2025-02-15T16:00:00,"04 PM, Sat Feb 15",34,49,23,64,7,S,snow,Chance Light Snow,28,88,12
+136,137,2025-02-15T17:00:00,"05 PM, Sat Feb 15",33,49,23,66,7,S,snow,Chance Light Snow,27,88,10
+137,138,2025-02-15T18:00:00,"06 PM, Sat Feb 15",31,49,23,72,6,S,snow,Chance Light Snow,25,88,9
+138,139,2025-02-15T19:00:00,"07 PM, Sat Feb 15",30,54,23,75,6,S,snow,Chance Light Snow,24,88,8
+139,140,2025-02-15T20:00:00,"08 PM, Sat Feb 15",29,54,23,78,6,S,snow,Chance Light Snow,23,88,8
+140,141,2025-02-15T21:00:00,"09 PM, Sat Feb 15",28,54,23,81,6,SE,snow,Chance Light Snow,22,88,8
+141,142,2025-02-15T22:00:00,"10 PM, Sat Feb 15",28,54,24,85,6,SE,snow,Chance Light Snow,22,88,8
+142,143,2025-02-15T23:00:00,"11 PM, Sat Feb 15",27,54,24,88,5,SE,snow,Chance Light Snow,22,88,8
+143,144,2025-02-16T00:00:00,"12 AM, Sun Feb 16",26,54,24,92,5,SE,snow,Chance Light Snow,20,88,8
+144,145,2025-02-16T01:00:00,"01 AM, Sun Feb 16",26,64,24,92,5,SE,snow,Light Snow Likely,20,88,7
+145,146,2025-02-16T02:00:00,"02 AM, Sun Feb 16",25,64,24,96,5,S,snow,Light Snow Likely,19,88,7
+146,147,2025-02-16T03:00:00,"03 AM, Sun Feb 16",24,64,24,100,5,S,snow,Light Snow Likely,18,88,6
+147,148,2025-02-16T04:00:00,"04 AM, Sun Feb 16",23,64,23,100,3,SW,snow,Light Snow Likely,18,88,6
+148,149,2025-02-16T05:00:00,"05 AM, Sun Feb 16",23,64,23,100,3,W,snow,Light Snow Likely,18,89,5
+149,150,2025-02-16T06:00:00,"06 AM, Sun Feb 16",23,64,23,100,3,NW,snow,Light Snow Likely,18,89,5
+150,151,2025-02-16T07:00:00,"07 AM, Sun Feb 16",24,65,24,100,3,NW,snow,Light Snow Likely,20,89,5
+151,152,2025-02-16T08:00:00,"08 AM, Sun Feb 16",25,65,24,96,3,NW,snow,Light Snow Likely,21,89,6
+152,153,2025-02-16T09:00:00,"09 AM, Sun Feb 16",28,65,25,88,5,NW,snow,Light Snow Likely,23,89,8
+153,154,2025-02-16T10:00:00,"10 AM, Sun Feb 16",30,65,25,81,6,NW,snow,Light Snow Likely,24,89,9
+154,155,2025-02-16T11:00:00,"11 AM, Sun Feb 16",31,65,25,78,7,NW,snow,Light Snow Likely,24,89,12
+155,156,2025-02-16T12:00:00,"12 PM, Sun Feb 16",32,65,25,75,8,NW,snow,Light Snow Likely,25,89,13
